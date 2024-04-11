@@ -1,0 +1,151 @@
+
+<link href="/responsive/confirm/jquery-confirm.min.css" rel="stylesheet" >
+<script src="/responsive/confirm/jquery-confirm.min.js"></script>
+<style>
+.jconfirm-content div{
+font-size: 15px;
+}
+</style>
+
+<script>
+
+	function alertExclamation(argTitulo, argTexto){
+		$.alert({
+			title: argTitulo,icon:'fas fa-exclamation-triangle',
+			content: argTexto,
+				onOpen: function(){
+					var offset = $(".jconfirm-box").offset();
+					$('html, body', window.parent.document).animate({
+						scrollTop: offset.top,
+						scrollLeft: offset.left
+					}, 'slow');
+				},
+			//columnClass: 'large',containerFluid: true,titleClass:'alert alert-secondary',
+			closeIcon: false,
+			buttons: {
+				Aceptar: {
+							btnClass: 'btn-primary',
+							action: function () {}
+						}
+			}
+		});
+	}
+
+	function alertSuccess(argTitulo, argTexto){
+		$.alert({
+			title: argTitulo,icon:'fas fa-check',
+			content: argTexto,
+				onOpen: function(){
+					var offset = $(".jconfirm-box").offset();
+					$('html, body', window.parent.document).animate({
+						scrollTop: offset.top,
+						scrollLeft: offset.left
+					}, 'slow');
+				},
+			//columnClass: 'large',containerFluid: true,titleClass:'alert alert-secondary',
+			closeIcon: false,
+			buttons: {
+				Aceptar: {
+							btnClass: 'btn-primary',
+							action: function () {}
+						}
+			}
+		});
+	}
+
+	function alertSinIcono(argTitulo, argTexto){
+		$.alert({
+			title: argTitulo,
+			content: argTexto,
+				onOpen: function(){
+					var offset = $(".jconfirm-box").offset();
+					$('html, body', window.parent.document).animate({
+						scrollTop: offset.top,
+						scrollLeft: offset.left
+					}, 'slow');
+				},
+			//columnClass: 'large',containerFluid: true,titleClass:'alert alert-secondary',
+			closeIcon: false,
+			buttons: {
+				Aceptar: {
+							btnClass: 'btn-primary',
+							action: function () {}
+						}
+			}
+		});
+	}
+	function alertSoloTexto(argTexto){
+		$.alert({
+			title: '',
+			content: argTexto,
+				onOpen: function(){
+					var offset =$(".jconfirm-box").offset();
+					$('html, body', window.parent.document).animate({
+						scrollTop: offset.top,
+						scrollLeft: offset.left
+					}, 'slow');
+				},
+			//columnClass: 'large',containerFluid: true,titleClass:'alert alert-secondary',
+			closeIcon: false,
+			buttons: {
+				Aceptar: {
+							btnClass: 'btn-primary',
+							action: function () {}
+						}
+			}
+		});
+	}
+	function alertLarge(argTitulo,  argTexto){
+		$.alert({
+			title: argTitulo,
+			content: argTexto,
+				onOpen: function(){
+					var offset = $(".jconfirm-box").offset();
+					$('html, body', window.parent.document).animate({
+						scrollTop: offset.top,
+						scrollLeft: offset.left
+					}, 'slow');
+				},
+			columnClass: 'large',containerFluid: true,titleClass:'alert alert-secondary',
+			closeIcon: false,
+			buttons: {
+				Aceptar: {
+							btnClass: 'btn-primary',
+							action: function () {}
+						}
+			}
+		});
+	}
+	
+	/*
+	EJEMPLO DE CONFIRM
+
+		$.confirm({
+			title: '',
+			content: '',
+				onOpen: function(){
+					var offset = $(".jconfirm-box").offset();
+					$('html, body', window.parent.document).animate({
+						scrollTop: offset.top,
+						scrollLeft: offset.left
+					}, 'slow');
+				},
+			//type: 'blue',
+			columnClass: 'small',
+			buttons: {
+				Ok: {
+					btnClass: 'btn-info',
+					action:function () {
+					}
+				},
+				Cancelar: {
+					btnClass: 'btn-info',
+					action: function () {
+						
+					}
+				}
+			}
+		});
+		
+	*/
+</script>

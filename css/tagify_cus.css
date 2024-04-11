@@ -1,0 +1,64 @@
+.tag-cus{
+    --tag-bg                  : #001145;
+    --tag-hover               : #E70B77;
+    --tag-text-color          : #FFFFFF;
+    --tags-border-color       : #001145;
+    --tag-border-radius       : 30px;
+    --tag-text-color--edit    : #111;
+    --tag-remove-bg           : var(--tag-hover);
+    --tag-pad                 : 12px;
+    --tag-inset-shadow-size   : 2em;
+    --tag-remove-btn-bg--hover: black;
+    --tag-remove-btn-bg--hover:var(--tag-bg);
+    min-width: 80%;
+    max-width: 80%;
+    min-height: 72px ;
+    font-size: 12px;
+    font-family: 'Poppins Regular';
+    
+}
+
+.tagify{
+    border-radius: 20px;
+}
+
+.tagify__tag{
+    margin-top: 10px !important;
+    margin-left: 10px !important;
+}
+.tags-contenedor{
+    flex-wrap: wrap;
+    align-items: center;
+}
+.tagify__tag__removeBtn{
+    background-color: var(--tag-hover);
+    color: white;
+    margin-left: 1px !important;
+    transform: none;
+    opacity: 1;
+    margin-right: 10px;
+  }
+
+  .tagify__tag > div{
+    padding: 5px;
+  }
+
+.add-tag{
+    width: 25px;
+    height: 25px;
+    background-color: #E70B77;
+    color: white;
+    font-size: 19px;
+    font-family: 'Poppins Regular';
+    border: 0;
+    border-radius: 50%;
+    transition: .1s ease-out;
+    vertical-align: middle;
+    margin: 0 auto !important;
+    padding: 0px;
+  }
+
+  .add-tag:hover{
+    background-color: #001145;
+    outline: 0;
+  }

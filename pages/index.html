@@ -1,0 +1,922 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.css" rel="stylesheet"
+        type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+    <script src="../js/org-chart/functions.js?v=3"></script>
+
+
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/skeleton.css?v=3">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="../css/fontawesome/css/fontawesome.css" rel="stylesheet">
+    <link href="../css/fontawesome/css/brands.css" rel="stylesheet">
+    <link href="../css/fontawesome/css/solid.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="../js/llamadaGenChart.js?v=2"></script>
+    <script src="../js/org-chart/functions.js?v=2"></script>
+
+    <script src="https://unpkg.com/html2canvas@1.1.4/dist/html2canvas.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-org-chart@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+    <!-- jquery modal  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- Tagify -->
+    <script src="../responsive/tagify/dist/tagify.js"></script>
+
+    <link rel="stylesheet" href="../responsive/tagify/dist/tagify_test.css?V=3" />
+    <link rel="stylesheet" href="../css/tagify_cus.css?V=3" />
+
+    <!-- JCONFIRM -->
+    <link rel="stylesheet" href="../responsive/confirm/jquery-confirm.min.css">
+    <script src="../responsive/confirm/jquery-confirm.min.js"></script>
+
+    <!--Estilos de Perfiles-->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/ver_perfil.css?v=3">
+
+</head>
+
+<body>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-org-chart@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+    <script src="../js/gen-chart/functions-gen.js"></script>
+    <script src="../js/cargaDatos.js"></script>
+
+
+    <section>
+        <div class="spinner"></div>
+
+        <div class="container ">
+            <div class="row">
+                <div>
+                    <button class="btn-show-menu" style="display: none;" onclick="mostrarMenu()">></button>
+                </div>
+                <div id="left-menu" class="col-md-3 col-lg-3 col-sm-12 z-index-a">
+                    <div class="menu-container">
+                        <div class="row">
+
+                            <div class="col-12 d-flex title-menu">
+                                <img class="chart-icon" src="../icons/org.png" alt="">
+                                <h2 class="h2-menu">Organigramas</h2>
+                                <button class="btn-close-menu" onclick="ocultarMenu()">X</button>
+                            </div>
+                            <div class="col-12 d-flex justify-content-center">
+                                <p class="chart-menu-p p-4">
+                                    Consultá información sobre las unidades de Organigrama: sus responsables y
+                                    colaboradores que ocupan una posición. Realizá búsquedas por unidad o por
+                                    colaborador y organizalas por nombre o lugar de trabajo.
+                                </p>
+
+
+                            </div>
+
+                            <details class="tree-nav__item is-expandable" id="menu">
+
+                            </details>
+
+                            <div style="width: 87% !important;" class="ml-4" id="menu-wu">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="right-container" class="col-md-8 col-lg-8 col-sm-12">
+                    <div id="agrupador" class="agrupador">
+                        <div class="chart-container" style="width: 100% !important; background-color: #D9D9D9">
+
+                        </div>
+                        <div class="search-container ">
+                            <div class="search-box">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input id="inputName" type="text" class="input-search" placeholder="Colaborador"
+                                    oninput="filterChart(event)"></input>
+                            </div>
+                            <div class="search-box">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input id="inputWu" type="text" class="input-search" placeholder="Unidad de Organigrama"
+                                    oninput="filterChart(event)"></input>
+                            </div>
+                            <div class="search-box">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input id="inputPalabrasClave" type="text" class="input-search"
+                                    placeholder="Buscar por palabra clave" oninput="filterChart(event)"></input>
+                            </div>
+                        </div>
+                        <div id="agrupador-desc-wu" class="descripcion-wu d-none">
+                            <div id="btn-close-wu" class="btn-close-wu">
+                                <i class="fa-solid fa-xmark"></i>
+                            </div>
+                            <div class="title-desc">
+                                <p id="nombre-wu" class="pt-2 ml-2 mb-0"></p>
+                                <button class="btn-edit d-none"><i class="fa-solid fa-pen-to-square"></i></button>
+                            </div>
+                            <div class="block-desc">
+                                <textarea id="desc-wu" disabled class="textarea-desc"></textarea>
+                            </div>
+                            <div class="d-flex justify-content-center mt-1 mb-1">
+                                <button id="grabaDescWu" class="guardar-wu mb-1 d-none">Guardar</button>
+                            </div>
+                        </div>
+                        <div class="container pr-4 expanded-button-group">
+                            <div class="row" style="pointer-events: none;">
+                                <div class="col-6 d-flex button-div-left">
+                                    <div class="ml-2">
+                                        <button style="pointer-events: all;" id="descripcion-wu" class="button-float">
+                                            <i class="fa-solid fa-info" style="padding: 0px 7px !important"></i>
+                                            <span>Descripción de Equipo</span>
+                                        </button>
+                                    </div>
+                                    <div class="ml-2 pt-3">
+                                        <button style="pointer-events: all;" class="button-float"
+                                            onclick="chart.collapseAll().fit()">
+                                            <i class="fa-solid fa-minimize" style="padding: 0px 2px !important;"></i>
+                                            <span>Comprimir</span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="col-6 d-flex button-div-right">
+                                    <div class="mr-2 ">
+                                        <button style="pointer-events: all;"
+                                            onclick="chart.setHighlighted('13892').render();" class="button-float">
+                                            <i class="fa-regular fa-location-dot"></i>
+                                            <span>Find Me</span>
+                                        </button>
+                                    </div>
+                                    <div class="mr-2 pt-3">
+                                        <button style="pointer-events: all;" onclick="chart.fullscreen()"
+                                            class="button-float ">
+                                            <i class="fa-solid fa-expand" style="padding: 0px 4px !important;"></i>
+                                            <span>Expandir</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="container-chart">
+
+        </div>
+
+    </section>
+
+
+    <div class="modal fade modal-lg p-0" id="modal-principal" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalLabel" aria-hidden="true" style="height: 1000px !important;
+    overflow-y: scroll !important;">
+        <div class="modal-dialog modal-lg" style="height: auto!important;">
+            <div class="modal-content" style="height: auto !important; height: inherit! important;border: none;">
+                <div class="modal-body" style="height: auto !important;" id="modalPerfil">
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <script>
+            var activeUser = 13892;
+            // console.log(activeUser)
+
+            let wuJSON = arrayMenu;
+            console.log(wuJSON[0])
+
+
+            // console.log(arrayMenu)
+            const nodeMap = {};
+
+            arrayMenu.forEach(node => {
+                nodeMap[node.id] = {
+                    id: node.id,
+                    nombre: node.nombre,
+                    desc: node.desc,
+                    responsable: node.responsable,
+                    children: []
+                };
+            });
+
+
+            const root = [];
+            arrayMenu.forEach(node => {
+                if (node.parent && nodeMap[node.parent]) {
+                    nodeMap[node.parent].children.push(nodeMap[node.id]);
+                } else {
+                    root.push(nodeMap[node.id]);
+                }
+            });
+
+
+
+            //details: es una lista desplegable de elementos.
+            //summary: indica un título de una lista details.
+
+
+            function buildMenu(node, parentElement) {
+
+                const summary = document.createElement("summary"); //creo el summary que representa el título o nombre para cada work-unit.
+                summary.classList.add("tree-nav__item-title");
+                summary.id = node.id;
+                const a = document.createElement("a"); //le asigno un link a esa work-unit.
+                a.textContent = node.nombre;
+
+                let id_wu = encontrarParentIdPorIdWu(node.id)
+                if (id_wu) {
+                    a.href = "javascript:return false;"
+                    a.onclick = function (event) { // tuve que aplicar esto para que no se ejecute el onclick cuando inicia (IMPORTANTE)
+                        event.preventDefault();
+                        generarChartxWu(node.id, node.nombre, node.desc, node.responsable); // Esta funcion se encuentra en js/orgChart/functions.js, esta hecho asi debido a que es la pagina principal del proyecto
+
+                    };
+                }
+
+                summary.appendChild(a); //asocio ese ancla a su summary.
+
+
+                parentElement.appendChild(summary); //asocio ese summary al elemento padre (un details), para que figure como elemento de esa lista.
+                if (node.children.length > 0) { //si el nodo actual tiene hijos, ese nodo va a tener una sublista details con las work-unit hijas.
+                    node.children.forEach(childNode => { //para cada uno de esos hijos:
+                        const details = document.createElement("details"); //creo un detail para el hijo actual.
+                        details.name = node.id; // AL USAR NAME IGUALES NO PUEDEN HABER 2 IGUALES ABIERTOS AL MISMO TIEMPO
+                        details.classList.add('tree-nav__item');
+                        details.classList.add('is-expandable');
+                        buildMenu(childNode, details); //llamo recursivamente esta función para crear el summary de la work-unit hija y, si tiene hijos, crear otra sublista details.
+                        parentElement.appendChild(details); //luego de tener la sublista finalizada, se la asocio a la lista padre, teniendo una lista de sublistas.
+                    });
+                }
+            }
+
+
+
+
+            const menuElement = document.getElementById("menu"); // solo por el momento, debido a que me trae otras wu que no son necesarias. solo escoje EXECUTIVE AREA
+            //root[0].forEach(node => { // recorro todos los padres, me quedo solo con executive area.
+            //buildMenu(node, menuElement);// llamo a la funcion recursiva.
+            //});
+            buildMenu(root[0], menuElement)
+            // console.log(root[0])
+            let exo = document.getElementById("menu")
+            exo.open = true;
+            nameAndDescriptionWu(root[0].nombre, root[0].desc, root[0].responsable)
+
+
+
+        </script>
+
+        <script>
+
+            // traer el archivo json y asociarlo a la variable txtOrg. Fijarse si lo necesita en formato string o json
+
+            let txtOrg = arrayCompleto;
+
+            let prueba = Array.from(txtOrg)
+
+            let organigrama = JSON.parse(JSON.stringify(txtOrg));
+            // console.log(prueba)
+
+            var index = 0;
+            var compact = 0;
+            var d3;
+
+            var chart;
+
+
+            //d3.csv('https://raw.githubusercontent.com/bumbeishvili/sample-data/main/org.csv')
+            //.then((dataFlattened) => {
+            //console.log(dataFlattened)
+
+            chart = new d3.OrgChart()
+                .container('.chart-container')
+                .data(txtOrg)
+                .nodeWidth((d) => 205)
+                .initialZoom(0.4)
+                .nodeHeight((d) => 175)
+                .childrenMargin((d) => 40)
+                .compactMarginBetween((d) => 15)
+                .compactMarginPair((d) => 80)
+                .layout("top")
+                //.compact(!!(compact++%2))
+                .nodeContent(function (d, i, arr, state) {
+                    return `
+            <div style="padding-top:30px;background-color:none;margin-left:1px;height:${d.height
+                        }px;border-radius:10px;overflow:visible">
+              <div style="height:${d.height - 32
+                        }px;padding-top:0px;background-color:white;border-radius:20px; box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);border: ${d.data._highlighted || d.data._upToTheRootHighlighted ? '5px solid var(--secondary_color);"' : '1px solid #E4E2E9"'}'\>
+
+                <img src="../icons/aaa.png" style="margin-top:-30px;margin-left:${d.width / 2 - 30}px;border-radius:100px;width:63px;height:63px;" />
+
+               <div style="margin-right:10px;margin-top:15px;float:right">${d.data.id
+                        }</div>
+               
+               
+
+               <div style="padding:0px; padding-top:5px;text-align:center">
+                   <div style="color:#e70b77;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.name.split(" ")[0]
+                        } </div>
+                   
+                   <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.positionName
+                        } </div>
+                   <div style="margin-top: 5px;display:flex; justify-content: center;
+    align-content: center;
+    align-items: center;">
+                      <a onclick="verPerfil(${d.data.id})" data-toggle="modal" data-target="#exampleModal" class="btn-perfil"> VER PERFIL</a>
+                   </div>
+               </div> 
+              
+              </div>     
+      </div>
+  `;
+                })
+                .render();
+            //});
+
+            let spiner = document.getElementsByClassName('spinner')
+            spiner[0].style.display = 'none';
+
+        </script>
+        <script>
+
+
+            // document.addEventListener('', ()=>{
+            //     console.log( parent.document.getElementById('spinLoader') + 'aaaaaaaaaaaaaaaaaaaa')
+            // })
+
+
+            function verPerfil(id) {
+                // $.ajax({
+                //     url: `../jsp/sse_g0_ver_perfil.jsp?idPerson=${id}`,
+                //     type: 'GET',
+                //     success: function (data) {
+                //         // Inserta el contenido del JSP en un elemento div con el id 'contenido'
+                //         $('#modalPerfil').html(data);
+                //         $('#modal-principal').modal()
+
+                //     },
+                //     error: function () {
+                //         alert('Error al cargar el contenido del JSP');
+                //     }
+                // });
+
+                console.log("Entre a la funcion verPerfil y este es el id ")
+                console.log(typeof id)
+
+                let empleadoActual = arrayCompleto.find(obj => obj.id === id.toString())
+
+                const codigoModal =
+                    `<div class="container p-0 bg-transparent">
+            <div class="row">
+                <div class="col-3 mt-3 img-container">
+                    <div class="img-wrapper">
+                        <img class="img-profile" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+                <div class="col-8 mt-3 perfil-info">
+                    <h2 class="h2-name mb-1 mt-1">${empleadoActual.name}</h2>
+                    <p class="p-puesto mb-1 mt-1">${empleadoActual.positionName} · ${empleadoActual.idWu} </p>
+                    <div class="horario-container text-lowercase">
+                      <!-- <button class="btn-disponible">DISPONIBLE</button> |-->   <%=vHORARIO_LABORAL%>
+                    </div>
+                </div>
+               
+                <div class="col-1">
+                    <button id="close" type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            </div>
+<!-- 
+            <div class="mensaje-teams-agrupador mt-4">
+                <input class="input-msj" type="text" id="input-msj" placeholder="Enviar un mensaje por teams.">
+            </div>
+-->
+            <div class="row d-flex justify-content-center container bg-transparent">
+                <div class="menu-ver-perfil">
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <button data-id="info" onclick="cambiarMenu(event)" type="button" class="btn-menu btn-menu-left btn-seleccionado ">Información general</button>
+                        <button data-id="organizacion" onclick="cambiarMenu(event)" type="button" class="btn-menu btn-menu-right">Organización</button>
+                      </div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="info" class="info-general tab-menu active" style="width:100%;">
+                    <div class="row contenedor-info">
+
+                        <div class="col-4 mt-3">
+                            <div class="title-info">
+                                <i class="fa-regular fa-envelope mr-2" style="color: #686868;"></i> 
+                                <h6 class="m-0 h6-title">CORREO</h6>
+                            </div>
+                            <p class="content-info mt-1">${empleadoActual.name.split(" ")[0].toLowerCase() + "@summant.com"}</p>
+
+                        </div>
+                    
+                        <div class="col-4 mt-3">
+                            <div class="title-info">
+                                <i class="fa-regular fa-building mr-2" style="color: #686868;"></i> 
+                                <h6 class="m-0 h6-title">EMPRESA</h6>
+
+                            </div>
+                            <p class="content-info mt-1" >Summant Technologies</p>
+
+                        </div>
+
+                        <div class="col-4 mt-3">
+                            <div class="title-info">
+                                <i class="fa-solid fa-building-user mr-2" style="color: #686868;"></i> 
+                                <h6 class="m-0 h6-title">EQUIPO</h6>
+
+                            </div>
+                            <p class="content-info mt-1" >${empleadoActual.area}</p>
+
+                        </div>
+
+
+                    </div>
+
+                    <div id="info" class="container-miperfil ">
+                        <div class="title-info ml-5 mb-2">
+                            <i class="fa-regular fa-circle-user mr-2" style="color: #686868;"></i> 
+                            <h6 class="m-0 h6-title">INFORMACIÓN SOBRE MI ROL</h6>
+                        </div>
+                        <div class="contenedor-textarea ">
+                                <textarea id="desc-perfil" class="textarea-miperfil ">Mi descripción personal</textarea>
+                                <button id="grabaDesc" class="btn-editar mt-3">Guardar</button>
+                                <!-- 
+                                    La funcion grabarDesc() se encuentra en js/orgChart/functions.js, esta hecho asi debido a que es la pagina principal del proyecto
+                                -->
+                        </div>
+
+                        <div class="contenedor-tags pt-4">
+                            <div class="title-info ml-5 mb-2">
+                                <i class="fa-regular fa-circle-user mr-2" style="color: #686868;"></i> 
+                                <h6 class="m-0 h6-title">MIS PALABRAS CLAVES</h6>
+                            </div>
+                            <div class="d-flex tags-contenedor justify-content-center">
+                                <input placeholder='Inserte aqui sus palabras claves' name="ejemplo" class="tag-cus  mb-2 ${id != '13896' ? 'ml-0' : 'ml-5'}" ${id != '13896' ? 'disabled' : ''}>  
+                                <button onclick="agregarTag()" type="button" class="add-tag ${id != '13896' ? 'd-none' : ''}">+</button>    
+                                <button id="grabaTags" onclick="" type="button" class="btn-editar mt-3 ${id != '13896' ? 'd-none' : ''} "  >Guardar</button>    
+                                
+                            </div>
+                        
+                        </div>
+                    
+                    </div>
+
+                </div>
+                <div id="organizacion" class="organizacion tab-menu mt-2">
+                    <div class="row">
+                        <div class="contenedor-jefes">
+                            <!-- 
+                                <m4:loop from="0" to="<%=new Integer(new Integer(sCountiCAR_JEFES).intValue()-1).toString()%>">
+                                    <m4:item m4varname="vID_PERSON" m4name="<%=sCAR_ID_PERSON_ORG%>"/>
+                                    <m4:item m4varname="vAPELLIDO" m4name="<%=sCAR_APELLIDO_ORG%>"/>
+                                    <m4:item m4varname="vPRIMER_NOMBRE" m4name="<%=sCAR_PRIMER_NOMBRE_ORG%>"/>
+                                    <m4:item m4varname="vN_WU" m4name="<%=sCAR_N_WORK_UNIT_ORG%>"/>
+                                    <m4:item m4varname="vN_PUESTO" m4name="<%=sCAR_N_JOB_CODE_ORG%>"/>
+                                    
+                                    <div class="box mt-3 ${id == "13896" ? "border-usuario" : ""} " id="">
+                                        <div class="row">
+                                            <div class="col-2 contenedor-imagen">
+                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                                            </div>
+                                            <div class="col-10 ">
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!"><%=vPRIMER_NOMBRE%></p>
+                                                <p class="puesto"><%=vN_PUESTO%></p>
+                                                <p class="empresa"><%=vN_WU%></p>
+                                            </div>
+                                        </div>
+                                    </div>
+        
+                                </m4:loop>
+                                -->
+                                ${completarContenedorJefes(empleadoActual)}
+                        </div>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="contenedor-subordinados mt-3">
+                          
+                            <div class="contenedor-sub ">
+                                <div class="row pl-2 justify-content-center">
+                            ${completarContenedorSubordinados(empleadoActual)}
+                        </div>
+                    </div>
+                    
+               
+                </div>
+            </div>
+
+
+        </div>
+            
+            `
+
+                $('#modalPerfil').html(codigoModal);
+                $('#modal-principal').modal({
+                    escapeClose: true,
+                    clickClose: true,
+                    showClose: true
+                })
+
+            }
+
+            console.log(arrayCompleto)
+
+            function downloadPdf(chart) {
+                chart.exportImg({
+                    save: false,
+                    full: false,
+                    onLoad: (base64) => {
+                        var pdf = new jspdf.jsPDF();
+                        var img = new Image();
+                        img.src = base64;
+                        img.onload = function () {
+                            pdf.addImage(
+                                img,
+                                'JPEG',
+                                5,
+                                5,
+                                595 / 3,
+                                ((img.height / img.width) * 595) / 3
+                            );
+                            pdf.save('chart.pdf');
+                        };
+                    },
+                });
+            }
+
+            function completarContenedorJefes(empleado) {
+                /* A esta funcion se le pasa un empleado y devuelve los elementos html de cada
+                uno de los jefes hasta llegar al CEO
+                 */
+                let contenido = `
+                                    <div class="box mt-3 border-usuario" id="">
+                                        <div class="row">
+                                            <div class="col-2 contenedor-imagen">
+                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                                            </div>
+                                            <div class="col-10 ">
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">${empleado.name}</p>
+                                                <p class="puesto">${empleado.office}</p>
+                                                <p class="empresa">${empleado.area}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                `;
+                let padreActual = empleado.parentId;
+                while (padreActual !== "") {
+                    let jefe = arrayCompleto.find(emp => emp.id == padreActual);
+                    contenido += `
+                                    <div class="box mt-3" id="">
+                                        <div class="row">
+                                            <div class="col-2 contenedor-imagen">
+                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                                            </div>
+                                            <div class="col-10 ">
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">${jefe.name}</p>
+                                                <p class="puesto">${jefe.office}</p>
+                                                <p class="empresa">${jefe.area}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                    `
+                    padreActual = jefe.parentId
+                }
+                return contenido;
+            }
+
+            function completarContenedorSubordinados(empleado) {
+                /* Esta funcion recibe un empleado y devuelve el contenido con los nombres y posiciones
+                de todos los empleados que lo tienen como jefe directo */
+                let contenido = "";
+                let subordinadosDirectos = arrayCompleto.filter(emp => emp.parentId === empleado.id);
+                if (subordinadosDirectos.length === 0) {
+                    contenido += `
+                                <div class="contenedor-title" style="margin: 0 auto !important; height: 200px;">
+                                    <p class="sub-title"> <span class="text-capitalize nombreCompleto">${empleado.name}</span> no cuenta con reportes.</p>
+                                </div>
+                    `
+                } else {
+                    for (const subordinado of subordinadosDirectos) {
+                        contenido += `
+                                        <div class="col-4 p-2">
+                                            <p class="nombre">${subordinado.name}</p>
+                                            <p class="empresa">${subordinado.area}</p>
+                                        </div>
+                        `
+                    }
+                }
+
+                return contenido;
+            }
+
+            $(document).ready(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+            });
+
+            //tuve que hacer esto por un tema de renderizacion del popup, si yo lo cierro, vuelve a cargar pero como persiste el codigo js tira error con la variable TAG
+            (function () {
+                let input = document.querySelector('input[name=ejemplo]');
+                let tag = new Tagify(input);
+            })();
+
+            //idem a lo de arriba, si yo queria hacer onclick="tag.addEmptyTag()" no me iba a reconocer el tag, por eso hice esta funcion.
+            function agregarTag() {
+                let input = document.querySelector('input[name=ejemplo]');
+                let tag = new Tagify(input);
+                tag.addEmptyTag()
+            }
+
+
+            //   $('#grabaDescWu').confirm({
+            //         title: 'Mis tags!',
+            //         content: '¿Desea guardar sus tags?',
+            //         buttons: {
+            //             confirm:{
+            //                 text:'Aceptar',
+            //                 action: function(){
+            //                     grabarTags().then( ret => {
+            //                         if(ret == 200){
+            //                             $.alert('Se han guardado los tag correctamente!');
+            //                         }
+            //                     })
+            //                 },
+            //                 btnClass: 'btn-jq-confirm'
+            //             },
+            //             cancel:{
+            //             action:function () {
+            //             },
+            //             text:'Cancelar',
+            //             btnClass:'btn-jq-cancel'
+            //             }
+            //         }
+            // });
+
+
+            // console.log("llego")
+        </script>
+
+        <style>
+            .chart-container {
+                position: absolute;
+                width: 100%;
+                height: 1000px;
+            }
+
+            .search-container {
+                position: relative;
+            }
+
+            .agrupador-desc-wu {
+                pointer-events: all;
+                position: relative;
+                z-index: 100;
+            }
+
+            .nav-tree {
+                padding-left: 20px;
+            }
+
+            .nav-sub {
+                display: none;
+                padding-left: 20px;
+            }
+
+            .nav-item.active>.nav-sub {
+                display: block;
+            }
+
+            .node-rect {
+                stroke: none !important;
+            }
+
+            .spinner {
+                display: block;
+                border: 4px solid rgba(0, 0, 0, 0.1);
+                width: 36px;
+                height: 36px;
+                border-radius: 50%;
+                border-left-color: #1723FF;
+                animation: spin 1s ease infinite;
+                position: absolute;
+                left: 65%;
+                z-index: 99;
+                top: 25%;
+            }
+
+            @keyframes spin {
+                0% {
+                    transform: rotate(0deg);
+                }
+
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+
+            .link {
+                stroke: #1723FF;
+            }
+
+            .btn-perfil {
+                background-color: #1723FF;
+                color: white !important;
+                border-radius: 15px;
+                width: 90px;
+                font-family: 'Poppins';
+                font-weight: 400;
+                font-size: 10px;
+                padding: 5px;
+            }
+
+            .node-button-foreign-object {}
+
+            /* Custom styles for the sidebar menu */
+            .sidebar {
+                height: 100vh;
+                padding-top: 20px;
+            }
+
+            .sidebar ul {
+                list-style: none;
+                padding-left: 0;
+            }
+
+            .sidebar a {
+                color: #333;
+                text-decoration: none;
+                padding: 8px 20px;
+                display: block;
+            }
+
+            .sidebar a:hover {
+                background-color: #f8f9fa;
+            }
+
+            /* Additional styles for content area */
+            .main-content {
+                padding-top: 20px;
+            }
+
+            summary {
+                display: block;
+                cursor: pointer;
+                height: 28px;
+                background: #F2F2F2;
+                border-radius: 10px;
+                font-size: 11px;
+                font-family: 'Poppins';
+                font-weight: bold;
+                color: black;
+
+            }
+
+            summary>a {
+                text-decoration: none;
+                color: black;
+                text-transform: none;
+                font-family: 'Poppins', sans-serif;
+                font-weight: 500;
+                text-transform: capitalize;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis !important;
+                font-size: 11px !important;
+            }
+
+            summary::-webkit-details-marker {
+                display: none;
+            }
+
+            /*
+
+body {
+  background-color: white;
+  color: white;  
+  font-size: 1.6rem;
+  font-family: arial;
+  margin: 0;
+  padding: 3rem;
+}
+*/
+
+            .tree-nav__item {
+                display: block;
+                white-space: nowrap;
+                position: relative;
+                margin-top: 10px;
+                color: black;
+            }
+
+            .tree-nav__item.is-expandable::before {
+                border-left: 1px solid #E70B77;
+                content: "";
+                height: 100%;
+                left: 0.8rem;
+                position: absolute;
+                top: 2.4rem;
+                height: calc(100% - 2.4rem);
+            }
+
+            .tree-nav__item .tree-nav__item {
+                margin-left: 2.4rem;
+            }
+
+            .tree-nav__item.is-expandable[open]>.tree-nav__item-title::before {
+                font-family: "ionicons";
+                transform: rotate(90deg);
+            }
+
+            .tree-nav__item.is-expandable>.tree-nav__item-title {
+                padding-left: 2.4rem;
+            }
+
+            .tree-nav__item.is-expandable>.tree-nav__item-title::before {
+                position: absolute;
+                will-change: transform;
+                transition: transform 300ms ease;
+                font-family: "ionicons";
+                color: #E70B77;
+                font-size: 1.1rem;
+                content: "\f125";
+                left: 0;
+                display: inline-block;
+                width: 1.6rem;
+                text-align: center;
+            }
+
+            .tree-nav__item-title {
+                cursor: pointer;
+                display: block;
+                outline: 0;
+                color: black;
+                font-size: 1rem;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis !important;
+            }
+
+            .tree-nav__item-title .icon {
+                display: inline;
+                padding-left: 1.6rem;
+                margin-right: 0.8rem;
+                color: #666;
+                font-size: 1.4rem;
+                position: relative;
+            }
+
+            .tree-nav__item-title .icon::before {
+                top: 0;
+                position: absolute;
+                left: 0;
+                display: inline-block;
+                width: 1.6rem;
+                text-align: center;
+            }
+
+            .tree-nav__item-title::-webkit-details-marker {
+                display: none;
+            }
+
+            summary {
+                color: black;
+            }
+        </style>
+</body>
+
+</html>

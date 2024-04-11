@@ -1,0 +1,79 @@
+.contenedor-tags{
+    display: flex;
+}
+.customLook{
+    --tag-bg                  : #001145;
+    --tag-hover               : #E70B77;
+    --tag-text-color          : #FFFFFF;
+    --tags-border-color       : #001145;
+    --tag-border-radius       : 30px;
+    --tag-text-color--edit    : #111;
+    --tag-remove-bg           : var(--tag-hover);
+    --tag-pad                 : 12px;
+    --tag-inset-shadow-size   : 1.35em;
+    --tag-remove-btn-bg--hover: black;
+    --tag-remove-btn-bg--hover       :var(--tag-bg);
+    display: inline-block;
+    min-width: 80%;
+    max-width: 80%;
+    border:  2px solid red ;
+  }
+  
+  
+  .customLook .tagify__tag__removeBtn{
+    background-color: var(--tag-hover);
+    color: white;
+    margin-left: 1px !important;
+    transform: none;
+    opacity: 1;
+    margin-right: 10px;
+  }
+  
+  
+  .customLook > button{
+    width: 25px;
+    height: 25px;
+    background-color: #E70B77;
+    color: white;
+    font-size: 19px;
+    font-family: 'Poppins Regular';
+    border: 0;
+    border-radius: 50%;
+    transition: .1s ease-out;
+    vertical-align: middle;
+    margin: 0 auto !important;
+    padding: 0px;
+  }
+  
+  .customLook > button:hover{
+    background-color: #001145;
+    outline: 0;
+  }
+  .customLook > button:focus{
+    outline: 0;
+  }
+  
+  .customLook .tagify__input{
+display: none;  }
+
+  
+  .tagify__tag>div>* {
+    white-space: unset !important; 
+    margin-left: 6px !important;
+}
+
+.tagify__tag>div {
+
+    padding: 7px !important; 
+    /*se hizo esto para que no aparezca una raya blanca en el medio*/
+}
+
+.tagify__tag>div{
+    font-size: 12px;
+    font-family: 'Poppins Regular';
+}
+
+.tagify__tag:focus div::before,.tagify__tag:hover:not([readonly]) div::before {
+    --tag-bg-inset: 2.5px !important;
+    --tag-bg: var(--tag-hover) !important;
+}
