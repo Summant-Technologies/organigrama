@@ -384,7 +384,7 @@ function mostrarMenu() {
   let rightContainer = document.getElementById('right-container')
   let agrupador = document.getElementById('agrupador')
 
-  agrupador.style.left = "15%";
+  agrupador.style.left = "50%";
   rightContainer.classList.remove("col-md-12", "col-lg-12");
   rightContainer.classList.add("col-md-8", "col-lg-8");
   

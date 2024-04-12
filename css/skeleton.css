@@ -134,7 +134,7 @@ button:target {
     background-color: var(--secondary_color);
     border-radius: 18px;
     margin: 20px auto !important;
-
+    padding-bottom: 8px;
 }
 
 .guardar-wu {
@@ -270,7 +270,7 @@ button:target {
 
 .agrupador {
     position: absolute;
-    left: 15%;
+    left: 50%;
 }
 
 .expanded-button-group {
