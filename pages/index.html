@@ -473,11 +473,11 @@
                             <h6 class="m-0 h6-title">INFORMACIÓN SOBRE MI ROL</h6>
                         </div>
                         <div class="contenedor-textarea ">
-                                <textarea id="desc-perfil" class="textarea-miperfil ">Mi descripción personal</textarea>
-                                <button id="grabaDesc" class="btn-editar mt-3">Guardar</button>
-                                <!-- 
-                                    La funcion grabarDesc() se encuentra en js/orgChart/functions.js, esta hecho asi debido a que es la pagina principal del proyecto
-                                -->
+                            ${id == '13896' ? 
+                                `<textarea id="desc-perfil" class="textarea-miperfil "></textarea>
+                                <button id="grabaDesc" class="btn-editar mt-3">Guardar</button>` :
+                                `<textarea class="textarea-miperfil" readonly></textarea>`
+                        }
                         </div>
 
                         <div class="contenedor-tags pt-4">
@@ -841,6 +841,7 @@ body {
                 position: relative;
                 margin-top: 10px;
                 color: black;
+                left: 15px;
             }
 
             .tree-nav__item.is-expandable::before {
@@ -864,6 +865,7 @@ body {
 
             .tree-nav__item.is-expandable>.tree-nav__item-title {
                 padding-left: 2.4rem;
+                padding-top: 4px;
             }
 
             .tree-nav__item.is-expandable>.tree-nav__item-title::before {
@@ -903,7 +905,8 @@ body {
             .tree-nav__item-title .icon::before {
                 top: 0;
                 position: absolute;
-                left: 0;
+                left: 4px;
+                top: 1px;
                 display: inline-block;
                 width: 1.6rem;
                 text-align: center;
