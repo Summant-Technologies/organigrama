@@ -102,6 +102,7 @@ button:target {
     position: absolute;
     z-index: 9;
     top: 50%;
+    left: 0;
     width: 50px;
     height: 100px;
     font-size: 30px;
