@@ -75,15 +75,10 @@
     <section>
         <div class="spinner"></div>
 
-        <div class="container ">
-            <div class="row">
-                <div>
-                    <button class="btn-show-menu" style="display: none;" onclick="mostrarMenu()">></button>
-                </div>
-                <div id="left-menu" class="col-md-3 col-lg-3 col-sm-12 z-index-a">
+        <div id="left-menu" class="z-index-a" style="position:absolute; top: 0; left: 0
+                ;">
                     <div class="menu-container">
                         <div class="row">
-
                             <div class="col-12 d-flex title-menu">
                                 <img class="chart-icon" src="../icons/org.png" alt="">
                                 <h2 class="h2-menu">Organigramas</h2>
@@ -109,11 +104,20 @@
                     </div>
                 </div>
 
+                <div class="chart-container" style="width: 100% !important; background-color: #D9D9D9">
+
+                </div>
+
+        <div class="container ">
+            <div class="row">
+                <div>
+                    <button class="btn-show-menu" style="display: none;" onclick="mostrarMenu()">></button>
+                </div>
+                
+              
+                
                 <div id="right-container" class="col-md-8 col-lg-8 col-sm-12">
                     <div id="agrupador" class="agrupador">
-                        <div class="chart-container" style="width: 100% !important; background-color: #D9D9D9">
-
-                        </div>
                         <div class="search-container ">
                             <div class="search-box">
                                 <i class="fa-solid fa-magnifying-glass"></i>
