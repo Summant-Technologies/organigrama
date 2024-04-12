@@ -348,8 +348,8 @@
                
 
                <div style="padding:0px; padding-top:5px;text-align:center">
-                   <div style="color:#e70b77;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.name.split(" ")[0]
-                        } </div>
+                   <div style="color:#e70b77;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> Carlos
+                         </div>
                    
                    <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.positionName
                         } </div>
@@ -409,7 +409,7 @@
                     </div>
                 </div>
                 <div class="col-8 mt-3 perfil-info">
-                    <h2 class="h2-name mb-1 mt-1">${empleadoActual.name}</h2>
+                    <h2 class="h2-name mb-1 mt-1">Carlos</h2>
                     <p class="p-puesto mb-1 mt-1">${empleadoActual.positionName} · ${empleadoActual.idWu} </p>
                     <div class="horario-container text-lowercase">
                       <!-- <button class="btn-disponible">DISPONIBLE</button> |-->   lunes a viernes 09:00 a 18:00
@@ -444,7 +444,7 @@
                                 <i class="fa-regular fa-envelope mr-2" style="color: #686868;"></i> 
                                 <h6 class="m-0 h6-title">CORREO</h6>
                             </div>
-                            <p class="content-info mt-1">${empleadoActual.name.split(" ")[0].toLowerCase() + "@summant.com"}</p>
+                            <p class="content-info mt-1">${"carlos" + "@summant.com"}</p>
 
                         </div>
                     
@@ -595,7 +595,7 @@
                                                 <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
                                             </div>
                                             <div class="col-10 ">
-                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">${empleado.name}</p>
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">Carlos</p>
                                                 <p class="puesto">${empleado.positionName}</p>
                                                 <p class="empresa">${empleado.area}</p>
                                             </div>
@@ -612,7 +612,7 @@
                                                 <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
                                             </div>
                                             <div class="col-10 ">
-                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">${jefe.name}</p>
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">Carlos</p>
                                                 <p class="puesto">${jefe.office}</p>
                                                 <p class="empresa">${jefe.area}</p>
                                             </div>
@@ -632,14 +632,14 @@
                 if (subordinadosDirectos.length === 0) {
                     contenido += `
                                 <div class="contenedor-title" style="margin: 0 auto !important; height: 200px;">
-                                    <p class="sub-title"> <span class="text-capitalize nombreCompleto">${empleado.name}</span> no cuenta con reportes.</p>
+                                    <p class="sub-title"> <span class="text-capitalize nombreCompleto">Carlos</span> no cuenta con reportes.</p>
                                 </div>
                     `
                 } else {
                     for (const subordinado of subordinadosDirectos) {
                         contenido += `
                                         <div class="col-4 p-2">
-                                            <p class="nombre">${subordinado.name}</p>
+                                            <p class="nombre">Carlos</p>
                                             <p class="empresa">${subordinado.area}</p>
                                         </div>
                         `
