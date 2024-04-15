@@ -270,6 +270,7 @@
                 }
 
                 summary.appendChild(a); //asocio ese ancla a su summary.
+                summary.setAttribute("title", a.textContent);
 
 
                 parentElement.appendChild(summary); //asocio ese summary al elemento padre (un details), para que figure como elemento de esa lista.
