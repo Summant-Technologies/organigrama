@@ -77,45 +77,47 @@
 
         <div id="left-menu" class="z-index-a" style="position:absolute; top: 0; left: 0
                 ;">
-                    <div class="menu-container">
-                        <div class="row">
-                            <div class="col-12 d-flex title-menu">
-                                <img class="chart-icon" src="../icons/logo_organigrama.png" alt="">
-                                <h2 class="h2-menu">Organigramas</h2>
-                                <button class="btn-close-menu" onclick="ocultarMenu()">X</button>
-                            </div>
-                            <div class="col-12 d-flex justify-content-center">
-                                <p class="chart-menu-p p-4">
-                                    Consultá información sobre las unidades de Organigrama: sus responsables y
-                                    colaboradores que ocupan una posición. Realizá búsquedas por unidad o por
-                                    colaborador y organizalas por nombre o lugar de trabajo.
-                                </p>
+            <div class="menu-container">
+                <div class="row">
+                    <div class="col-12 d-flex title-menu">
+                        <img class="chart-icon" src="../icons/logo_organigrama.png" alt="">
+                        <h2 class="h2-menu">Organigramas</h2>
+                        <button class="btn-close-menu" onclick="ocultarMenu()">X</button>
+                    </div>
+                    <div class="col-12 d-flex justify-content-center">
+                        <p class="chart-menu-p p-4">
+                            Consultá información sobre las unidades de Organigrama: sus responsables y
+                            colaboradores que ocupan una posición. Realizá búsquedas por unidad o por
+                            colaborador y organizalas por nombre o lugar de trabajo.
+                        </p>
 
 
-                            </div>
+                    </div>
 
-                            <details class="tree-nav__item is-expandable" id="menu">
+                    <div style="width: 75% !important;">
+                        <details class="tree-nav__item is-expandable" id="menu">
 
-                            </details>
+                        </details>
+                    </div>
 
-                            <div style="width: 87% !important;" class="ml-4" id="menu-wu">
-                            </div>
-                        </div>
+                    <div style="width: 87% !important;" class="ml-4" id="menu-wu">
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <div class="chart-container" style="width: 100% !important; background-color: #D9D9D9">
+        <div class="chart-container" style="width: 100% !important; background-color: #D9D9D9">
 
-                </div>
+        </div>
 
         <div class="container ">
             <div class="row">
                 <div>
                     <button class="btn-show-menu" style="display: none;" onclick="mostrarMenu()">></button>
                 </div>
-                
-              
-                
+
+
+
                 <div id="right-container" class="col-md-8 col-lg-8 col-sm-12">
                     <div id="agrupador" class="agrupador">
                         <div class="search-container ">
@@ -213,6 +215,8 @@
 
 
         <script>
+
+
             var activeUser = 13896;
             // console.log(activeUser)
 
@@ -299,8 +303,20 @@
         </script>
 
         <script>
+            function generarNombreAleatorio() {
+                let nombre = ["Adrián", "Agustín", "Alberto", "Alejandro", "Alexander", "Alexis", "Alonso", "Andrés Felipe", "Ángel", "Anthony", "Antonio", "Bautista", "Benicio", "Benjamín", "Carlos", "Carlos Alberto", "Carlos Eduardo", "Carlos Roberto", "César", "Cristóbal", "Daniel", "David", "Diego", "Dylan", "Eduardo", "Emiliano", "Emmanuel", "Enrique", "Erik", "Ernesto", "Ethan", "Fabián", "Facundo", "Felipe", "Félix", "Félix María", "Fernando", "Francisco", "Francisco Javier", "Gabriel", "Gaspar", "Gustavo Adolfo", "Hugo", "Ian", "Iker", "Isaac", "Jacob", "Javier", "Jayden", "Jeremy", "Jerónimo", "Jesús", "Jesús Antonio", "Jesús Víctor", "Joaquín", "Jorge", "Jorge  Alberto", "Jorge Luis", "José", "José Antonio", "José Daniel", "José David", "José Francisco", "José Gregorio", "José Luis", "José Manuel", "José Pablo", "Josué", "Juan", "Juan Ángel", "Juan Carlos", "Juan David", "Juan Esteban", "Juan Ignacio", "Juan José", "Juan Manuel", "Juan Pablo", "Juan Sebastián", "Julio", "Julio Cesar", "Justin", "Kevin", "Lautaro", "Liam", "Lian", "Lorenzo", "Lucas", "Luis", "Luis Alberto", "Luis Emilio", "Luis Fernando", "Manuel", "Manuel Antonio", "Marco Antonio", "Mario", "Martín", "Mateo", "Matías", "Maximiliano", "Maykel", "Miguel", "Miguel  ngel", "Nelson", "Noah", "Oscar", "Pablo", "Pedro", "Rafael", "Ramón", "Raúl", "Ricardo", "Rigoberto", "Roberto", "Rolando", "Samuel", "Samuel David", "Santiago", "Santino", "Santos", "Sebastián", "Thiago", "Thiago Benjamín", "Tomás", "Valentino", "Vicente", "Víctor", "Víctor Hugo"];
+                let apellido = ["Garcia", "Gonzalez", "Rodriguez", "Fernandez", "Lopez", "Martinez", "Sanchez", "Perez", "Gomez", "Martin", "Jimenez", "Ruiz", "Hernandez", "Diaz", "Moreno", "Alvarez", "Muñoz", "Romero", "Alonso", "Gutierrez", "Navarro", "Torres", "Dominguez",
+                    "Vazquez", "Ramos", "Gil", "Ramirez", "Serrano", "Blanco", "Suarez", "Molina", "Morales", "Ortega", "Delgado", "Castro", "Ortiz", "Rubio", "Marin", "Sanz", "Nuñez", "Iglesias", "Medina", "Garrido", "Santos", "Castillo", "Cortes", "Lozano", "Guerrero", "Cano", "Prieto", "Mendez", "Calvo", "Cruz", "Gallego", "Vidal", "Leon", "Herrera", "Marquez", "Peña", "Cabrera", "Flores", "Campos", "Vega", "Diez", "Fuentes", "Carrasco", "Caballero", "Nieto", "Reyes", "Aguilar", "Pascual", "Herrero", "Santana", "Lorenzo", "Hidalgo", "Montero", "Ibañez", "Gimenez", "Ferrer", "Duran", "Vicente", "Benitez", "Mora", "Santiago", "Arias", "Vargas", "Carmona", "Crespo", "Roman", "Pastor", "Soto", "Saez", "Velasco", "Soler", "Moya", "Esteban", "Parra", "Bravo", "Gallardo", "Rojas", "Pardo", "Merino", "Franco", "Espinosa", "Izquierdo", "Lara", "Rivas", "Silva", "Rivera", "Casado", "Arroyo", "Redondo", "Camacho", "Rey", "Vera", "Otero", "Luque", "Galan", "Montes", "Rios", "Sierra", "Segura", "Carrillo", "Marcos", "Marti", "Soriano", "Mendoza"];
+                let nombreRandom = Math.floor(Math.random() * nombre.length);
+                let apellidoRandom = Math.floor(Math.random() * apellido.length);
+                return nombre[nombreRandom] + " " + apellido[apellidoRandom]
+
+            }
 
             // traer el archivo json y asociarlo a la variable txtOrg. Fijarse si lo necesita en formato string o json
+            for (let i = 0; i < arrayCompleto.length; i++) {
+                arrayCompleto[i].name = generarNombreAleatorio();
+            }
 
             let txtOrg = arrayCompleto;
 
@@ -346,7 +362,7 @@
                
 
                <div style="padding:0px; padding-top:5px;text-align:center">
-                   <div style="color:#1723FF;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> Carlos
+                   <div style="color:#1723FF;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.name}
                          </div>
                    
                    <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.positionName
@@ -371,6 +387,25 @@
         </script>
         <script>
 
+            function obtenerValorDeLosTags() {
+                // let valor = localStorage.getItem('tags')
+                // if (valor == '') {
+                //     return ''
+                // }
+                // return 'valor="' + valor + '"';
+
+                // Verificar si hay algo en el localStorage
+                var storedTags = localStorage.getItem('tags');
+
+                // Si hay algo en el localStorage, establecer el valor del input
+                if (storedTags) {
+                    $('#grabaTagsInput').val(storedTags);
+                } else {
+                    // Si no hay nada en el localStorage, dejar el input vacío
+                    $('#grabaTagsInput').val('');
+                }
+            }
+
 
             // document.addEventListener('', ()=>{
             //     console.log( parent.document.getElementById('spinLoader') + 'aaaaaaaaaaaaaaaaaaaa')
@@ -392,8 +427,6 @@
                 //     }
                 // });
 
-                console.log("Entre a la funcion verPerfil y este es el id ")
-                console.log(typeof id)
 
                 let empleadoActual = arrayCompleto.find(obj => obj.id === id.toString())
 
@@ -407,7 +440,7 @@
                     </div>
                 </div>
                 <div class="col-8 mt-3 perfil-info">
-                    <h2 class="h2-name mb-1 mt-1">Carlos</h2>
+                    <h2 class="h2-name mb-1 mt-1">${empleadoActual.name}</h2>
                     <p class="p-puesto mb-1 mt-1">${empleadoActual.positionName} · ${empleadoActual.idWu} </p>
                     <div class="horario-container text-lowercase">
                       <!-- <button class="btn-disponible">DISPONIBLE</button> |-->   lunes a viernes 09:00 a 18:00
@@ -475,11 +508,11 @@
                             <h6 class="m-0 h6-title">INFORMACIÓN SOBRE MI ROL</h6>
                         </div>
                         <div class="contenedor-textarea ">
-                            ${id == '13896' ? 
-                                `<textarea id="desc-perfil" class="textarea-miperfil "></textarea>
+                            ${id == '13896' ?
+                        `<textarea id="desc-perfil" class="textarea-miperfil "></textarea>
                                 <button id="grabaDesc" class="btn-editar mt-3">Guardar</button>` :
-                                `<textarea class="textarea-miperfil" readonly></textarea>`
-                        }
+                        `<textarea class="textarea-miperfil" readonly></textarea>`
+                    }
                         </div>
 
                         <div class="contenedor-tags pt-4">
@@ -488,7 +521,7 @@
                                 <h6 class="m-0 h6-title">MIS PALABRAS CLAVES</h6>
                             </div>
                             <div class="d-flex tags-contenedor justify-content-center">
-                                <input placeholder='Inserte aqui sus palabras claves' name="ejemplo" class="tag-cus  mb-2 ${id != '13896' ? 'ml-0' : 'ml-5'}" ${id != '13896' ? 'disabled' : ''}>  
+                                <input placeholder='Inserte aqui sus palabras claves' name="ejemplo" id="grabaTagsInput" autocomplete="off" class="tag-cus  mb-2 ${id != '13896' ? 'ml-0' : 'ml-5'}" ${id != '13896' ? 'disabled' : ''}>  
                                 <button onclick="agregarTag()" type="button" class="add-tag ${id != '13896' ? 'd-none' : ''}">+</button>    
                                 <button id="grabaTags" onclick="" type="button" class="btn-editar mt-3 ${id != '13896' ? 'd-none' : ''} "  >Guardar</button>    
                                 
@@ -549,11 +582,55 @@
             `
 
                 $('#modalPerfil').html(codigoModal);
-                $('#modal-principal').modal({
-                    escapeClose: true,
-                    clickClose: true,
-                    showClose: true
-                })
+                $('#modal-principal').modal({})
+                $(document).ready(function () {
+                    $('#modal-principal').click(function (e) {
+                        if (e.target.id == 'modal-principal') {
+                            $(this).modal('hide');
+                        }
+                    });
+                });
+
+                if (id == '13896') obtenerValorDeLosTags();
+
+                //tuve que hacer esto por un tema de renderizacion del popup, si yo lo cierro, vuelve a cargar pero como persiste el codigo js tira error con la variable TAG
+                (function () {
+                    let input = document.querySelector('input[name=ejemplo]');
+                    let tag = new Tagify(input);
+                })();
+
+                $('#grabaTags').confirm({
+                    title: 'Mis tags!',
+                    content: '¿Desea guardar sus tags?',
+                    buttons: {
+                        confirm: {
+                            text: 'Aceptar',
+                            action: function () {
+                                // Obtener el valor del input
+                                let inputValue = $('#grabaTagsInput').val();
+
+                                if (inputValue == '') {
+                                    localStorage.removeItem('tags')
+                                } else {
+                                    // Convertir la cadena JSON a un objeto JavaScript
+                                    let tagsArray = JSON.parse(inputValue);
+
+                                    // Guardar el objeto en el localStorage
+                                    localStorage.setItem('tags', JSON.stringify(tagsArray));
+                                }
+                            },
+                            btnClass: 'btn-jq-confirm'
+                        },
+                        cancel: {
+                            action: function () {
+                                // No se hace nada en caso de cancelación
+                            },
+                            text: 'Cancelar',
+                            btnClass: 'btn-jq-cancel'
+                        }
+                    }
+                });
+
 
             }
 
@@ -591,7 +668,7 @@
                                                 <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
                                             </div>
                                             <div class="col-10 ">
-                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">Carlos</p>
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">${empleado.name}</p>
                                                 <p class="puesto">${empleado.positionName}</p>
                                                 <p class="empresa">${empleado.area}</p>
                                             </div>
@@ -608,7 +685,7 @@
                                                 <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
                                             </div>
                                             <div class="col-10 ">
-                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">Carlos</p>
+                                                <p class="nombre" data-toggle="tooltip" title="Hooray!">${jefe.name}</p>
                                                 <p class="puesto">${jefe.office}</p>
                                                 <p class="empresa">${jefe.area}</p>
                                             </div>
@@ -628,14 +705,14 @@
                 if (subordinadosDirectos.length === 0) {
                     contenido += `
                                 <div class="contenedor-title" style="margin: 0 auto !important; height: 200px;">
-                                    <p class="sub-title"> <span class="text-capitalize nombreCompleto">Carlos</span> no cuenta con reportes.</p>
+                                    <p class="sub-title"> <span class="text-capitalize nombreCompleto">${empleado.name}</span> no cuenta con reportes.</p>
                                 </div>
                     `
                 } else {
                     for (const subordinado of subordinadosDirectos) {
                         contenido += `
                                         <div class="col-4 p-2">
-                                            <p class="nombre">Carlos</p>
+                                            <p class="nombre">${subordinado.name}</p>
                                             <p class="empresa">${subordinado.area}</p>
                                         </div>
                         `
@@ -649,14 +726,10 @@
                 $('[data-toggle="tooltip"]').tooltip();
             });
 
-            //tuve que hacer esto por un tema de renderizacion del popup, si yo lo cierro, vuelve a cargar pero como persiste el codigo js tira error con la variable TAG
-            (function () {
-                let input = document.querySelector('input[name=ejemplo]');
-                let tag = new Tagify(input);
-            })();
 
             //idem a lo de arriba, si yo queria hacer onclick="tag.addEmptyTag()" no me iba a reconocer el tag, por eso hice esta funcion.
             function agregarTag() {
+                //tuve que hacer esto por un tema de renderizacion del popup, si yo lo cierro, vuelve a cargar pero como persiste el codigo js tira error con la variable TAG
                 let input = document.querySelector('input[name=ejemplo]');
                 let tag = new Tagify(input);
                 tag.addEmptyTag()
