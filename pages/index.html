@@ -80,7 +80,7 @@
                     <div class="menu-container">
                         <div class="row">
                             <div class="col-12 d-flex title-menu">
-                                <img class="chart-icon" src="../icons/org.png" alt="">
+                                <img class="chart-icon" src="../icons/logo_organigrama.png" alt="">
                                 <h2 class="h2-menu">Organigramas</h2>
                                 <button class="btn-close-menu" onclick="ocultarMenu()">X</button>
                             </div>
@@ -170,7 +170,7 @@
                                 <div class="col-6 d-flex button-div-right">
                                     <div class="mr-2 ">
                                         <button style="pointer-events: all;"
-                                            onclick="chart.setHighlighted('13892').render();" class="button-float">
+                                            onclick="chart.setHighlighted('13896').render();" class="button-float">
                                             <i class="fa-regular fa-location-dot"></i>
                                             <span>Find Me</span>
                                         </button>
@@ -213,7 +213,7 @@
 
 
         <script>
-            var activeUser = 13892;
+            var activeUser = 13896;
             // console.log(activeUser)
 
             let wuJSON = arrayMenu;
@@ -338,7 +338,7 @@
               <div style="height:${d.height - 32
                         }px;padding-top:0px;background-color:white;border-radius:20px; box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);border: ${d.data._highlighted || d.data._upToTheRootHighlighted ? '5px solid var(--secondary_color);"' : '1px solid #E4E2E9"'}'\>
 
-                <img src="../icons/aaa.png" style="margin-top:-30px;margin-left:${d.width / 2 - 30}px;border-radius:100px;width:63px;height:63px;" />
+                <img src="../icons/foto_empleado.png" style="margin-top:-30px;margin-left:${d.width / 2 - 30}px;border-radius:100px;width:63px;height:63px;" />
 
                <div style="margin-right:10px;margin-top:15px;float:right">${d.data.id
                         }</div>
@@ -346,7 +346,7 @@
                
 
                <div style="padding:0px; padding-top:5px;text-align:center">
-                   <div style="color:#e70b77;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> Carlos
+                   <div style="color:#1723FF;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> Carlos
                          </div>
                    
                    <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.positionName
@@ -402,7 +402,7 @@
             <div class="row">
                 <div class="col-3 mt-3 img-container">
                     <div class="img-wrapper">
-                        <img class="img-profile" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                        <img class="img-profile" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
                         <div class="circle"></div>
                     </div>
                 </div>
@@ -513,7 +513,7 @@
                                     <div class="box mt-3 ${id == "13896" ? "border-usuario" : ""} " id="">
                                         <div class="row">
                                             <div class="col-2 contenedor-imagen">
-                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
                                             </div>
                                             <div class="col-10 ">
                                                 <p class="nombre" data-toggle="tooltip" title="Hooray!"><%=vPRIMER_NOMBRE%></p>
@@ -588,7 +588,7 @@
                                     <div class="box mt-3 border-usuario" id="">
                                         <div class="row">
                                             <div class="col-2 contenedor-imagen">
-                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
                                             </div>
                                             <div class="col-10 ">
                                                 <p class="nombre" data-toggle="tooltip" title="Hooray!">Carlos</p>
@@ -605,7 +605,7 @@
                                     <div class="box mt-3" id="">
                                         <div class="row">
                                             <div class="col-2 contenedor-imagen">
-                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/aaa.png'" src="../icons/aaa.png">
+                                                <img class="img-perfil" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
                                             </div>
                                             <div class="col-10 ">
                                                 <p class="nombre" data-toggle="tooltip" title="Hooray!">Carlos</p>
@@ -845,7 +845,7 @@ body {
             }
 
             .tree-nav__item.is-expandable::before {
-                border-left: 1px solid #E70B77;
+                border-left: 1px solid #1723FF;
                 content: "";
                 height: 100%;
                 left: 0.8rem;
@@ -873,7 +873,7 @@ body {
                 will-change: transform;
                 transition: transform 300ms ease;
                 font-family: "ionicons";
-                color: #E70B77;
+                color: #1723FF;
                 font-size: 1.1rem;
                 content: "\f125";
                 left: 0;
