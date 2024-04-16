@@ -216,6 +216,132 @@
 
         <script>
 
+            function generarAreaWuRandom() {
+                const todasLasAreas = [
+                    "Recursos Humanos (RRHH)",
+                    "Finanzas y Contabilidad",
+                    "Ventas y Marketing",
+                    "Producción y Operaciones",
+                    "Investigación y Desarrollo (I+D)",
+                    "Tecnología de la Información (TI)",
+                    "Servicio al Cliente",
+                    "Logística y Cadena de Suministro",
+                    "Administración y Gestión",
+                    "Legal y Cumplimiento",
+                    "Desarrollo de Producto",
+                    "Calidad y Control de Procesos",
+                    "Comunicación Corporativa",
+                    "Gestión de Proyectos",
+                    "Seguridad y Salud Ocupacional",
+                    "Medio Ambiente y Sostenibilidad",
+                    "Relaciones Públicas",
+                    "Innovación",
+                    "Desarrollo Organizacional",
+                    "Formación y Desarrollo del Personal"
+                ];
+
+                let areaRandom = Math.floor(Math.random() * todasLasAreas.length);
+
+                return todasLasAreas[areaRandom];
+            }
+
+            function generarIdAreaRandom() {
+                const todosLosCodigos = [
+                    "RRHH",
+                    "FIN",
+                    "VM",
+                    "PO",
+                    "IYD",
+                    "TI",
+                    "SC",
+                    "LCDS",
+                    "AG",
+                    "LC",
+                    "DP",
+                    "CCP",
+                    "CC",
+                    "GP",
+                    "SSO",
+                    "MAS",
+                    "RP",
+                    "INN",
+                    "DO",
+                    "FDP"
+                ];
+
+                let idAreaRandom = Math.floor(Math.random() * todosLosCodigos.length);
+
+                return todosLosCodigos[idAreaRandom];
+            }
+
+            function generarPosicionEmpleadoRandom() {
+                const todasLasPosiciones = [
+                    "Director de Recursos Humanos",
+                    "Gerente de Reclutamiento y Selección",
+                    "Especialista en Capacitación y Desarrollo",
+                    "Analista de Compensación y Beneficios",
+                    "Coordinador de Nómina",
+                    "Consultor de Relaciones Laborales",
+                    "Director Financiero (CFO)",
+                    "Controller Financiero",
+                    "Contador Senior",
+                    "Analista Financiero",
+                    "Tesorero",
+                    "Auditor Interno",
+                    "Director de Ventas",
+                    "Gerente de Marketing",
+                    "Ejecutivo de Cuentas",
+                    "Especialista en Marketing Digital",
+                    "Coordinador de Eventos",
+                    "Analista de Mercado",
+                    "Director de Producción",
+                    "Gerente de Operaciones",
+                    "Supervisor de Línea de Producción",
+                    "Ingeniero de Procesos",
+                    "Técnico de Mantenimiento",
+                    "Planificador de la Cadena de Suministro",
+                    "Director de Investigación y Desarrollo",
+                    "Científico de Laboratorio",
+                    "Ingeniero de Desarrollo de Productos",
+                    "Investigador Senior",
+                    "Especialista en Control de Calidad",
+                    "Analista de Datos",
+                    "Director de Tecnología de la Información (CTO)",
+                    "Administrador de Sistemas",
+                    "Desarrollador de Software",
+                    "Especialista en Seguridad Informática",
+                    "Ingeniero de Redes",
+                    "Soporte Técnico",
+                    "Director de Servicio al Cliente",
+                    "Gerente de Experiencia del Cliente",
+                    "Representante de Servicio al Cliente",
+                    "Especialista en Soporte Técnico",
+                    "Coordinador de Atención al Cliente",
+                    "Analista de Retención de Clientes",
+                    "Director de Logística",
+                    "Gerente de Cadena de Suministro",
+                    "Coordinador de Almacén",
+                    "Planificador de la Producción",
+                    "Analista de Inventarios",
+                    "Especialista en Transporte y Distribución",
+                    "Director Administrativo",
+                    "Gerente de Operaciones Administrativas",
+                    "Coordinador de Oficina",
+                    "Asistente Ejecutivo",
+                    "Especialista en Gestión Documental",
+                    "Analista Administrativo",
+                    "Director Legal",
+                    "Abogado Corporativo",
+                    "Asesor Legal",
+                    "Especialista en Cumplimiento Normativo",
+                    "Investigador Legal",
+                    "Paralegal"
+                ];
+
+                let posicionRandom = Math.floor(Math.random() * todasLasPosiciones.length);
+
+                return todasLasPosiciones[posicionRandom];
+            }
 
             var activeUser = 13896;
             // console.log(activeUser)
@@ -387,6 +513,19 @@
 
         </script>
         <script>
+
+            function obtenerValorDeLaDesc() {
+                let storedDesc = localStorage.getItem('desc');
+
+                // Si hay algo en el localStorage, establecer el valor del input
+                if (storedDesc) {
+                    $('#desc-perfil').val(storedDesc);
+                } else {
+                    // Si no hay nada en el localStorage, dejar el input vacío
+                    $('#desc-perfil').val('');
+                }
+
+            }
 
             function obtenerValorDeLosTags() {
                 // let valor = localStorage.getItem('tags')
@@ -593,6 +732,40 @@
                 });
 
                 if (id == '13896') obtenerValorDeLosTags();
+                if (id == '13896') {
+                    obtenerValorDeLaDesc();
+                    
+                    $('#grabaDesc').confirm({
+                        title: 'Mi Descripción!',
+                        content: '¿Desea guardar su descripción?',
+                        buttons: {
+                            confirm: {
+                                text: 'Aceptar',
+                                action: function () {
+                                    // Obtener el valor del input
+                                    let inputValue = $('#desc-perfil').val();
+
+                                    if (inputValue == '') {
+                                        localStorage.removeItem('desc')
+                                    } else {
+
+                                        // Guardar el objeto en el localStorage
+                                        localStorage.setItem('desc', inputValue);
+                                    }
+                                },
+                                btnClass: 'btn-jq-confirm'
+                            },
+                            cancel: {
+                                action: function () {
+                                    // No se hace nada en caso de cancelación
+                                },
+                                text: 'Cancelar',
+                                btnClass: 'btn-jq-cancel'
+                            }
+                        }
+                    });
+
+                }
 
                 //tuve que hacer esto por un tema de renderizacion del popup, si yo lo cierro, vuelve a cargar pero como persiste el codigo js tira error con la variable TAG
                 (function () {
