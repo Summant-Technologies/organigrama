@@ -218,12 +218,12 @@
 
             function generarAreaWuRandom() {
                 const todasLasAreas = [
-                    "Recursos Humanos (RRHH)",
+                    "Recursos Humanos",
                     "Finanzas y Contabilidad",
                     "Ventas y Marketing",
                     "Producción y Operaciones",
-                    "Investigación y Desarrollo (I+D)",
-                    "Tecnología de la Información (TI)",
+                    "Investigación y Desarrollo",
+                    "Tecnología de la Información",
                     "Servicio al Cliente",
                     "Logística y Cadena de Suministro",
                     "Administración y Gestión",
@@ -345,6 +345,10 @@
 
             var activeUser = 13896;
             // console.log(activeUser)
+
+            for (let i = 0; i < arrayMenu.length; i++) {
+                arrayMenu[i].nombre = generarAreaWuRandom()
+            }
 
             let wuJSON = arrayMenu;
 
@@ -492,7 +496,7 @@
                    <div style="color:#1723FF;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.name}
                          </div>
                    
-                   <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.positionName
+                   <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${generarPosicionEmpleadoRandom()
                         } </div>
                    <div style="margin-top: 5px;display:flex; justify-content: center;
     align-content: center;
@@ -581,7 +585,7 @@
                 </div>
                 <div class="col-8 mt-3 perfil-info">
                     <h2 class="h2-name mb-1 mt-1">${empleadoActual.name}</h2>
-                    <p class="p-puesto mb-1 mt-1">${empleadoActual.positionName} · ${empleadoActual.idWu} </p>
+                    <p class="p-puesto mb-1 mt-1">${generarPosicionEmpleadoRandom()} · ${generarIdAreaRandom()} </p>
                     <div class="horario-container text-lowercase">
                       <!-- <button class="btn-disponible">DISPONIBLE</button> |-->   lunes a viernes 09:00 a 18:00
                     </div>
@@ -635,7 +639,7 @@
                                 <h6 class="m-0 h6-title">EQUIPO</h6>
 
                             </div>
-                            <p class="content-info mt-1" >${empleadoActual.area}</p>
+                            <p class="content-info mt-1" >${generarAreaWuRandom()}</p>
 
                         </div>
 
@@ -723,18 +727,26 @@
 
                 $('#modalPerfil').html(codigoModal);
                 $('#modal-principal').modal({})
-                $(document).ready(function () {
-                    $('#modal-principal').click(function (e) {
-                        if (e.target.id == 'modal-principal') {
-                            $(this).modal('hide');
-                        }
-                    });
+                // $(document).ready(function () {
+                //     $('#modal-principal').click(function (e) {
+                //         if (e.target.id == 'modal-principal') {
+                //             $(this).modal('hide');
+                //         }
+                //     });
+                // });
+                // Cerrar el modal cuando se hace clic fuera de él
+                $(document).mouseup(function (e) {
+                    var modal = $("#modal-principal");
+                    if (!modal.is(e.target) && modal.has(e.target).length === 0) {
+                        modal.modal('hide');
+                    }
                 });
+
 
                 if (id == '13896') obtenerValorDeLosTags();
                 if (id == '13896') {
                     obtenerValorDeLaDesc();
-                    
+
                     $('#grabaDesc').confirm({
                         title: 'Mi Descripción!',
                         content: '¿Desea guardar su descripción?',
@@ -843,8 +855,8 @@
                                             </div>
                                             <div class="col-10 ">
                                                 <p class="nombre" data-toggle="tooltip" title="Hooray!">${empleado.name}</p>
-                                                <p class="puesto">${empleado.positionName}</p>
-                                                <p class="empresa">${empleado.area}</p>
+                                                <p class="puesto">${generarPosicionEmpleadoRandom()}</p>
+                                                <p class="empresa">${generarAreaWuRandom()}</p>
                                             </div>
                                         </div>
                                     </div>
@@ -861,7 +873,7 @@
                                             <div class="col-10 ">
                                                 <p class="nombre" data-toggle="tooltip" title="Hooray!">${jefe.name}</p>
                                                 <p class="puesto">${jefe.office}</p>
-                                                <p class="empresa">${jefe.area}</p>
+                                                <p class="empresa">${generarAreaWuRandom()}</p>
                                             </div>
                                         </div>
                                     </div>
@@ -887,7 +899,7 @@
                         contenido += `
                                         <div class="col-4 p-2">
                                             <p class="nombre">${subordinado.name}</p>
-                                            <p class="empresa">${subordinado.area}</p>
+                                            <p class="empresa">${generarAreaWuRandom()}</p>
                                         </div>
                         `
                     }
@@ -1087,6 +1099,7 @@ body {
                 white-space: nowrap;
                 position: relative;
                 margin-top: 10px;
+                margin-left: 16px;
                 color: black;
                 left: 15px;
             }
@@ -1123,7 +1136,8 @@ body {
                 color: #1723FF;
                 font-size: 1.1rem;
                 content: "\f125";
-                left: 0;
+                left: 4px;
+                top: -1px;
                 display: inline-block;
                 width: 1.6rem;
                 text-align: center;
