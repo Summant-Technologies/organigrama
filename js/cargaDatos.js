@@ -2788,7 +2788,7 @@ var arrayMenu =
 var arrayCompleto = 
 [
     {
-        "name": "Gustavo Longo",
+        "name": "",
         "image": "10019.png",
         "area": "CARD PERSONALIZATION & ATM",
         "profileUrl": " ",
@@ -2804,7 +2804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Di Nardo",
+        "name": "",
         "image": "10024.png",
         "area": "STRATEGY RISK ISSUER",
         "profileUrl": " ",
@@ -2820,7 +2820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermo Carlos Robredo",
+        "name": "",
         "image": "10029.png",
         "area": "DECOUPLING",
         "profileUrl": " ",
@@ -2836,7 +2836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricia Beatriz Espinola",
+        "name": "",
         "image": "10065.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -2852,7 +2852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Enrique Caruso",
+        "name": "",
         "image": "10078.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -2868,7 +2868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karina Conde",
+        "name": "",
         "image": "10132.png",
         "area": "ACQUIRING SERVICES",
         "profileUrl": " ",
@@ -2884,7 +2884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "MIGUEL ANGEL MARINO",
+        "name": "",
         "image": "10195.png",
         "area": "BACK OFFICE REDES",
         "profileUrl": " ",
@@ -2900,7 +2900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roxana Eva Picca",
+        "name": "",
         "image": "10207.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -2916,7 +2916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Flachsland Juan Alberto",
+        "name": "",
         "image": "10218.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO IV",
         "profileUrl": " ",
@@ -2932,7 +2932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Adrian Garcia",
+        "name": "",
         "image": "11377.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -2948,7 +2948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Maximiliano Guillermo Rossi",
+        "name": "",
         "image": "11388.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -2964,7 +2964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Gutierrez",
+        "name": "",
         "image": "11395.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -2980,7 +2980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Solari",
+        "name": "",
         "image": "11408.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -2996,7 +2996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Esteban Rodriguez Alemany",
+        "name": "",
         "image": "11410.png",
         "area": "DESARROLLO DE PRODUCTO EN PUNTO DE VENTA",
         "profileUrl": " ",
@@ -3012,7 +3012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Grisel Emilce Alba",
+        "name": "",
         "image": "11412.png",
         "area": "TALENT ACQUISITION",
         "profileUrl": " ",
@@ -3028,7 +3028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Laura Mustafa",
+        "name": "",
         "image": "11420.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -3044,7 +3044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Javier Otero",
+        "name": "",
         "image": "11433.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -3060,7 +3060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paola Marcela Rotolo",
+        "name": "",
         "image": "11435.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -3076,7 +3076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "ENDARA GISELA GABRIELA",
+        "name": "",
         "image": "11445.png",
         "area": "ADMINISTRACION DE CUENTAS",
         "profileUrl": " ",
@@ -3092,7 +3092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Alejandra Mazzini",
+        "name": "",
         "image": "11448.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -3108,7 +3108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Marcela Orellano",
+        "name": "",
         "image": "11450.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -3124,7 +3124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Matias Varese",
+        "name": "",
         "image": "11451.png",
         "area": "SEGMENTS SMALL",
         "profileUrl": " ",
@@ -3140,7 +3140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia D Aquila Urtubey",
+        "name": "",
         "image": "11458.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -3156,7 +3156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Diaz",
+        "name": "",
         "image": "11483.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -3172,7 +3172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Belen Rodriguez",
+        "name": "",
         "image": "11499.png",
         "area": "PLANIFICACION Y CONTROL",
         "profileUrl": " ",
@@ -3188,7 +3188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Osvaldo Alberto Chancharusso",
+        "name": "",
         "image": "11504.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -3204,7 +3204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Javier Daniele",
+        "name": "",
         "image": "11505.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -3220,7 +3220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Liliana Monica Tchintchinian",
+        "name": "",
         "image": "13642.png",
         "area": "NETWORK & DIGITAL PRODUCTS",
         "profileUrl": " ",
@@ -3236,7 +3236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Arturo Shaw",
+        "name": "",
         "image": "13649.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -3252,7 +3252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Perez",
+        "name": "",
         "image": "13651.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -3268,7 +3268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Hueza",
+        "name": "",
         "image": "13653.png",
         "area": "DATACENTER ENGINEERING",
         "profileUrl": " ",
@@ -3284,7 +3284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Clavijo",
+        "name": "",
         "image": "13654.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -3300,7 +3300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Cafici",
+        "name": "",
         "image": "13656.png",
         "area": "COORD. 2 - CONTROL Y CONFIGURACI�N",
         "profileUrl": " ",
@@ -3316,7 +3316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Florentin",
+        "name": "",
         "image": "13664.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -3332,7 +3332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Johanna Fosco",
+        "name": "",
         "image": "13667.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -3348,7 +3348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Alaniz",
+        "name": "",
         "image": "13672.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -3364,7 +3364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Celeste Autalan",
+        "name": "",
         "image": "13683.png",
         "area": "PLANIFICACI�N Y ENTREGAS",
         "profileUrl": " ",
@@ -3380,7 +3380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Vinci",
+        "name": "",
         "image": "14975.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -3396,7 +3396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Moneta",
+        "name": "",
         "image": "14976.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -3412,7 +3412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Schafer",
+        "name": "",
         "image": "14978.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -3428,7 +3428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Fern�ndez",
+        "name": "",
         "image": "14980.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -3444,7 +3444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tamara Campos",
+        "name": "",
         "image": "14981.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -3460,7 +3460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Frederick Fernandez",
+        "name": "",
         "image": "14983.png",
         "area": "MONITOREO 4",
         "profileUrl": " ",
@@ -3476,7 +3476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauricio Blandino",
+        "name": "",
         "image": "14984.png",
         "area": "SECURITY PRODUCTS",
         "profileUrl": " ",
@@ -3492,7 +3492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Echeverria",
+        "name": "",
         "image": "14985.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -3508,7 +3508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Angel Lopez",
+        "name": "",
         "image": "14991.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -3524,7 +3524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejo Guardia",
+        "name": "",
         "image": "14993.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -3540,7 +3540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Ordaz",
+        "name": "",
         "image": "14995.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -3556,7 +3556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Hernan Briasco",
+        "name": "",
         "image": "14997.png",
         "area": "SYSTEMS QUALITY",
         "profileUrl": " ",
@@ -3572,7 +3572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Liliana De Gregorio",
+        "name": "",
         "image": "14998.png",
         "area": "IT & OPS GOVERNANCE",
         "profileUrl": " ",
@@ -3588,7 +3588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Lozano",
+        "name": "",
         "image": "14999.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -3604,7 +3604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Cordido",
+        "name": "",
         "image": "15001.png",
         "area": "CLIENTS SUPPORT",
         "profileUrl": " ",
@@ -3620,7 +3620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cecilia Beratz",
+        "name": "",
         "image": "15004.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -3636,7 +3636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karen Contreras",
+        "name": "",
         "image": "15006.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -3652,7 +3652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Anchart",
+        "name": "",
         "image": "15008.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -3668,7 +3668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Abner Alvarez",
+        "name": "",
         "image": "15012.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -3684,7 +3684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Blanco",
+        "name": "",
         "image": "15014.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -3700,7 +3700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Palazzo",
+        "name": "",
         "image": "13617.png",
         "area": "DATACENTER ENGINEERING",
         "profileUrl": " ",
@@ -3716,7 +3716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Liniado",
+        "name": "",
         "image": "13619.png",
         "area": "COMMERCIAL PLANNING NDS",
         "profileUrl": " ",
@@ -3732,7 +3732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Noel Araujo",
+        "name": "",
         "image": "13620.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -3748,7 +3748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel La Scalea",
+        "name": "",
         "image": "13622.png",
         "area": "PRODUCTION SUPPORT",
         "profileUrl": " ",
@@ -3764,7 +3764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Carriquiry",
+        "name": "",
         "image": "13623.png",
         "area": "SALUD Y SEGURIDAD",
         "profileUrl": " ",
@@ -3780,7 +3780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Rolon",
+        "name": "",
         "image": "13625.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -3796,7 +3796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Paz",
+        "name": "",
         "image": "13629.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -3812,7 +3812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Ocampo",
+        "name": "",
         "image": "13631.png",
         "area": "GOVERNANCE",
         "profileUrl": " ",
@@ -3828,7 +3828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Libretti",
+        "name": "",
         "image": "13633.png",
         "area": "CENTRAL PROCESSING",
         "profileUrl": " ",
@@ -3844,7 +3844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Baltasar Lartigue",
+        "name": "",
         "image": "13639.png",
         "area": "RETAIL SALES",
         "profileUrl": " ",
@@ -3860,7 +3860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Parera",
+        "name": "",
         "image": "13640.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -3876,7 +3876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Renzo Catari",
+        "name": "",
         "image": "14781.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -3892,7 +3892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "AXEL HAUSBAUER",
+        "name": "",
         "image": "14783.png",
         "area": "COMMERCIAL BUSINESS  PARTNER",
         "profileUrl": " ",
@@ -3908,7 +3908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "JUAN IVANOVICH",
+        "name": "",
         "image": "14784.png",
         "area": "ADMINISTRACION DE CUENTAS",
         "profileUrl": " ",
@@ -3924,7 +3924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Gatti",
+        "name": "",
         "image": "14787.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -3940,7 +3940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Brollo",
+        "name": "",
         "image": "14789.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -3956,7 +3956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Cesani",
+        "name": "",
         "image": "14790.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -3972,7 +3972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ivan Ausqui",
+        "name": "",
         "image": "14791.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -3988,7 +3988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Flores",
+        "name": "",
         "image": "14793.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -4004,7 +4004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Matias Suarez",
+        "name": "",
         "image": "14794.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -4020,7 +4020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernanda Cuneo",
+        "name": "",
         "image": "14797.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -4036,7 +4036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Castagna",
+        "name": "",
         "image": "14798.png",
         "area": "PRE-SALES",
         "profileUrl": " ",
@@ -4052,7 +4052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Alonso",
+        "name": "",
         "image": "14799.png",
         "area": "CORPORATE NETWORK",
         "profileUrl": " ",
@@ -4068,7 +4068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Annerys Arroyo",
+        "name": "",
         "image": "14800.png",
         "area": "DESPLIEGUE DE SOFTWARE",
         "profileUrl": " ",
@@ -4084,7 +4084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Bisutti",
+        "name": "",
         "image": "14814.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -4100,7 +4100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Andres Cavillon",
+        "name": "",
         "image": "14815.png",
         "area": "OPERACIONES - CONTROL OPERATIVO",
         "profileUrl": " ",
@@ -4116,7 +4116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesus Arcia",
+        "name": "",
         "image": "14816.png",
         "area": "CORPORATE NETWORK",
         "profileUrl": " ",
@@ -4132,7 +4132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damaris Ghisell Suarez Dugarte",
+        "name": "",
         "image": "14818.png",
         "area": "ANALYTICS TRANSLATOR & DATA SCIENCE",
         "profileUrl": " ",
@@ -4148,7 +4148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Ferrandino",
+        "name": "",
         "image": "14820.png",
         "area": "BUDGET & CONTROLLING",
         "profileUrl": " ",
@@ -4164,7 +4164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Vogel",
+        "name": "",
         "image": "13498.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -4180,7 +4180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Gambini",
+        "name": "",
         "image": "13501.png",
         "area": "COORDINACION PROCESAMIENTO",
         "profileUrl": " ",
@@ -4196,7 +4196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Chaves",
+        "name": "",
         "image": "13502.png",
         "area": "COORD 1 - CONTROL Y CONFIGURACI�N",
         "profileUrl": " ",
@@ -4212,7 +4212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Sarafoglu",
+        "name": "",
         "image": "13534.png",
         "area": "COLLECTIONS & CLEARING NEWPAY",
         "profileUrl": " ",
@@ -4228,7 +4228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fabian Acevedo",
+        "name": "",
         "image": "13535.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -4244,7 +4244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Vera",
+        "name": "",
         "image": "13543.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -4260,7 +4260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Jimenez Klar",
+        "name": "",
         "image": "13544.png",
         "area": "PRODUCTION SUPPORT",
         "profileUrl": " ",
@@ -4276,7 +4276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Zarza",
+        "name": "",
         "image": "13545.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -4292,7 +4292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo San Jose",
+        "name": "",
         "image": "13552.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -4308,7 +4308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Medina",
+        "name": "",
         "image": "13557.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -4324,7 +4324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Veronica Gonzalez",
+        "name": "",
         "image": "13563.png",
         "area": "IT NETWORK DIGITAL SOLUTIONS",
         "profileUrl": " ",
@@ -4340,7 +4340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Rolando",
+        "name": "",
         "image": "13565.png",
         "area": "COORDINACION PROCESAMIENTO",
         "profileUrl": " ",
@@ -4356,7 +4356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Vittoriano",
+        "name": "",
         "image": "13572.png",
         "area": "PRODUCTION SUPPORT",
         "profileUrl": " ",
@@ -4372,7 +4372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Bo",
+        "name": "",
         "image": "13577.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -4388,7 +4388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Fontes",
+        "name": "",
         "image": "13480.png",
         "area": "CORPORATE NETWORK",
         "profileUrl": " ",
@@ -4404,7 +4404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Liendo",
+        "name": "",
         "image": "13483.png",
         "area": "CARD PERSONALIZATION & ATM",
         "profileUrl": " ",
@@ -4420,7 +4420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alberto Parrado",
+        "name": "",
         "image": "13485.png",
         "area": "DATACENTER ENGINEERING",
         "profileUrl": " ",
@@ -4436,7 +4436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Ruben Salas",
+        "name": "",
         "image": "13489.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -4452,7 +4452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Bonfini",
+        "name": "",
         "image": "13495.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -4468,7 +4468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lionel Arce",
+        "name": "",
         "image": "13497.png",
         "area": "DISPONIBILIDAD",
         "profileUrl": " ",
@@ -4484,7 +4484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Perez",
+        "name": "",
         "image": "13033.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -4500,7 +4500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Angel Villanueva",
+        "name": "",
         "image": "13083.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -4516,7 +4516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Stumpf",
+        "name": "",
         "image": "13118.png",
         "area": "COLLECTIONS & CLEARING NEWPAY",
         "profileUrl": " ",
@@ -4532,7 +4532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "DANIEL SCAVINO ARISTIMUNO",
+        "name": "",
         "image": "13121.png",
         "area": "COLLECTIONS & CLEARING NEWPAY",
         "profileUrl": " ",
@@ -4548,7 +4548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Giuliano",
+        "name": "",
         "image": "13127.png",
         "area": "BANCOS PUBLICOS",
         "profileUrl": " ",
@@ -4564,7 +4564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Osvaldo Novillo",
+        "name": "",
         "image": "13132.png",
         "area": "PLANIFICACI�N Y ENTREGAS",
         "profileUrl": " ",
@@ -4580,7 +4580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Martin",
+        "name": "",
         "image": "13181.png",
         "area": "NETWORK & DIGITAL PRODUCTS",
         "profileUrl": " ",
@@ -4596,7 +4596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Gutierrez",
+        "name": "",
         "image": "13182.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -4612,7 +4612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Lopez",
+        "name": "",
         "image": "13197.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -4628,7 +4628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Chalela",
+        "name": "",
         "image": "13251.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -4644,7 +4644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandra Bossetti",
+        "name": "",
         "image": "13256.png",
         "area": "IT & OPS NEWPAY",
         "profileUrl": " ",
@@ -4660,7 +4660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Bonelli",
+        "name": "",
         "image": "13258.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -4676,7 +4676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Pagliari",
+        "name": "",
         "image": "13268.png",
         "area": "BUSINESS CONTINUITY",
         "profileUrl": " ",
@@ -4692,7 +4692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio De Marchi",
+        "name": "",
         "image": "13275.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -4708,7 +4708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Morea",
+        "name": "",
         "image": "13282.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -4724,7 +4724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ailen Leiva",
+        "name": "",
         "image": "14763.png",
         "area": "BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -4740,7 +4740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Rios",
+        "name": "",
         "image": "14766.png",
         "area": "SERVICIOS ADQUIRENCIA",
         "profileUrl": " ",
@@ -4756,7 +4756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciano Vasquez",
+        "name": "",
         "image": "14772.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -4772,7 +4772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jefre Suniaga",
+        "name": "",
         "image": "14774.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -4788,7 +4788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauricio Escobar",
+        "name": "",
         "image": "14778.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -4804,7 +4804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Martinez",
+        "name": "",
         "image": "14928.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -4820,7 +4820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Gasparoli",
+        "name": "",
         "image": "14929.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -4836,7 +4836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nerina Ermacora",
+        "name": "",
         "image": "14930.png",
         "area": "CLIENT ADMINISTRATION",
         "profileUrl": " ",
@@ -4852,7 +4852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Manuel Delgado",
+        "name": "",
         "image": "14931.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -4868,7 +4868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo DAlessandro",
+        "name": "",
         "image": "14935.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -4884,7 +4884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesus Belloso",
+        "name": "",
         "image": "14936.png",
         "area": "MONITOREO 2",
         "profileUrl": " ",
@@ -4900,7 +4900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Ozuna",
+        "name": "",
         "image": "14945.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -4916,7 +4916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Celeste Curtoni",
+        "name": "",
         "image": "14952.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -4932,7 +4932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Leone",
+        "name": "",
         "image": "15386.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -4948,7 +4948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Esteban Kabakian",
+        "name": "",
         "image": "15390.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -4964,7 +4964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tayruma Fernandez",
+        "name": "",
         "image": "15391.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -4980,7 +4980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Carlos Blasi",
+        "name": "",
         "image": "12108.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -4996,7 +4996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Martin Fernandez",
+        "name": "",
         "image": "12110.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -5012,7 +5012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Maria Noel Gonzalez",
+        "name": "",
         "image": "12113.png",
         "area": "SEGMENTS LARGE- MEDIUM",
         "profileUrl": " ",
@@ -5028,7 +5028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Noelia Kilich",
+        "name": "",
         "image": "12116.png",
         "area": "PRESS & PUBLIC RELATIONS",
         "profileUrl": " ",
@@ -5044,7 +5044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Moreira",
+        "name": "",
         "image": "12118.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -5060,7 +5060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Maria Gainza",
+        "name": "",
         "image": "12119.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -5076,7 +5076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gisela Brossard",
+        "name": "",
         "image": "12132.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -5092,7 +5092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eliana Valeria Tylkovitch",
+        "name": "",
         "image": "12134.png",
         "area": "LEGAL CORPORATE",
         "profileUrl": " ",
@@ -5108,7 +5108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Di Bona",
+        "name": "",
         "image": "12164.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -5124,7 +5124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Dell Erba Russo",
+        "name": "",
         "image": "12066.png",
         "area": "IFRS & ACCOUNTING",
         "profileUrl": " ",
@@ -5140,7 +5140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Ivan Arias Peralta",
+        "name": "",
         "image": "12070.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -5156,7 +5156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Di Matteo",
+        "name": "",
         "image": "12077.png",
         "area": "IT ISSUING PROCESSING - TEAM 2",
         "profileUrl": " ",
@@ -5172,7 +5172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leopoldo Rabuffetti",
+        "name": "",
         "image": "12078.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -5188,7 +5188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Analia Beatriz Fernandez",
+        "name": "",
         "image": "12081.png",
         "area": "CORE ISSUING",
         "profileUrl": " ",
@@ -5204,7 +5204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Victoria Pasgal",
+        "name": "",
         "image": "12100.png",
         "area": "CLIENT ADMINISTRATION",
         "profileUrl": " ",
@@ -5220,7 +5220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermina Ferdani",
+        "name": "",
         "image": "12102.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -5236,7 +5236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Hazimeh",
+        "name": "",
         "image": "14522.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -5252,7 +5252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Kevin Hernandez",
+        "name": "",
         "image": "14523.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -5268,7 +5268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Uciel Cicarelli",
+        "name": "",
         "image": "14525.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -5284,7 +5284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Camilo Moreno",
+        "name": "",
         "image": "14528.png",
         "area": "SERVERS & STORAGE TECHNOLOGIES",
         "profileUrl": " ",
@@ -5300,7 +5300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Bednarz",
+        "name": "",
         "image": "14532.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -5316,7 +5316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Wilfredo De Turris Morales",
+        "name": "",
         "image": "14536.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -5332,7 +5332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Johanna Medina",
+        "name": "",
         "image": "14538.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -5348,7 +5348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Ariel Barthelemi",
+        "name": "",
         "image": "14545.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -5364,7 +5364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Ojeda",
+        "name": "",
         "image": "14555.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -5380,7 +5380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Villavicencio",
+        "name": "",
         "image": "14557.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -5396,7 +5396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Fraile",
+        "name": "",
         "image": "14560.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -5412,7 +5412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Valeria Garcia",
+        "name": "",
         "image": "14566.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -5428,7 +5428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Burdet",
+        "name": "",
         "image": "14567.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -5444,7 +5444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pedro Fernandez Orona",
+        "name": "",
         "image": "14568.png",
         "area": "TESORERIA",
         "profileUrl": " ",
@@ -5460,7 +5460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Alberto Liendro",
+        "name": "",
         "image": "14569.png",
         "area": "IT ACQUIRING - TEAM 8",
         "profileUrl": " ",
@@ -5476,7 +5476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Abud",
+        "name": "",
         "image": "14570.png",
         "area": "PARTNERSHIPS",
         "profileUrl": " ",
@@ -5492,7 +5492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Gonzalez",
+        "name": "",
         "image": "14571.png",
         "area": "CLIENTS SUPPORT",
         "profileUrl": " ",
@@ -5508,7 +5508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gisele Monzon",
+        "name": "",
         "image": "14577.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -5524,7 +5524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Rodriguez",
+        "name": "",
         "image": "14580.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -5540,7 +5540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roberto Padilla",
+        "name": "",
         "image": "13936.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -5556,7 +5556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Esp�ndola",
+        "name": "",
         "image": "13937.png",
         "area": "IT INSTANT PAYMENTS",
         "profileUrl": " ",
@@ -5572,7 +5572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Riscalde",
+        "name": "",
         "image": "13940.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -5588,7 +5588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Cecilia Fernandez Cozzuol",
+        "name": "",
         "image": "13943.png",
         "area": "IS GOVERNANCE, RISK & COMPLIANCE",
         "profileUrl": " ",
@@ -5604,7 +5604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Griselda Meza",
+        "name": "",
         "image": "13944.png",
         "area": "COMUNICACI�N NORMATIVA A ENTIDADES",
         "profileUrl": " ",
@@ -5620,7 +5620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Fernando Carignani",
+        "name": "",
         "image": "13945.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -5636,7 +5636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Rodriguez",
+        "name": "",
         "image": "13946.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -5652,7 +5652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Arrastia",
+        "name": "",
         "image": "13951.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -5668,7 +5668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cynthia Vazquez",
+        "name": "",
         "image": "13958.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -5684,7 +5684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Emanuel Merlo",
+        "name": "",
         "image": "12597.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -5700,7 +5700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diana Marcela Lopez",
+        "name": "",
         "image": "12600.png",
         "area": "IT ACQUIRING - TEAM 1",
         "profileUrl": " ",
@@ -5716,7 +5716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "LAURA LUCIANA MINO",
+        "name": "",
         "image": "12604.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -5732,7 +5732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Dos Santos Tome",
+        "name": "",
         "image": "12605.png",
         "area": "ENTERPRISE BUSINESS INTELLIGENCE",
         "profileUrl": " ",
@@ -5748,7 +5748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristhian Daniel Sanchez",
+        "name": "",
         "image": "12607.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -5764,7 +5764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Humberto Hernandez",
+        "name": "",
         "image": "12608.png",
         "area": "SYSTEMS QUALITY",
         "profileUrl": " ",
@@ -5780,7 +5780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Sebastian Carjuzaa",
+        "name": "",
         "image": "12609.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -5796,7 +5796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hugo Astorga",
+        "name": "",
         "image": "12611.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -5812,7 +5812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Simon",
+        "name": "",
         "image": "12613.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -5828,7 +5828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Adrian Pitisano",
+        "name": "",
         "image": "12614.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -5844,7 +5844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Maria Murillo",
+        "name": "",
         "image": "12615.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -5860,7 +5860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Alvarez",
+        "name": "",
         "image": "12596.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO I",
         "profileUrl": " ",
@@ -5876,7 +5876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcela Fortunato",
+        "name": "",
         "image": "14731.png",
         "area": "COMPLIANCE",
         "profileUrl": " ",
@@ -5892,7 +5892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Enrique Reyes Ordonez",
+        "name": "",
         "image": "14732.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -5908,7 +5908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Sol Peralta",
+        "name": "",
         "image": "14736.png",
         "area": "DIGITAL FACTORY BUSINESS PARTNER",
         "profileUrl": " ",
@@ -5924,7 +5924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Lizarraga",
+        "name": "",
         "image": "14737.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -5940,7 +5940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Ivan Britos Yrepa",
+        "name": "",
         "image": "14738.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -5956,7 +5956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Arguello",
+        "name": "",
         "image": "14745.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -5972,7 +5972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Pagliaro",
+        "name": "",
         "image": "14751.png",
         "area": "DATABASE ADMINISTRATION",
         "profileUrl": " ",
@@ -5988,7 +5988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victoria Gonzalez",
+        "name": "",
         "image": "14752.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -6004,7 +6004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dalma Ambroj",
+        "name": "",
         "image": "14753.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -6020,7 +6020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victoria Segovia",
+        "name": "",
         "image": "14755.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -6036,7 +6036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Antonio Rivero Barrera",
+        "name": "",
         "image": "14757.png",
         "area": "CLIENT ADMINISTRATION",
         "profileUrl": " ",
@@ -6052,7 +6052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ninibeth Torres",
+        "name": "",
         "image": "14759.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -6068,7 +6068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melina Carvallo",
+        "name": "",
         "image": "14760.png",
         "area": "RESOLUCION DE FRAUDES",
         "profileUrl": " ",
@@ -6084,7 +6084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Manuel Fernando Vega",
+        "name": "",
         "image": "14916.png",
         "area": "PARTNERSHIPS",
         "profileUrl": " ",
@@ -6100,7 +6100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Sebastian Lonatti",
+        "name": "",
         "image": "14918.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -6116,7 +6116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Kaplan",
+        "name": "",
         "image": "14923.png",
         "area": "EXECUTIVE AREA",
         "profileUrl": " ",
@@ -6132,7 +6132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Ezequiel Ferrari",
+        "name": "",
         "image": "11861.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -6148,7 +6148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "FRANCO DANIEL PE�AS",
+        "name": "",
         "image": "11864.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO II",
         "profileUrl": " ",
@@ -6164,7 +6164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Andres Rossi",
+        "name": "",
         "image": "11867.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -6180,7 +6180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Salvarezza",
+        "name": "",
         "image": "11868.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO II",
         "profileUrl": " ",
@@ -6196,7 +6196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Magdalena Simunovich",
+        "name": "",
         "image": "11869.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -6212,7 +6212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Susana Vasconi",
+        "name": "",
         "image": "11871.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -6228,7 +6228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Martin Cordoba",
+        "name": "",
         "image": "11888.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -6244,7 +6244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Leandro Ulrich",
+        "name": "",
         "image": "11894.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -6260,7 +6260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Daniel Magistris",
+        "name": "",
         "image": "11900.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -6276,7 +6276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Jose Discoli",
+        "name": "",
         "image": "11821.png",
         "area": "FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -6292,7 +6292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yanina Carla Gomez",
+        "name": "",
         "image": "11840.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -6308,7 +6308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Veronica Merdech",
+        "name": "",
         "image": "11845.png",
         "area": "TELEMARKETING - OPERACI�N INTERNA",
         "profileUrl": " ",
@@ -6324,7 +6324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Daniel Risso",
+        "name": "",
         "image": "11850.png",
         "area": "PLANIFICACI�N Y ENTREGAS",
         "profileUrl": " ",
@@ -6340,7 +6340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Arturo Bravo",
+        "name": "",
         "image": "11854.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -6356,7 +6356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Graciela Davico",
+        "name": "",
         "image": "11857.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -6372,7 +6372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Laura Duarte",
+        "name": "",
         "image": "11858.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -6388,7 +6388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano David Encina",
+        "name": "",
         "image": "11859.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -6404,7 +6404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Paola Martinez",
+        "name": "",
         "image": "11747.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -6420,7 +6420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Omar Caceres",
+        "name": "",
         "image": "11748.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -6436,7 +6436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Cruz Alvarez",
+        "name": "",
         "image": "11749.png",
         "area": "INSTITUTIONAL RELATIONS & LEGAL",
         "profileUrl": " ",
@@ -6452,7 +6452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Elois Huck",
+        "name": "",
         "image": "11762.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -6468,7 +6468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Andres Navarro",
+        "name": "",
         "image": "11765.png",
         "area": "TESORERIA",
         "profileUrl": " ",
@@ -6484,7 +6484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paola Valeria Romano",
+        "name": "",
         "image": "11769.png",
         "area": "COMUNICACI�N NORMATIVA A ENTIDADES",
         "profileUrl": " ",
@@ -6500,7 +6500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Lujan Briasco",
+        "name": "",
         "image": "11772.png",
         "area": "ADMINISTRACION DE CUENTAS",
         "profileUrl": " ",
@@ -6516,7 +6516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Carla Candiano",
+        "name": "",
         "image": "11773.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -6532,7 +6532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Ippolito",
+        "name": "",
         "image": "11776.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -6548,7 +6548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Maria Lareo",
+        "name": "",
         "image": "11778.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -6564,7 +6564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudia Andrea Nogueira",
+        "name": "",
         "image": "11781.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -6580,7 +6580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maydel Gonzalez Suarez",
+        "name": "",
         "image": "11791.png",
         "area": "COMMERCIAL BUSINESS  PARTNER",
         "profileUrl": " ",
@@ -6596,7 +6596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Analia Veronica Rodriguez",
+        "name": "",
         "image": "11796.png",
         "area": "GESTI�N CLIENTES",
         "profileUrl": " ",
@@ -6612,7 +6612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Stavropoulos",
+        "name": "",
         "image": "11797.png",
         "area": "RISK ISSUER",
         "profileUrl": " ",
@@ -6628,7 +6628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Belen Tassinari",
+        "name": "",
         "image": "11798.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -6644,7 +6644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karina Daniela Villalba",
+        "name": "",
         "image": "11799.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -6660,7 +6660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Hernan Baldini",
+        "name": "",
         "image": "11800.png",
         "area": "DECOUPLING",
         "profileUrl": " ",
@@ -6676,7 +6676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Barcelo",
+        "name": "",
         "image": "11803.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -6692,7 +6692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Solange Gil",
+        "name": "",
         "image": "11807.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -6708,7 +6708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Paolo Ponte",
+        "name": "",
         "image": "14262.png",
         "area": "DATABASE ADMINISTRATION",
         "profileUrl": " ",
@@ -6724,7 +6724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Lemos",
+        "name": "",
         "image": "14276.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -6740,7 +6740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Lina Vetere",
+        "name": "",
         "image": "14283.png",
         "area": "LARGE ACCOUNT REGIONAL",
         "profileUrl": " ",
@@ -6756,7 +6756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melina Veronica Rodriguez",
+        "name": "",
         "image": "14284.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -6772,7 +6772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Beotegui",
+        "name": "",
         "image": "14286.png",
         "area": "DATABASE ADMINISTRATION",
         "profileUrl": " ",
@@ -6788,7 +6788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Javier Abiuso",
+        "name": "",
         "image": "14291.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -6804,7 +6804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Gorriaran",
+        "name": "",
         "image": "14293.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -6820,7 +6820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Straffurini",
+        "name": "",
         "image": "14297.png",
         "area": "SOCIETARIO Y CORPORATIVO",
         "profileUrl": " ",
@@ -6836,7 +6836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Plaza",
+        "name": "",
         "image": "14298.png",
         "area": "INTERNATIONAL BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -6852,7 +6852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Alpini",
+        "name": "",
         "image": "14308.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -6868,7 +6868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Hernandez",
+        "name": "",
         "image": "15199.png",
         "area": "TRADE MARKETING",
         "profileUrl": " ",
@@ -6884,7 +6884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Bonafine",
+        "name": "",
         "image": "15200.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -6900,7 +6900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Paparatto",
+        "name": "",
         "image": "15201.png",
         "area": "ACQUIRING BUSINESS BANK CHANNEL",
         "profileUrl": " ",
@@ -6916,7 +6916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Carbajal",
+        "name": "",
         "image": "15204.png",
         "area": "ACQUISITION & LOYALTY",
         "profileUrl": " ",
@@ -6932,7 +6932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Orts",
+        "name": "",
         "image": "15205.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -6948,7 +6948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Rojo",
+        "name": "",
         "image": "15206.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -6964,7 +6964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucila Dotti",
+        "name": "",
         "image": "15210.png",
         "area": "PARTNERSHIPS",
         "profileUrl": " ",
@@ -6980,7 +6980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "David Burgos",
+        "name": "",
         "image": "15211.png",
         "area": "ISSUING PROCESSING",
         "profileUrl": " ",
@@ -6996,7 +6996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Solange Bagnasco",
+        "name": "",
         "image": "15219.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -7012,7 +7012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dario Taballa",
+        "name": "",
         "image": "15220.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -7028,7 +7028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Eliano",
+        "name": "",
         "image": "15221.png",
         "area": "BIG DATA",
         "profileUrl": " ",
@@ -7044,7 +7044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julieta Ramon",
+        "name": "",
         "image": "15223.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -7060,7 +7060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Lujan Perez",
+        "name": "",
         "image": "15225.png",
         "area": "DEBIT CARD SERVICES",
         "profileUrl": " ",
@@ -7076,7 +7076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciano Fernandez Cuzzocrea",
+        "name": "",
         "image": "15384.png",
         "area": "CORPORATE DEVELOPMENT",
         "profileUrl": " ",
@@ -7092,7 +7092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Ramirez",
+        "name": "",
         "image": "15924.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -7108,7 +7108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Marcelo Sotto",
+        "name": "",
         "image": "15925.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -7124,7 +7124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Sebastian Martinez",
+        "name": "",
         "image": "15926.png",
         "area": "TRANSACTIONAL WEB SERVICES",
         "profileUrl": " ",
@@ -7140,7 +7140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Arocha",
+        "name": "",
         "image": "15932.png",
         "area": "IT STRATEGY",
         "profileUrl": " ",
@@ -7156,7 +7156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Felix Rafael Padilla",
+        "name": "",
         "image": "15934.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -7172,7 +7172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Javier Vallejo",
+        "name": "",
         "image": "15936.png",
         "area": "COMMERCIAL PLANNING ISSUING",
         "profileUrl": " ",
@@ -7188,7 +7188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesica Beatriz Acuna Fernandez",
+        "name": "",
         "image": "15937.png",
         "area": "COMMERCIAL PLANNING ISSUING",
         "profileUrl": " ",
@@ -7204,7 +7204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Ruth Ponce",
+        "name": "",
         "image": "15938.png",
         "area": "SEGMENTO",
         "profileUrl": " ",
@@ -7220,7 +7220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Daniel Palmieri",
+        "name": "",
         "image": "11299.png",
         "area": "PROCESOS DE COMERCIOS 2",
         "profileUrl": " ",
@@ -7236,7 +7236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Raul Fichera",
+        "name": "",
         "image": "11302.png",
         "area": "ACCOUNTS PAYABLE",
         "profileUrl": " ",
@@ -7252,7 +7252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Hernan Santini",
+        "name": "",
         "image": "11306.png",
         "area": "BACK OFFICE NEWPAY",
         "profileUrl": " ",
@@ -7268,7 +7268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Marconi",
+        "name": "",
         "image": "11322.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -7284,7 +7284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Romandetto",
+        "name": "",
         "image": "11344.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -7300,7 +7300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Alberto Sosto",
+        "name": "",
         "image": "11345.png",
         "area": "BUDGET & CONTROLLING",
         "profileUrl": " ",
@@ -7316,7 +7316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alfredo Jose Cruz",
+        "name": "",
         "image": "11367.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -7332,7 +7332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Adriana Alonso Conde",
+        "name": "",
         "image": "11372.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO I",
         "profileUrl": " ",
@@ -7348,7 +7348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Magliano",
+        "name": "",
         "image": "11373.png",
         "area": "DISPUTE & BACK OFFICE",
         "profileUrl": " ",
@@ -7364,7 +7364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Guillermo Rodriguez Del Carlo",
+        "name": "",
         "image": "11008.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -7380,7 +7380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Andres Traversi",
+        "name": "",
         "image": "11009.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -7396,7 +7396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Micieli",
+        "name": "",
         "image": "11011.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -7412,7 +7412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marisa Roxana Lo Bruno",
+        "name": "",
         "image": "11020.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -7428,7 +7428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanina Beatriz Castro",
+        "name": "",
         "image": "11021.png",
         "area": "INTELIGENCIA TRANSACCIONAL OPERATIVA",
         "profileUrl": " ",
@@ -7444,7 +7444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tamara Renee Gonzalez Cordido",
+        "name": "",
         "image": "11049.png",
         "area": "IN-STORE PAYMENT SERVICES & LONG TERM PROJECT",
         "profileUrl": " ",
@@ -7460,7 +7460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paola Andrea Migliazza Oyarvide",
+        "name": "",
         "image": "11057.png",
         "area": "SERVICES & GOVERNMENT SALES",
         "profileUrl": " ",
@@ -7476,7 +7476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Luis Ya�ez",
+        "name": "",
         "image": "11063.png",
         "area": "BUDGET & CONTROLLING",
         "profileUrl": " ",
@@ -7492,7 +7492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Horacio Mareco",
+        "name": "",
         "image": "11069.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -7508,7 +7508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melina Ayelen Petraglia",
+        "name": "",
         "image": "13965.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -7524,7 +7524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Cadente",
+        "name": "",
         "image": "13969.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -7540,7 +7540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Saenz Samaniego",
+        "name": "",
         "image": "13979.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -7556,7 +7556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Scalella",
+        "name": "",
         "image": "13999.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -7572,7 +7572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Cavagni",
+        "name": "",
         "image": "14000.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -7588,7 +7588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauro Gabriel G. Rodriguez Pesce",
+        "name": "",
         "image": "14003.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -7604,7 +7604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Sierra",
+        "name": "",
         "image": "14010.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -7620,7 +7620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jeanette Guerrero",
+        "name": "",
         "image": "14011.png",
         "area": "RISK DESICION",
         "profileUrl": " ",
@@ -7636,7 +7636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Bava",
+        "name": "",
         "image": "14013.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -7652,7 +7652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Gabriel Escobar",
+        "name": "",
         "image": "14015.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -7668,7 +7668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anahi Martinez",
+        "name": "",
         "image": "14211.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -7684,7 +7684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Cortes",
+        "name": "",
         "image": "14214.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -7700,7 +7700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Mashnshnek",
+        "name": "",
         "image": "14215.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -7716,7 +7716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rocio Soledad Garcia",
+        "name": "",
         "image": "14233.png",
         "area": "OPERACI�N EXTERNA",
         "profileUrl": " ",
@@ -7732,7 +7732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daiana Andrea Merlo",
+        "name": "",
         "image": "14234.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -7748,7 +7748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Bernardo Caceres",
+        "name": "",
         "image": "14243.png",
         "area": "DATABASE ADMINISTRATION",
         "profileUrl": " ",
@@ -7764,7 +7764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Carugati",
+        "name": "",
         "image": "14249.png",
         "area": "MERCHANT SERVICES",
         "profileUrl": " ",
@@ -7780,7 +7780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emmanuel Charotti",
+        "name": "",
         "image": "14252.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -7796,7 +7796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Osses",
+        "name": "",
         "image": "14253.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -7812,7 +7812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Peinador",
+        "name": "",
         "image": "14588.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -7828,7 +7828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "David Eduardo Martin Bouzas",
+        "name": "",
         "image": "14589.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -7844,7 +7844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Monzon",
+        "name": "",
         "image": "14590.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -7860,7 +7860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Ariel Farias",
+        "name": "",
         "image": "14592.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -7876,7 +7876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Quiroga",
+        "name": "",
         "image": "14594.png",
         "area": "CORPORATE NETWORK",
         "profileUrl": " ",
@@ -7892,7 +7892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Alberto Corengia",
+        "name": "",
         "image": "14603.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -7908,7 +7908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Domingo Chmenia",
+        "name": "",
         "image": "14605.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -7924,7 +7924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Ignacio Tabares",
+        "name": "",
         "image": "14607.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -7940,7 +7940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lorena Paola Gonzalez",
+        "name": "",
         "image": "14614.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -7956,7 +7956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Guichal",
+        "name": "",
         "image": "14625.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -7972,7 +7972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Gutierrez",
+        "name": "",
         "image": "14627.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -7988,7 +7988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "LUCAS EZEQUIEL CELAYA",
+        "name": "",
         "image": "14636.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -8004,7 +8004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Celeste Molina",
+        "name": "",
         "image": "14638.png",
         "area": "DEBIT CARD SERVICES",
         "profileUrl": " ",
@@ -8020,7 +8020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Carlos Incoronato",
+        "name": "",
         "image": "14643.png",
         "area": "MONITOREO 2",
         "profileUrl": " ",
@@ -8036,7 +8036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Soledad Mendes",
+        "name": "",
         "image": "14644.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -8052,7 +8052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Sebastian Yuhak",
+        "name": "",
         "image": "14650.png",
         "area": "NETWORK OPERATION CENTER",
         "profileUrl": " ",
@@ -8068,7 +8068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Ceolin",
+        "name": "",
         "image": "14651.png",
         "area": "BILLING IPS",
         "profileUrl": " ",
@@ -8084,7 +8084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Flores",
+        "name": "",
         "image": "14652.png",
         "area": "CORPORATE WEB SERVICES",
         "profileUrl": " ",
@@ -8100,7 +8100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Illobre",
+        "name": "",
         "image": "14656.png",
         "area": "CUMPLIMIENTO REGULATORIO",
         "profileUrl": " ",
@@ -8116,7 +8116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Morosetti",
+        "name": "",
         "image": "13333.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -8132,7 +8132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Avalos",
+        "name": "",
         "image": "13339.png",
         "area": "ISSUING BUSINESS",
         "profileUrl": " ",
@@ -8148,7 +8148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Alberto Berardoni",
+        "name": "",
         "image": "13346.png",
         "area": "BACK OFFICE REDES",
         "profileUrl": " ",
@@ -8164,7 +8164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Iraci",
+        "name": "",
         "image": "13363.png",
         "area": "GESTION DE INCIDENTES",
         "profileUrl": " ",
@@ -8180,7 +8180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Maidana",
+        "name": "",
         "image": "13364.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -8196,7 +8196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Lera",
+        "name": "",
         "image": "13372.png",
         "area": "PRODUCTION SUPPORT",
         "profileUrl": " ",
@@ -8212,7 +8212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Mayer",
+        "name": "",
         "image": "13374.png",
         "area": "ACCOUNTS PAYABLE",
         "profileUrl": " ",
@@ -8228,7 +8228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Sasbon",
+        "name": "",
         "image": "13379.png",
         "area": "MONITOREO 2",
         "profileUrl": " ",
@@ -8244,7 +8244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Segal",
+        "name": "",
         "image": "13382.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -8260,7 +8260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel De Luca",
+        "name": "",
         "image": "13393.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -8276,7 +8276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Munoz",
+        "name": "",
         "image": "13406.png",
         "area": "CARD PERSONALIZATION & ATM",
         "profileUrl": " ",
@@ -8292,7 +8292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge De Marco",
+        "name": "",
         "image": "13411.png",
         "area": "PMC OPERATIONS - TEAM 2",
         "profileUrl": " ",
@@ -8308,7 +8308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Galarza",
+        "name": "",
         "image": "13416.png",
         "area": "STRATEGY & PERFORMANCE",
         "profileUrl": " ",
@@ -8324,7 +8324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alberto Barrios",
+        "name": "",
         "image": "13421.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -8340,7 +8340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Gribnicov",
+        "name": "",
         "image": "13435.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -8356,7 +8356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Oscar Viu",
+        "name": "",
         "image": "13446.png",
         "area": "COORDINACION PROCESAMIENTO",
         "profileUrl": " ",
@@ -8372,7 +8372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Viglione",
+        "name": "",
         "image": "13464.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -8388,7 +8388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julio Anselmi",
+        "name": "",
         "image": "13475.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -8404,7 +8404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anibal Kawabata",
+        "name": "",
         "image": "13858.png",
         "area": "PROCESSING",
         "profileUrl": " ",
@@ -8420,7 +8420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Costamagna",
+        "name": "",
         "image": "13859.png",
         "area": "PRODUCTION SUPPORT",
         "profileUrl": " ",
@@ -8436,7 +8436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Suarez",
+        "name": "",
         "image": "13860.png",
         "area": "ONLINE PAYMENT SERVICES",
         "profileUrl": " ",
@@ -8452,7 +8452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Ezequiel Castano",
+        "name": "",
         "image": "13861.png",
         "area": "COORD. 2 - CONTROL Y CONFIGURACI�N",
         "profileUrl": " ",
@@ -8468,7 +8468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo De Bonis",
+        "name": "",
         "image": "13867.png",
         "area": "PAYMENT NETWORKS",
         "profileUrl": " ",
@@ -8484,7 +8484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karina Francisquez",
+        "name": "",
         "image": "13868.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -8500,7 +8500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cecilia Salas",
+        "name": "",
         "image": "13869.png",
         "area": "PAGOMISCUENTAS",
         "profileUrl": " ",
@@ -8516,7 +8516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Sol Perez",
+        "name": "",
         "image": "13870.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -8532,7 +8532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Romina Silva",
+        "name": "",
         "image": "13872.png",
         "area": "BANCOS CUSTOMER MPS",
         "profileUrl": " ",
@@ -8548,7 +8548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Francario",
+        "name": "",
         "image": "13875.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -8564,7 +8564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Negrin",
+        "name": "",
         "image": "13894.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -8580,7 +8580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Tomas Bufano",
+        "name": "",
         "image": "14880.png",
         "area": "DATA SECURITY",
         "profileUrl": " ",
@@ -8596,7 +8596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mayra Soruco",
+        "name": "",
         "image": "14881.png",
         "area": "COMPENSATION & ORGANIZATION",
         "profileUrl": " ",
@@ -8612,7 +8612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hector Herrera",
+        "name": "",
         "image": "14882.png",
         "area": "T ISSUING QA - TEAM 4",
         "profileUrl": " ",
@@ -8628,7 +8628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tomas Sese",
+        "name": "",
         "image": "14885.png",
         "area": "DIGITAL FACTORY BUSINESS PARTNER",
         "profileUrl": " ",
@@ -8644,7 +8644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rafael Urruti",
+        "name": "",
         "image": "14889.png",
         "area": "LARGE ACCOUNT REGIONAL",
         "profileUrl": " ",
@@ -8660,7 +8660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Magarinos",
+        "name": "",
         "image": "14891.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -8676,7 +8676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Carolina Taberner",
+        "name": "",
         "image": "14894.png",
         "area": "LEGAL CORPORATE",
         "profileUrl": " ",
@@ -8692,7 +8692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Saldari",
+        "name": "",
         "image": "14895.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -8708,7 +8708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Angerly Moya",
+        "name": "",
         "image": "14896.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -8724,7 +8724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Ramirez",
+        "name": "",
         "image": "14898.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -8740,7 +8740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agostina Macharoli",
+        "name": "",
         "image": "14902.png",
         "area": "PROCESOS DE COMERCIOS 2",
         "profileUrl": " ",
@@ -8756,7 +8756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jefferson Puentes",
+        "name": "",
         "image": "14905.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -8772,7 +8772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Luongo",
+        "name": "",
         "image": "15190.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -8788,7 +8788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Edgar Delgado",
+        "name": "",
         "image": "15192.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -8804,7 +8804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Virginia Pagliano",
+        "name": "",
         "image": "15196.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -8820,7 +8820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Norman Ruiz",
+        "name": "",
         "image": "15197.png",
         "area": "TECNOLOGIAS PAYWAY",
         "profileUrl": " ",
@@ -8836,7 +8836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Elizabeth Suescun",
+        "name": "",
         "image": "15198.png",
         "area": "PLATAFORMAS DIGITALES",
         "profileUrl": " ",
@@ -8852,7 +8852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciano Natalini",
+        "name": "",
         "image": "15128.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -8868,7 +8868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Castillo",
+        "name": "",
         "image": "15129.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -8884,7 +8884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Ratto",
+        "name": "",
         "image": "15131.png",
         "area": "OPERATION & IT MERCHANTS",
         "profileUrl": " ",
@@ -8900,7 +8900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Ratcliffe",
+        "name": "",
         "image": "15132.png",
         "area": "CONTROLLING",
         "profileUrl": " ",
@@ -8916,7 +8916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Bielka",
+        "name": "",
         "image": "15134.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -8932,7 +8932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Morte",
+        "name": "",
         "image": "15137.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -8948,7 +8948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Joaquin Palazzo",
+        "name": "",
         "image": "15141.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -8964,7 +8964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Rodriguez",
+        "name": "",
         "image": "15142.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -8980,7 +8980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Acosta",
+        "name": "",
         "image": "15143.png",
         "area": "T ISSUING QA - TEAM 4",
         "profileUrl": " ",
@@ -8996,7 +8996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dario Zarranz",
+        "name": "",
         "image": "15564.png",
         "area": "CHANNELS & SELF-MANAGEMENT",
         "profileUrl": " ",
@@ -9012,7 +9012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo de Jesus Trejo Muniz",
+        "name": "",
         "image": "15568.png",
         "area": "UX DESIGN OPS",
         "profileUrl": " ",
@@ -9028,7 +9028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Ezequiel Veliz",
+        "name": "",
         "image": "15569.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -9044,7 +9044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sofia Severini",
+        "name": "",
         "image": "15573.png",
         "area": "CORPORATE DEVELOPMENT",
         "profileUrl": " ",
@@ -9060,7 +9060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Susana Moreno",
+        "name": "",
         "image": "15575.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -9076,7 +9076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Camila Moran",
+        "name": "",
         "image": "15577.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -9092,7 +9092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Plebani",
+        "name": "",
         "image": "15578.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -9108,7 +9108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Nicolas Ardiles",
+        "name": "",
         "image": "15579.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -9124,7 +9124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Evangelina Cervantes",
+        "name": "",
         "image": "15580.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -9140,7 +9140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ramon Alejandro Turmero Arteaga",
+        "name": "",
         "image": "15584.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -9156,7 +9156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Fretes",
+        "name": "",
         "image": "15922.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -9172,7 +9172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mathias Brizuela",
+        "name": "",
         "image": "15923.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -9188,7 +9188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciana Benetti",
+        "name": "",
         "image": "15769.png",
         "area": "SMALL MERCHANTS ? BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -9204,7 +9204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jonatan Matamala",
+        "name": "",
         "image": "15776.png",
         "area": "ACQUIRING BUSINESS BANK CHANNEL",
         "profileUrl": " ",
@@ -9220,7 +9220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Latorre",
+        "name": "",
         "image": "15777.png",
         "area": "PAYMENT NETWORKS",
         "profileUrl": " ",
@@ -9236,7 +9236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Villoria",
+        "name": "",
         "image": "15778.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -9252,7 +9252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Betsabe Ilardia",
+        "name": "",
         "image": "15779.png",
         "area": "UX PRODUCT DESIGN IS",
         "profileUrl": " ",
@@ -9268,7 +9268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Zampini",
+        "name": "",
         "image": "15780.png",
         "area": "UX",
         "profileUrl": " ",
@@ -9284,7 +9284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Susana Correia",
+        "name": "",
         "image": "15783.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -9300,7 +9300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Hugo Martinez Flores",
+        "name": "",
         "image": "15785.png",
         "area": "IT ACQUIRING - TEAM 8",
         "profileUrl": " ",
@@ -9316,7 +9316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Butron",
+        "name": "",
         "image": "15786.png",
         "area": "BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -9332,7 +9332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Paula Cabrera",
+        "name": "",
         "image": "15787.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -9348,7 +9348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valentina Varela Rodriguez",
+        "name": "",
         "image": "15788.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -9364,7 +9364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Albinati",
+        "name": "",
         "image": "16297.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -9380,7 +9380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Norberto Alejandro Nieves",
+        "name": "",
         "image": "16298.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -9396,7 +9396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roberto Scattini",
+        "name": "",
         "image": "16299.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -9412,7 +9412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Da Costa Leite",
+        "name": "",
         "image": "16300.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -9428,7 +9428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Pablo Mulfetti",
+        "name": "",
         "image": "16301.png",
         "area": "NETWORK OPERATION CENTER",
         "profileUrl": " ",
@@ -9444,7 +9444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Rodrigo Mercado Torcivia",
+        "name": "",
         "image": "16302.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -9460,7 +9460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Bermejo",
+        "name": "",
         "image": "16303.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -9476,7 +9476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Camila Jaime",
+        "name": "",
         "image": "16305.png",
         "area": "ACQUISITION & GROWTH",
         "profileUrl": " ",
@@ -9492,7 +9492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Carla D Attilia",
+        "name": "",
         "image": "16306.png",
         "area": "CHIEF OF STAFF BUSINESS SOLUTIONS",
         "profileUrl": " ",
@@ -9508,7 +9508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Ezequiel Suarez",
+        "name": "",
         "image": "16307.png",
         "area": "COMMERCIAL PLANNING NDS",
         "profileUrl": " ",
@@ -9524,7 +9524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Deniss Nerea Arias",
+        "name": "",
         "image": "15748.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -9540,7 +9540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Zulema Elias",
+        "name": "",
         "image": "15749.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -9556,7 +9556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paloma Micaela Squeo",
+        "name": "",
         "image": "15750.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -9572,7 +9572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Michael Jaime Gonzalez Bolivar",
+        "name": "",
         "image": "15751.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -9588,7 +9588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Javier Rippel",
+        "name": "",
         "image": "15753.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -9604,7 +9604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Gabriel Schinini",
+        "name": "",
         "image": "15754.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -9620,7 +9620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Daniel Fassola",
+        "name": "",
         "image": "15756.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -9636,7 +9636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Valeria Campos",
+        "name": "",
         "image": "15757.png",
         "area": "TRADE MARKETING",
         "profileUrl": " ",
@@ -9652,7 +9652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Hara Ponillaus",
+        "name": "",
         "image": "15761.png",
         "area": "BILLING MPS",
         "profileUrl": " ",
@@ -9668,7 +9668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Oscar Real",
+        "name": "",
         "image": "15762.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -9684,7 +9684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Ardiles Reibel",
+        "name": "",
         "image": "15764.png",
         "area": "PROCUREMENT - SERVICES & OPERATIONS",
         "profileUrl": " ",
@@ -9700,7 +9700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Pelisare",
+        "name": "",
         "image": "15841.png",
         "area": "DESARROLLO DE PRODUCTO EN PUNTO DE VENTA",
         "profileUrl": " ",
@@ -9716,7 +9716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mercedes Viglino",
+        "name": "",
         "image": "15842.png",
         "area": "EMPLOYER BRANDING & DEI",
         "profileUrl": " ",
@@ -9732,7 +9732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcia Jezabel Sonego",
+        "name": "",
         "image": "15844.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -9748,7 +9748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejo Nicolas Restivo Santos",
+        "name": "",
         "image": "15847.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -9764,7 +9764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Delgado",
+        "name": "",
         "image": "15848.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -9780,7 +9780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Nu�ez",
+        "name": "",
         "image": "15849.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -9796,7 +9796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Bonanno",
+        "name": "",
         "image": "15850.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -9812,7 +9812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Reinoso",
+        "name": "",
         "image": "15851.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -9828,7 +9828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Esteban Alejandro Axenfeld",
+        "name": "",
         "image": "15852.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -9844,7 +9844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Gorbaran",
+        "name": "",
         "image": "15853.png",
         "area": "PROCUREMENT - IT & TECHNOLOGY",
         "profileUrl": " ",
@@ -9860,7 +9860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karen Ayala",
+        "name": "",
         "image": "15856.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -9876,7 +9876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Tomas Abastante",
+        "name": "",
         "image": "16055.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -9892,7 +9892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sol Kiernan",
+        "name": "",
         "image": "16056.png",
         "area": "UX DESIGN OPS",
         "profileUrl": " ",
@@ -9908,7 +9908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Damian Diaz",
+        "name": "",
         "image": "16057.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -9924,7 +9924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Celeste Berdinas",
+        "name": "",
         "image": "16058.png",
         "area": "SYSTEMS QUALITY",
         "profileUrl": " ",
@@ -9940,7 +9940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ana Julia Gomez",
+        "name": "",
         "image": "16060.png",
         "area": "IS GOVERNANCE, RISK & COMPLIANCE",
         "profileUrl": " ",
@@ -9956,7 +9956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Magdiel Abinadab Millan Alonzo",
+        "name": "",
         "image": "16062.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -9972,7 +9972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Reyna Rondo Sanchez",
+        "name": "",
         "image": "16063.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -9988,7 +9988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Coronel",
+        "name": "",
         "image": "16064.png",
         "area": "COLLECTIONS & CLEARING ISSUING",
         "profileUrl": " ",
@@ -10004,7 +10004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Agustin Canosa No",
+        "name": "",
         "image": "16065.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -10020,7 +10020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leticia Soledad Garcia",
+        "name": "",
         "image": "16066.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -10036,7 +10036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Daniel Giovanardi",
+        "name": "",
         "image": "16238.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -10052,7 +10052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristian Rizzoli",
+        "name": "",
         "image": "16239.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -10068,7 +10068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Joaquin Carranza",
+        "name": "",
         "image": "16240.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -10084,7 +10084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Giorgina Valeria Pirrotta",
+        "name": "",
         "image": "16242.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -10100,7 +10100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias La Greca",
+        "name": "",
         "image": "16243.png",
         "area": "TRADE MARKETING",
         "profileUrl": " ",
@@ -10116,7 +10116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nestor Yarade",
+        "name": "",
         "image": "16244.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -10132,7 +10132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Surijon",
+        "name": "",
         "image": "16245.png",
         "area": "SOLUTION ARCHITECTURE - MPS",
         "profileUrl": " ",
@@ -10148,7 +10148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ignacio Armellini",
+        "name": "",
         "image": "16246.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -10164,7 +10164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pamela Parisi",
+        "name": "",
         "image": "16247.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -10180,7 +10180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Heit",
+        "name": "",
         "image": "16248.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -10196,7 +10196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Arron",
+        "name": "",
         "image": "16231.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -10212,7 +10212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanina Gisel Araujo",
+        "name": "",
         "image": "16232.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -10228,7 +10228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Silva",
+        "name": "",
         "image": "16233.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -10244,7 +10244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Tillard",
+        "name": "",
         "image": "16234.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -10260,7 +10260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Elias Emanuel Copa",
+        "name": "",
         "image": "16235.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -10276,7 +10276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Kemerer",
+        "name": "",
         "image": "16236.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -10292,7 +10292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesica Russo",
+        "name": "",
         "image": "16237.png",
         "area": "SERVICES & GOVERNMENT SALES",
         "profileUrl": " ",
@@ -10308,7 +10308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Nicolas Dominguez",
+        "name": "",
         "image": "15707.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -10324,7 +10324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Abel Rios",
+        "name": "",
         "image": "15708.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -10340,7 +10340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pilar Murias",
+        "name": "",
         "image": "15710.png",
         "area": "PAYROLL",
         "profileUrl": " ",
@@ -10356,7 +10356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Gutierrez",
+        "name": "",
         "image": "15711.png",
         "area": "INTERNACIONAL COMMERCIAL",
         "profileUrl": " ",
@@ -10372,7 +10372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Del Bene",
+        "name": "",
         "image": "15712.png",
         "area": "CHIEF OF STAFF BUSINESS SOLUTIONS",
         "profileUrl": " ",
@@ -10388,7 +10388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Belen Gil",
+        "name": "",
         "image": "15714.png",
         "area": "LEGAL",
         "profileUrl": " ",
@@ -10404,7 +10404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Esteban Lafon Blon",
+        "name": "",
         "image": "15716.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -10420,7 +10420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Hernan Rodrigo Ramirez",
+        "name": "",
         "image": "15717.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 5",
         "profileUrl": " ",
@@ -10436,7 +10436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Torres",
+        "name": "",
         "image": "15718.png",
         "area": "SMALL MERCHANTS ? BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -10452,7 +10452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesica Paola Brunstein",
+        "name": "",
         "image": "15721.png",
         "area": "CORPORATE DEVELOPMENT",
         "profileUrl": " ",
@@ -10468,7 +10468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Margaret Vanessa Molina Urrutia",
+        "name": "",
         "image": "15724.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -10484,7 +10484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Rodriguez Gerschman",
+        "name": "",
         "image": "15727.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -10500,7 +10500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Andlovec",
+        "name": "",
         "image": "15728.png",
         "area": "STRATEGY & PERFORMANCE",
         "profileUrl": " ",
@@ -10516,7 +10516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Mariel Martinez",
+        "name": "",
         "image": "15729.png",
         "area": "UX DESIGN OPS",
         "profileUrl": " ",
@@ -10532,7 +10532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristian Carlucci",
+        "name": "",
         "image": "15731.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -10548,7 +10548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Tub�o",
+        "name": "",
         "image": "15732.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -10564,7 +10564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ximena Gil",
+        "name": "",
         "image": "15733.png",
         "area": "BANCOS GRANDES",
         "profileUrl": " ",
@@ -10580,7 +10580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Lopez",
+        "name": "",
         "image": "15736.png",
         "area": "TELESALES",
         "profileUrl": " ",
@@ -10596,7 +10596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Bustos",
+        "name": "",
         "image": "15697.png",
         "area": "LARGE CORPORATE",
         "profileUrl": " ",
@@ -10612,7 +10612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Cuello",
+        "name": "",
         "image": "15699.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -10628,7 +10628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Romero",
+        "name": "",
         "image": "15700.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -10644,7 +10644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauricio Di Giacomo",
+        "name": "",
         "image": "15702.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -10660,7 +10660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Luis Meneses",
+        "name": "",
         "image": "15703.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -10676,7 +10676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Alejandra Salvo",
+        "name": "",
         "image": "15705.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -10692,7 +10692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Lopez Lio",
+        "name": "",
         "image": "15706.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -10708,7 +10708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "CATERINA AILEN CUNSOLO",
+        "name": "",
         "image": "16333.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -10724,7 +10724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Guarriello",
+        "name": "",
         "image": "16334.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -10740,7 +10740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Yannucci",
+        "name": "",
         "image": "16335.png",
         "area": "BANCOS CUSTOMER MPS",
         "profileUrl": " ",
@@ -10756,7 +10756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Andrea Lo Valvo",
+        "name": "",
         "image": "16336.png",
         "area": "ISSUING OPERATIONS",
         "profileUrl": " ",
@@ -10772,7 +10772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sandra Mileide Chacon Duarte",
+        "name": "",
         "image": "16337.png",
         "area": "GESTION DE PROYECTOS Y ARQUITECTURA TI",
         "profileUrl": " ",
@@ -10788,7 +10788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nazarena Dal Pont",
+        "name": "",
         "image": "16338.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -10804,7 +10804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Esparis",
+        "name": "",
         "image": "16339.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -10820,7 +10820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Ferrari",
+        "name": "",
         "image": "16340.png",
         "area": "PLANNING & COMMERCIAL STRATEGY",
         "profileUrl": " ",
@@ -10836,7 +10836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Badell",
+        "name": "",
         "image": "16341.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -10852,7 +10852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anabella Liliana Torres",
+        "name": "",
         "image": "16342.png",
         "area": "PAYFACTS & PROCESSING PARTNERS",
         "profileUrl": " ",
@@ -10868,7 +10868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Fernanda Elias",
+        "name": "",
         "image": "11685.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -10884,7 +10884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luz Maria Grazioli",
+        "name": "",
         "image": "11687.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -10900,7 +10900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carmen Vanessa Aguirre",
+        "name": "",
         "image": "11693.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -10916,7 +10916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernanda Paula Franzese",
+        "name": "",
         "image": "11695.png",
         "area": "PRODUCTS",
         "profileUrl": " ",
@@ -10932,7 +10932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sandro Freti Goachet",
+        "name": "",
         "image": "11696.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -10948,7 +10948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adriana Laura Lotes",
+        "name": "",
         "image": "11698.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -10964,7 +10964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Rodrigo Lozano",
+        "name": "",
         "image": "11699.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -10980,7 +10980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Margarita Paglieri",
+        "name": "",
         "image": "11702.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -10996,7 +10996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Marcelo Ciancio",
+        "name": "",
         "image": "11708.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -11012,7 +11012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvina Geraldine Malaise",
+        "name": "",
         "image": "11726.png",
         "area": "BACK OFFICE CUSTOMER",
         "profileUrl": " ",
@@ -11028,7 +11028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucia Briones",
+        "name": "",
         "image": "11729.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -11044,7 +11044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Camilo Emanuel Galvan",
+        "name": "",
         "image": "11735.png",
         "area": "INTERNAL COMMUNICATION",
         "profileUrl": " ",
@@ -11060,7 +11060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Gabriel Lencina",
+        "name": "",
         "image": "11737.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -11076,7 +11076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Andres Rojas",
+        "name": "",
         "image": "11738.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -11092,7 +11092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandra Stigliano Salvatierr",
+        "name": "",
         "image": "11739.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -11108,7 +11108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Maximiliano Pellicioni",
+        "name": "",
         "image": "11744.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -11124,7 +11124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Scheneberger",
+        "name": "",
         "image": "11746.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO II",
         "profileUrl": " ",
@@ -11140,7 +11140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Manuel Telleria",
+        "name": "",
         "image": "15737.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -11156,7 +11156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Vazquez",
+        "name": "",
         "image": "15742.png",
         "area": "ACQUIRING BUSINESS BANK CHANNEL",
         "profileUrl": " ",
@@ -11172,7 +11172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Forwe",
+        "name": "",
         "image": "15744.png",
         "area": "INSIGHT",
         "profileUrl": " ",
@@ -11188,7 +11188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Rosario Lamarmora",
+        "name": "",
         "image": "15745.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -11204,7 +11204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Duarte Carvalhosa",
+        "name": "",
         "image": "15747.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -11220,7 +11220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Oviedo",
+        "name": "",
         "image": "16067.png",
         "area": "IT CORPORATE APPLICATIONS",
         "profileUrl": " ",
@@ -11236,7 +11236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Macarena Jurado Alvarez",
+        "name": "",
         "image": "16068.png",
         "area": "IT NETWORK DIGITAL SOLUTIONS",
         "profileUrl": " ",
@@ -11252,7 +11252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sofia Armendariz",
+        "name": "",
         "image": "16071.png",
         "area": "UX STRATEGY",
         "profileUrl": " ",
@@ -11268,7 +11268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Vanetta",
+        "name": "",
         "image": "16073.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -11284,7 +11284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Macarena Rocio Varela",
+        "name": "",
         "image": "16074.png",
         "area": "UX STRATEGY",
         "profileUrl": " ",
@@ -11300,7 +11300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Castrogiovanni",
+        "name": "",
         "image": "16077.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -11316,7 +11316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cecilia Gonzalez",
+        "name": "",
         "image": "16078.png",
         "area": "SMALL MERCHANTS ? BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -11332,7 +11332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Ines Massa",
+        "name": "",
         "image": "16079.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -11348,7 +11348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Speroni",
+        "name": "",
         "image": "16080.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -11364,7 +11364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Jose Jimenez Alvarado",
+        "name": "",
         "image": "16081.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -11380,7 +11380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cynthia Gisella Bullon",
+        "name": "",
         "image": "15082.png",
         "area": "PMC OPERATIONS - TEAM 2",
         "profileUrl": " ",
@@ -11396,7 +11396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Waissmann",
+        "name": "",
         "image": "15084.png",
         "area": "VENDOR MANAGEMENT & ACCOUNTS PAYABLE",
         "profileUrl": " ",
@@ -11412,7 +11412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Adrian Bacchini",
+        "name": "",
         "image": "15086.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -11428,7 +11428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Bartolome",
+        "name": "",
         "image": "15087.png",
         "area": "PROCUREMENT - SERVICES & OPERATIONS",
         "profileUrl": " ",
@@ -11444,7 +11444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Camila Raschella",
+        "name": "",
         "image": "15091.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -11460,7 +11460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jonathan Bazan",
+        "name": "",
         "image": "15096.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -11476,7 +11476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Ciotti",
+        "name": "",
         "image": "15099.png",
         "area": "BIG DATA & ARCHITECTURE",
         "profileUrl": " ",
@@ -11492,7 +11492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Pastorino",
+        "name": "",
         "image": "15100.png",
         "area": "LEGAL CORPORATE",
         "profileUrl": " ",
@@ -11508,7 +11508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Belen Saez",
+        "name": "",
         "image": "15101.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -11524,7 +11524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Martinucci",
+        "name": "",
         "image": "15102.png",
         "area": "LARGE ACCOUNT REGIONAL",
         "profileUrl": " ",
@@ -11540,7 +11540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gretel Urtubey",
+        "name": "",
         "image": "15103.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -11556,7 +11556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Contreras",
+        "name": "",
         "image": "15105.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -11572,7 +11572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sofia Terre",
+        "name": "",
         "image": "15107.png",
         "area": "BANCOS MEDIANOS",
         "profileUrl": " ",
@@ -11588,7 +11588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Casco",
+        "name": "",
         "image": "12616.png",
         "area": "FIELD SERVICES RUN",
         "profileUrl": " ",
@@ -11604,7 +11604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ivan Mestrovic",
+        "name": "",
         "image": "12619.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -11620,7 +11620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Alfredo Yaciancio",
+        "name": "",
         "image": "12628.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -11636,7 +11636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martina Suarez",
+        "name": "",
         "image": "12629.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -11652,7 +11652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anabel Soledad Lezcano",
+        "name": "",
         "image": "12633.png",
         "area": "IT ACQUIRING - TEAM 1",
         "profileUrl": " ",
@@ -11668,7 +11668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Fabian Castelo",
+        "name": "",
         "image": "12638.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -11684,7 +11684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eva Salevsky",
+        "name": "",
         "image": "12640.png",
         "area": "MERCHANT SERVICES",
         "profileUrl": " ",
@@ -11700,7 +11700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Alberto Pallito",
+        "name": "",
         "image": "12641.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -11716,7 +11716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Leonel Maydu",
+        "name": "",
         "image": "12644.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -11732,7 +11732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Zapata",
+        "name": "",
         "image": "12647.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -11748,7 +11748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Maciel",
+        "name": "",
         "image": "12651.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -11764,7 +11764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Ramos",
+        "name": "",
         "image": "12657.png",
         "area": "PROCESOS DE COMERCIOS 2",
         "profileUrl": " ",
@@ -11780,7 +11780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Andres Bresciani",
+        "name": "",
         "image": "10935.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -11796,7 +11796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Viviana Cardozo",
+        "name": "",
         "image": "10939.png",
         "area": "LOGISTICA Y STOCK",
         "profileUrl": " ",
@@ -11812,7 +11812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Corti",
+        "name": "",
         "image": "10942.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -11828,7 +11828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Celsa Daniela Fretez",
+        "name": "",
         "image": "10956.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -11844,7 +11844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio De La Cruz Durand",
+        "name": "",
         "image": "10970.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -11860,7 +11860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "MIRTHA ASUNCION FARINA",
+        "name": "",
         "image": "10972.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -11876,7 +11876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Lorena Campodonico",
+        "name": "",
         "image": "10974.png",
         "area": "LOGISTICA Y STOCK",
         "profileUrl": " ",
@@ -11892,7 +11892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lorena Angeles Baroni",
+        "name": "",
         "image": "10999.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -11908,7 +11908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudia Reyes",
+        "name": "",
         "image": "11001.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -11924,7 +11924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carla Guarriello",
+        "name": "",
         "image": "15672.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -11940,7 +11940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Hartman",
+        "name": "",
         "image": "15674.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -11956,7 +11956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Matias Solis",
+        "name": "",
         "image": "15677.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -11972,7 +11972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Eugenia Acevedo",
+        "name": "",
         "image": "15678.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -11988,7 +11988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Valderrama",
+        "name": "",
         "image": "15679.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -12004,7 +12004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Duyos",
+        "name": "",
         "image": "15680.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -12020,7 +12020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Gaston Sanucci",
+        "name": "",
         "image": "15681.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -12036,7 +12036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Isabel Velez Cardona",
+        "name": "",
         "image": "15684.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -12052,7 +12052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Emmanuel Gomez",
+        "name": "",
         "image": "15686.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -12068,7 +12068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karlina Rodriguez",
+        "name": "",
         "image": "15688.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -12084,7 +12084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Carlos Bampini Basualdo",
+        "name": "",
         "image": "15691.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -12100,7 +12100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Fernanda Brunato",
+        "name": "",
         "image": "15694.png",
         "area": "SEGMENTO",
         "profileUrl": " ",
@@ -12116,7 +12116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Cagnoli",
+        "name": "",
         "image": "15696.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -12132,7 +12132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Paola Hurtado",
+        "name": "",
         "image": "15665.png",
         "area": "SERVICIOS ADQUIRENCIA",
         "profileUrl": " ",
@@ -12148,7 +12148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adriana Fabbris Rotelli",
+        "name": "",
         "image": "15666.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -12164,7 +12164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Salviola",
+        "name": "",
         "image": "15667.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -12180,7 +12180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marco Gabriel Giardini",
+        "name": "",
         "image": "15669.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -12196,7 +12196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Nicolas Yazky",
+        "name": "",
         "image": "15670.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -12212,7 +12212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ludmila Sanjurjo",
+        "name": "",
         "image": "15671.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -12228,7 +12228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Arce",
+        "name": "",
         "image": "15281.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -12244,7 +12244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Lo Cascio",
+        "name": "",
         "image": "15282.png",
         "area": "PAYFACTS & PROCESSING PARTNERS",
         "profileUrl": " ",
@@ -12260,7 +12260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Tolaba",
+        "name": "",
         "image": "15283.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -12276,7 +12276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Mastrostefano",
+        "name": "",
         "image": "15284.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -12292,7 +12292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Espindola",
+        "name": "",
         "image": "15285.png",
         "area": "BILLING MPS",
         "profileUrl": " ",
@@ -12308,7 +12308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Pedemonte",
+        "name": "",
         "image": "15291.png",
         "area": "BUSINESS INTELLIGENCE",
         "profileUrl": " ",
@@ -12324,7 +12324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rocio Celeste Copparoni",
+        "name": "",
         "image": "15292.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -12340,7 +12340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hector Giudatto",
+        "name": "",
         "image": "15293.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -12356,7 +12356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Arguen",
+        "name": "",
         "image": "15294.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -12372,7 +12372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Meighorner",
+        "name": "",
         "image": "15296.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -12388,7 +12388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanesa Morini",
+        "name": "",
         "image": "15297.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -12404,7 +12404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Veronica Jariton",
+        "name": "",
         "image": "15562.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -12420,7 +12420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gisela Vergara",
+        "name": "",
         "image": "15563.png",
         "area": "ACQUISITION & GROWTH",
         "profileUrl": " ",
@@ -12436,7 +12436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Silva",
+        "name": "",
         "image": "15548.png",
         "area": "FINANCIAL CRIME PREVENTION",
         "profileUrl": " ",
@@ -12452,7 +12452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ignacio Diego Moroni",
+        "name": "",
         "image": "15550.png",
         "area": "BIG DATA",
         "profileUrl": " ",
@@ -12468,7 +12468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tamara Alvarez Jimenez",
+        "name": "",
         "image": "15553.png",
         "area": "PARAMETR�A",
         "profileUrl": " ",
@@ -12484,7 +12484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Alfredo Ramirez",
+        "name": "",
         "image": "15554.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -12500,7 +12500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gisela Veronica Mazza",
+        "name": "",
         "image": "15557.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -12516,7 +12516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Szlos",
+        "name": "",
         "image": "15558.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -12532,7 +12532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Yanina Perez",
+        "name": "",
         "image": "15560.png",
         "area": "PARTNERSHIPS",
         "profileUrl": " ",
@@ -12548,7 +12548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ignacio Antonio Libertini",
+        "name": "",
         "image": "16041.png",
         "area": "COLLECTIONS & CLEARING ISSUING",
         "profileUrl": " ",
@@ -12564,7 +12564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ludmila Mariela Buiani",
+        "name": "",
         "image": "16043.png",
         "area": "PROCUREMENT - SERVICES & OPERATIONS",
         "profileUrl": " ",
@@ -12580,7 +12580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Andrada",
+        "name": "",
         "image": "16045.png",
         "area": "INTERNAL COMMUNICATION",
         "profileUrl": " ",
@@ -12596,7 +12596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Erlan",
+        "name": "",
         "image": "16046.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -12612,7 +12612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eriksen Nahir Dominique",
+        "name": "",
         "image": "16048.png",
         "area": "OPERATIONAL DATA TEAM",
         "profileUrl": " ",
@@ -12628,7 +12628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ruben Alejandro Gimenez",
+        "name": "",
         "image": "16050.png",
         "area": "AUDITORIA CONTINUA",
         "profileUrl": " ",
@@ -12644,7 +12644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nery Cristian Pardal",
+        "name": "",
         "image": "16051.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -12660,7 +12660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ayelen Viviana Beltran",
+        "name": "",
         "image": "16052.png",
         "area": "CLIENTS SUPPORT",
         "profileUrl": " ",
@@ -12676,7 +12676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Gustavo Belli",
+        "name": "",
         "image": "16053.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -12692,7 +12692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Nicolas Sabatini",
+        "name": "",
         "image": "16054.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO I",
         "profileUrl": " ",
@@ -12708,7 +12708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciana Zambrini",
+        "name": "",
         "image": "16219.png",
         "area": "INSIGHT",
         "profileUrl": " ",
@@ -12724,7 +12724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martina Lopez",
+        "name": "",
         "image": "16220.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -12740,7 +12740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Miguez",
+        "name": "",
         "image": "16221.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -12756,7 +12756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Neptali Alberto Gonzalez Cordova",
+        "name": "",
         "image": "16222.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -12772,7 +12772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yulay Caceres",
+        "name": "",
         "image": "16223.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -12788,7 +12788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Ezequiel Severino",
+        "name": "",
         "image": "16224.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -12804,7 +12804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauro Sebastian Sanchez",
+        "name": "",
         "image": "16225.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -12820,7 +12820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Herskovits",
+        "name": "",
         "image": "16226.png",
         "area": "CORE ISSUING",
         "profileUrl": " ",
@@ -12836,7 +12836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Fabiana Manzaneda Irusta",
+        "name": "",
         "image": "16227.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -12852,7 +12852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alexander Lopez Soares",
+        "name": "",
         "image": "16229.png",
         "area": "UX PRODUCT DESIGN MS",
         "profileUrl": " ",
@@ -12868,7 +12868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Livachof",
+        "name": "",
         "image": "16230.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -12884,7 +12884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dario Diaz",
+        "name": "",
         "image": "16161.png",
         "area": "TRANSACTIONAL WEB SERVICES",
         "profileUrl": " ",
@@ -12900,7 +12900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Joaquin Tomasini",
+        "name": "",
         "image": "16163.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -12916,7 +12916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Daniel Castanares",
+        "name": "",
         "image": "16164.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -12932,7 +12932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rafael Pinto",
+        "name": "",
         "image": "16165.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -12948,7 +12948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Porras",
+        "name": "",
         "image": "16166.png",
         "area": "UX PRODUCT DESIGN MS",
         "profileUrl": " ",
@@ -12964,7 +12964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Sanchez",
+        "name": "",
         "image": "16167.png",
         "area": "UX PRODUCT DESIGN MS",
         "profileUrl": " ",
@@ -12980,7 +12980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Javier Martinez",
+        "name": "",
         "image": "16168.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -12996,7 +12996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Kevin Lechmann",
+        "name": "",
         "image": "16169.png",
         "area": "COMMERCIAL PLANNING PMC",
         "profileUrl": " ",
@@ -13012,7 +13012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Perdomo",
+        "name": "",
         "image": "16170.png",
         "area": "TRANSACTIONAL WEB SERVICES",
         "profileUrl": " ",
@@ -13028,7 +13028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristian Chavez",
+        "name": "",
         "image": "16172.png",
         "area": "PLATAFORMAS DIGITALES",
         "profileUrl": " ",
@@ -13044,7 +13044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Ayelen Torres",
+        "name": "",
         "image": "16173.png",
         "area": "BUSINESS CONTINUITY",
         "profileUrl": " ",
@@ -13060,7 +13060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Toledo",
+        "name": "",
         "image": "16174.png",
         "area": "ONLINE PAYMENT SERVICES",
         "profileUrl": " ",
@@ -13076,7 +13076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Vicente Ramon Borges",
+        "name": "",
         "image": "16175.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -13092,7 +13092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Grace Stephany Mendoza Solano",
+        "name": "",
         "image": "16177.png",
         "area": "VENDOR MANAGEMENT & ACCOUNTS PAYABLE",
         "profileUrl": " ",
@@ -13108,7 +13108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanesa Estela Bonadies",
+        "name": "",
         "image": "16180.png",
         "area": "PLANNING SEGMENTS SMALL",
         "profileUrl": " ",
@@ -13124,7 +13124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Regina Manino",
+        "name": "",
         "image": "16181.png",
         "area": "BANCOS MEDIANOS",
         "profileUrl": " ",
@@ -13140,7 +13140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Soledad Bettoli",
+        "name": "",
         "image": "16184.png",
         "area": "COLLECTIONS & CLEARING ISSUING",
         "profileUrl": " ",
@@ -13156,7 +13156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Esteban Brizuela",
+        "name": "",
         "image": "16185.png",
         "area": "TALENT DEVELOPMENT & LEARNING",
         "profileUrl": " ",
@@ -13172,7 +13172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Victoria Monroy",
+        "name": "",
         "image": "15518.png",
         "area": "PLATAFORMAS DIGITALES",
         "profileUrl": " ",
@@ -13188,7 +13188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanesa Aranda",
+        "name": "",
         "image": "15525.png",
         "area": "IT ISSUING HOMOLOGACIONES",
         "profileUrl": " ",
@@ -13204,7 +13204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Sol Romero Laguna",
+        "name": "",
         "image": "15529.png",
         "area": "SERVICIOS ADQUIRENCIA",
         "profileUrl": " ",
@@ -13220,7 +13220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Werbin",
+        "name": "",
         "image": "15530.png",
         "area": "LOGISTICA Y STOCK",
         "profileUrl": " ",
@@ -13236,7 +13236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Tejero",
+        "name": "",
         "image": "15531.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -13252,7 +13252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rosa Beatriz Sanabria",
+        "name": "",
         "image": "15533.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -13268,7 +13268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Emanuel Corvalan",
+        "name": "",
         "image": "15542.png",
         "area": "INTELIGENCIA COMERCIAL",
         "profileUrl": " ",
@@ -13284,7 +13284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silma Natera",
+        "name": "",
         "image": "15543.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -13300,7 +13300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Quispe",
+        "name": "",
         "image": "15544.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -13316,7 +13316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yesica Roldan",
+        "name": "",
         "image": "15545.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -13332,7 +13332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daira Sofia Lovatto Russelli",
+        "name": "",
         "image": "15546.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -13348,7 +13348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Salvador Gravina",
+        "name": "",
         "image": "15630.png",
         "area": "DEVELOPMENT PLATFORM - ORBITA IDP",
         "profileUrl": " ",
@@ -13364,7 +13364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Indira Vega",
+        "name": "",
         "image": "15631.png",
         "area": "UX PRODUCT DESIGN IS",
         "profileUrl": " ",
@@ -13380,7 +13380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Sebastian Mazzoni",
+        "name": "",
         "image": "15632.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -13396,7 +13396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Guillermo Crespo",
+        "name": "",
         "image": "15635.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 5",
         "profileUrl": " ",
@@ -13412,7 +13412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin German Bobadilla",
+        "name": "",
         "image": "15637.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -13428,7 +13428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciano Mario Frisenna",
+        "name": "",
         "image": "15638.png",
         "area": "PROCUREMENT - IT & TECHNOLOGY",
         "profileUrl": " ",
@@ -13444,7 +13444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Enrique Alfredo Suarez",
+        "name": "",
         "image": "15639.png",
         "area": "PROCUREMENT",
         "profileUrl": " ",
@@ -13460,7 +13460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Freda",
+        "name": "",
         "image": "15640.png",
         "area": "IT ACQUIRING - TEAM 8",
         "profileUrl": " ",
@@ -13476,7 +13476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Esteban Torres",
+        "name": "",
         "image": "15641.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -13492,7 +13492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Soledad Retamar",
+        "name": "",
         "image": "15643.png",
         "area": "BIG DATA",
         "profileUrl": " ",
@@ -13508,7 +13508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Texis",
+        "name": "",
         "image": "15645.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -13524,7 +13524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Enrique Ponce",
+        "name": "",
         "image": "15649.png",
         "area": "FIELD SERVICES RUN",
         "profileUrl": " ",
@@ -13540,7 +13540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Mollar",
+        "name": "",
         "image": "15652.png",
         "area": "CORE ISSUING",
         "profileUrl": " ",
@@ -13556,7 +13556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Quiroz",
+        "name": "",
         "image": "15654.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -13572,7 +13572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Tiraferri",
+        "name": "",
         "image": "15657.png",
         "area": "T ISSUING QA - TEAM 4",
         "profileUrl": " ",
@@ -13588,7 +13588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Luis Rodriguez",
+        "name": "",
         "image": "15661.png",
         "area": "SEGMENTO",
         "profileUrl": " ",
@@ -13604,7 +13604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Oscar Tapia",
+        "name": "",
         "image": "15662.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -13620,7 +13620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Susnik",
+        "name": "",
         "image": "15663.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -13636,7 +13636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Aguirre",
+        "name": "",
         "image": "15664.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -13652,7 +13652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristian Javier De Luca",
+        "name": "",
         "image": "16083.png",
         "area": "TALENT DEVELOPMENT",
         "profileUrl": " ",
@@ -13668,7 +13668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Bonino",
+        "name": "",
         "image": "16084.png",
         "area": "COMPLIANCE",
         "profileUrl": " ",
@@ -13684,7 +13684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Pablo Campagno",
+        "name": "",
         "image": "16085.png",
         "area": "COMPLIANCE",
         "profileUrl": " ",
@@ -13700,7 +13700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Losada",
+        "name": "",
         "image": "16087.png",
         "area": "BUSINESS SERVICES INFORMATION",
         "profileUrl": " ",
@@ -13716,7 +13716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Braian Etchepare",
+        "name": "",
         "image": "16088.png",
         "area": "DEVELOPMENT PLATFORM - ORBITA IDP",
         "profileUrl": " ",
@@ -13732,7 +13732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Priano",
+        "name": "",
         "image": "16089.png",
         "area": "SOLUTION ARCHITECTURE - IPS",
         "profileUrl": " ",
@@ -13748,7 +13748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Marcelo Perez",
+        "name": "",
         "image": "16090.png",
         "area": "TECHNOLOGY & OPERATIONS",
         "profileUrl": " ",
@@ -13764,7 +13764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Leonel Arguello",
+        "name": "",
         "image": "16091.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -13780,7 +13780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tomas Dal Verme",
+        "name": "",
         "image": "16122.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -13796,7 +13796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rosa Bruna",
+        "name": "",
         "image": "16123.png",
         "area": "GROWTH MARKETING",
         "profileUrl": " ",
@@ -13812,7 +13812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agostina Gamboa",
+        "name": "",
         "image": "16124.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -13828,7 +13828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Debora Nerini",
+        "name": "",
         "image": "16125.png",
         "area": "GROWTH MARKETING",
         "profileUrl": " ",
@@ -13844,7 +13844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ivan Aquino",
+        "name": "",
         "image": "16126.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -13860,7 +13860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Julio Gomez",
+        "name": "",
         "image": "16127.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -13876,7 +13876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Yasmin Martinez",
+        "name": "",
         "image": "16128.png",
         "area": "RISK OPERATIONAL",
         "profileUrl": " ",
@@ -13892,7 +13892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dario Rodriguez",
+        "name": "",
         "image": "16129.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -13908,7 +13908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Heberto David Romay",
+        "name": "",
         "image": "14695.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -13924,7 +13924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Bruno",
+        "name": "",
         "image": "14701.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -13940,7 +13940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Orgeira",
+        "name": "",
         "image": "14704.png",
         "area": "FIELD SERVICES RUN",
         "profileUrl": " ",
@@ -13956,7 +13956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauro Caceres Damore",
+        "name": "",
         "image": "14706.png",
         "area": "CORPORATE WEB SERVICES",
         "profileUrl": " ",
@@ -13972,7 +13972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Eliana Mamani Rosales",
+        "name": "",
         "image": "14716.png",
         "area": "IT STRATEGY",
         "profileUrl": " ",
@@ -13988,7 +13988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ruben Eduardo Perez",
+        "name": "",
         "image": "14717.png",
         "area": "CENTRAL PROCESSING",
         "profileUrl": " ",
@@ -14004,7 +14004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Gramenos",
+        "name": "",
         "image": "14718.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -14020,7 +14020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Belen Ferreira",
+        "name": "",
         "image": "14724.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -14036,7 +14036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Paola Olivieri",
+        "name": "",
         "image": "12055.png",
         "area": "TECHNOLOGY & DATACENTERS",
         "profileUrl": " ",
@@ -14052,7 +14052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alfredo Carlos Medina",
+        "name": "",
         "image": "12060.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -14068,7 +14068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yonatan Romero",
+        "name": "",
         "image": "12760.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -14084,7 +14084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Hernan Goyeneche",
+        "name": "",
         "image": "12763.png",
         "area": "IT PAYWAY",
         "profileUrl": " ",
@@ -14100,7 +14100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Patricio Ortiz Caceres",
+        "name": "",
         "image": "12770.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -14116,7 +14116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Angel Facundo Lemos",
+        "name": "",
         "image": "12775.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -14132,7 +14132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Cattalini",
+        "name": "",
         "image": "12778.png",
         "area": "COORDINACI�N OPERACION EXTERNA",
         "profileUrl": " ",
@@ -14148,7 +14148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yamila Nahir Bergamaschi",
+        "name": "",
         "image": "12781.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -14164,7 +14164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Farre",
+        "name": "",
         "image": "12794.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -14180,7 +14180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Gonzalez",
+        "name": "",
         "image": "12796.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -14196,7 +14196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ana Cotelo",
+        "name": "",
         "image": "12806.png",
         "area": "CUSTOMER SERVICE PROJECTS",
         "profileUrl": " ",
@@ -14212,7 +14212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ignacio Lascano",
+        "name": "",
         "image": "12807.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -14228,7 +14228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lisett Napoles Portelles",
+        "name": "",
         "image": "12812.png",
         "area": "T ISSUING QA - TEAM 4",
         "profileUrl": " ",
@@ -14244,7 +14244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ana Laura La Porta",
+        "name": "",
         "image": "12815.png",
         "area": "ISSUING PROCESSING",
         "profileUrl": " ",
@@ -14260,7 +14260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yina Maritza Rosas Alarcon",
+        "name": "",
         "image": "12831.png",
         "area": "BANCOS PEQUE�OS Y DIGITALES",
         "profileUrl": " ",
@@ -14276,7 +14276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Andres Stingo",
+        "name": "",
         "image": "12833.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -14292,7 +14292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Gabriel Lopez",
+        "name": "",
         "image": "12837.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -14308,7 +14308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Garin",
+        "name": "",
         "image": "12839.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -14324,7 +14324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Molina Carranza",
+        "name": "",
         "image": "12842.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -14340,7 +14340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Mastronardi",
+        "name": "",
         "image": "12863.png",
         "area": "PAYMENT NETWORKS",
         "profileUrl": " ",
@@ -14356,7 +14356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laureano Vincenty",
+        "name": "",
         "image": "12864.png",
         "area": "CHANNELS & SELF-MANAGEMENT",
         "profileUrl": " ",
@@ -14372,7 +14372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Begonia Vasquez Lugo",
+        "name": "",
         "image": "14861.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -14388,7 +14388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Osmar Alexander Fernandez Quijada",
+        "name": "",
         "image": "14862.png",
         "area": "INSTANT PAYMENTS PRODUCTS",
         "profileUrl": " ",
@@ -14404,7 +14404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Reinoso",
+        "name": "",
         "image": "14864.png",
         "area": "IT CUSTOMER",
         "profileUrl": " ",
@@ -14420,7 +14420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Jose Aguilar",
+        "name": "",
         "image": "14866.png",
         "area": "CORPORATE NETWORK",
         "profileUrl": " ",
@@ -14436,7 +14436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agostina Rodriguez",
+        "name": "",
         "image": "14879.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -14452,7 +14452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Brenda Melina Palormo",
+        "name": "",
         "image": "16196.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -14468,7 +14468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yasmin Mariam Rejidor",
+        "name": "",
         "image": "16208.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -14484,7 +14484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas De Leon",
+        "name": "",
         "image": "16209.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -14500,7 +14500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Malgor",
+        "name": "",
         "image": "16210.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -14516,7 +14516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Velo",
+        "name": "",
         "image": "16211.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -14532,7 +14532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Bedate",
+        "name": "",
         "image": "16212.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -14548,7 +14548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melani Belen Galeano",
+        "name": "",
         "image": "16213.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -14564,7 +14564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guido Nahuel Varise",
+        "name": "",
         "image": "16214.png",
         "area": "MANAGEMENT CONTROL",
         "profileUrl": " ",
@@ -14580,7 +14580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Belen Trinidad",
+        "name": "",
         "image": "16215.png",
         "area": "CUMPLIMIENTO REGULATORIO",
         "profileUrl": " ",
@@ -14596,7 +14596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Ponte",
+        "name": "",
         "image": "16216.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -14612,7 +14612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Ifran",
+        "name": "",
         "image": "16218.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -14628,7 +14628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Jordan Lopez",
+        "name": "",
         "image": "12574.png",
         "area": "COMMERCIAL PLANNING ISSUING",
         "profileUrl": " ",
@@ -14644,7 +14644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Bidart",
+        "name": "",
         "image": "12575.png",
         "area": "CHANNELS & SELF-MANAGEMENT",
         "profileUrl": " ",
@@ -14660,7 +14660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Marcelo Montenegro",
+        "name": "",
         "image": "12579.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -14676,7 +14676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Robles",
+        "name": "",
         "image": "12582.png",
         "area": "CENTRAL PROCESSING",
         "profileUrl": " ",
@@ -14692,7 +14692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "DANIEL JOSE CARRENO",
+        "name": "",
         "image": "12583.png",
         "area": "ISSUING PROCESSING",
         "profileUrl": " ",
@@ -14708,7 +14708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Veronica Marcilla",
+        "name": "",
         "image": "12584.png",
         "area": "PROJECT MANAGMENT T&O",
         "profileUrl": " ",
@@ -14724,7 +14724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Alejandro Echevarria",
+        "name": "",
         "image": "12586.png",
         "area": "IT ISSUING PROCESSING - TEAM 2",
         "profileUrl": " ",
@@ -14740,7 +14740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hector Claudio Badie",
+        "name": "",
         "image": "12589.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -14756,7 +14756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcela Silvia Gabriele",
+        "name": "",
         "image": "12591.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -14772,7 +14772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Oscar Enrique Tommasi",
+        "name": "",
         "image": "12592.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -14788,7 +14788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Monica Martinez",
+        "name": "",
         "image": "12594.png",
         "area": "IT ISSUING PROCESSING - TEAM 2",
         "profileUrl": " ",
@@ -14804,7 +14804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Manfredi",
+        "name": "",
         "image": "13287.png",
         "area": "BACK OFFICE CUSTOMER",
         "profileUrl": " ",
@@ -14820,7 +14820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Chavez",
+        "name": "",
         "image": "13310.png",
         "area": "COORDINACION PROCESAMIENTO 3",
         "profileUrl": " ",
@@ -14836,7 +14836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Asan",
+        "name": "",
         "image": "13314.png",
         "area": "ATM DELIVERY",
         "profileUrl": " ",
@@ -14852,7 +14852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nestor Malinovsky",
+        "name": "",
         "image": "13315.png",
         "area": "COORDINACION PROCESAMIENTO",
         "profileUrl": " ",
@@ -14868,7 +14868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nestor Muniz",
+        "name": "",
         "image": "13323.png",
         "area": "PRODUCTION SUPPORT",
         "profileUrl": " ",
@@ -14884,7 +14884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Quevedo",
+        "name": "",
         "image": "14451.png",
         "area": "PROCESOS DE COMERCIOS 4",
         "profileUrl": " ",
@@ -14900,7 +14900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Guido",
+        "name": "",
         "image": "14468.png",
         "area": "TESORERIA",
         "profileUrl": " ",
@@ -14916,7 +14916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Belen Perez",
+        "name": "",
         "image": "14471.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -14932,7 +14932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Tedesco",
+        "name": "",
         "image": "14478.png",
         "area": "BANCOS CUSTOMER MPS",
         "profileUrl": " ",
@@ -14948,7 +14948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Douglas Escalona",
+        "name": "",
         "image": "14479.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -14964,7 +14964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Belen Mayo",
+        "name": "",
         "image": "14480.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -14980,7 +14980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Gomez Villca",
+        "name": "",
         "image": "14482.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -14996,7 +14996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauricio Rivas",
+        "name": "",
         "image": "14490.png",
         "area": "SERVERS & STORAGE TECHNOLOGIES",
         "profileUrl": " ",
@@ -15012,7 +15012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julieta Martin",
+        "name": "",
         "image": "14491.png",
         "area": "DATABASE ADMINISTRATION",
         "profileUrl": " ",
@@ -15028,7 +15028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Wilder Hilario Delgado",
+        "name": "",
         "image": "14492.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -15044,7 +15044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Esteban Ramos",
+        "name": "",
         "image": "16308.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -15060,7 +15060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Fernando Sosa",
+        "name": "",
         "image": "16309.png",
         "area": "CUSTOMER SERVICE MPS",
         "profileUrl": " ",
@@ -15076,7 +15076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Duilio Adriel Di Tommasi",
+        "name": "",
         "image": "16310.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -15092,7 +15092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Ezequiel Grispo",
+        "name": "",
         "image": "16311.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -15108,7 +15108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Franganillo",
+        "name": "",
         "image": "16312.png",
         "area": "ISSUER RISK PREVENTION",
         "profileUrl": " ",
@@ -15124,7 +15124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Suarez Alvarado",
+        "name": "",
         "image": "16314.png",
         "area": "DIGITAL FACTORY BUSINESS PARTNER",
         "profileUrl": " ",
@@ -15140,7 +15140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Brian Faiman",
+        "name": "",
         "image": "16315.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -15156,7 +15156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ernesto Mario Viola",
+        "name": "",
         "image": "16316.png",
         "area": "FINANCE",
         "profileUrl": " ",
@@ -15172,7 +15172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Belen Malicki",
+        "name": "",
         "image": "16317.png",
         "area": "COMMERCIAL CARDS BUSINESS",
         "profileUrl": " ",
@@ -15188,7 +15188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Mariano Caputo Bogliolo",
+        "name": "",
         "image": "16318.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -15204,7 +15204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Campos",
+        "name": "",
         "image": "15875.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -15220,7 +15220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Rodino",
+        "name": "",
         "image": "15877.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -15236,7 +15236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Miranda",
+        "name": "",
         "image": "15878.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -15252,7 +15252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anahi Belen Camarero",
+        "name": "",
         "image": "15880.png",
         "area": "CORE ISSUING",
         "profileUrl": " ",
@@ -15268,7 +15268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Luis Vaniglia",
+        "name": "",
         "image": "15881.png",
         "area": "MANAGEMENT CONTROL",
         "profileUrl": " ",
@@ -15284,7 +15284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marco Carlos Mercurio",
+        "name": "",
         "image": "15882.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -15300,7 +15300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Erika Barreto",
+        "name": "",
         "image": "15883.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -15316,7 +15316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Conti",
+        "name": "",
         "image": "15884.png",
         "area": "CUSTOMER SERVICE IPS",
         "profileUrl": " ",
@@ -15332,7 +15332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miriam Marino",
+        "name": "",
         "image": "15885.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -15348,7 +15348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Dalla Bella",
+        "name": "",
         "image": "15117.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -15364,7 +15364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Lucci",
+        "name": "",
         "image": "15118.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -15380,7 +15380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Rubicini",
+        "name": "",
         "image": "15119.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -15396,7 +15396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonel Celeiro",
+        "name": "",
         "image": "15120.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -15412,7 +15412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Heika Soto",
+        "name": "",
         "image": "15122.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -15428,7 +15428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Baer",
+        "name": "",
         "image": "15123.png",
         "area": "SMBS SALES",
         "profileUrl": " ",
@@ -15444,7 +15444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Gabriela Bracho",
+        "name": "",
         "image": "15125.png",
         "area": "BANCOS CUSTOMER MPS",
         "profileUrl": " ",
@@ -15460,7 +15460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melania Soledad Levrino Puga",
+        "name": "",
         "image": "15999.png",
         "area": "LARGE ACCOUNT REGIONAL",
         "profileUrl": " ",
@@ -15476,7 +15476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Moldes",
+        "name": "",
         "image": "16000.png",
         "area": "IS GOVERNANCE, RISK & COMPLIANCE",
         "profileUrl": " ",
@@ -15492,7 +15492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diana Alejandra Conde",
+        "name": "",
         "image": "16002.png",
         "area": "ACCOUNTING",
         "profileUrl": " ",
@@ -15508,7 +15508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maylen Romero",
+        "name": "",
         "image": "16004.png",
         "area": "DIGITAL ISSUING PRODUCT",
         "profileUrl": " ",
@@ -15524,7 +15524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Martinez",
+        "name": "",
         "image": "16006.png",
         "area": "DEVELOPMENT PLATFORM - ORBITA IDP",
         "profileUrl": " ",
@@ -15540,7 +15540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sabrina Denise Wehrli",
+        "name": "",
         "image": "16007.png",
         "area": "CLIENTS SUPPORT",
         "profileUrl": " ",
@@ -15556,7 +15556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Victoria Palavecino",
+        "name": "",
         "image": "16008.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -15572,7 +15572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Alejandro Moring",
+        "name": "",
         "image": "16009.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -15588,7 +15588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian David Prestayko",
+        "name": "",
         "image": "16010.png",
         "area": "PROCUREMENT - IT & TECHNOLOGY",
         "profileUrl": " ",
@@ -15604,7 +15604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Paula Giliberti",
+        "name": "",
         "image": "16011.png",
         "area": "BILLING IPS",
         "profileUrl": " ",
@@ -15620,7 +15620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Campos",
+        "name": "",
         "image": "13580.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -15636,7 +15636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Vicente",
+        "name": "",
         "image": "13581.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -15652,7 +15652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanina Morosini",
+        "name": "",
         "image": "13582.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -15668,7 +15668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego R. Cestau",
+        "name": "",
         "image": "13585.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -15684,7 +15684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Martinez",
+        "name": "",
         "image": "13593.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -15700,7 +15700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Duval",
+        "name": "",
         "image": "13601.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -15716,7 +15716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Notonica",
+        "name": "",
         "image": "13609.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -15732,7 +15732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alaniz",
+        "name": "",
         "image": "13613.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -15748,7 +15748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Martino",
+        "name": "",
         "image": "16194.png",
         "area": "IT CUSTOMER",
         "profileUrl": " ",
@@ -15764,7 +15764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Samanta De Simone",
+        "name": "",
         "image": "16195.png",
         "area": "INSIGHT",
         "profileUrl": " ",
@@ -15780,7 +15780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rocio Segal",
+        "name": "",
         "image": "14494.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -15796,7 +15796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Belen Nu�o",
+        "name": "",
         "image": "14495.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -15812,7 +15812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Girard",
+        "name": "",
         "image": "14496.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -15828,7 +15828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Denise Heintz",
+        "name": "",
         "image": "14499.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -15844,7 +15844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Federico Luppi",
+        "name": "",
         "image": "14502.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -15860,7 +15860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano del Rivero",
+        "name": "",
         "image": "14506.png",
         "area": "COORD. 2 - CONTROL Y CONFIGURACI�N",
         "profileUrl": " ",
@@ -15876,7 +15876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Niz",
+        "name": "",
         "image": "14513.png",
         "area": "IT INSTANT PAYMENTS TEAM 1",
         "profileUrl": " ",
@@ -15892,7 +15892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Gentile",
+        "name": "",
         "image": "14514.png",
         "area": "ISSUING PROCESSING",
         "profileUrl": " ",
@@ -15908,7 +15908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias De Olivera",
+        "name": "",
         "image": "14515.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -15924,7 +15924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Miguel Etchart",
+        "name": "",
         "image": "16287.png",
         "area": "FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -15940,7 +15940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Eloy Montero Rebolledo",
+        "name": "",
         "image": "16288.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -15956,7 +15956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermo German Regner",
+        "name": "",
         "image": "16289.png",
         "area": "COORDINACION PROCESAMIENTO",
         "profileUrl": " ",
@@ -15972,7 +15972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Ariel Argiro",
+        "name": "",
         "image": "16290.png",
         "area": "ACQUIRING BUSINESS BANK CHANNEL",
         "profileUrl": " ",
@@ -15988,7 +15988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Carlos Fernandez Sanz",
+        "name": "",
         "image": "16291.png",
         "area": "PROJECT MANAGMENT T&O",
         "profileUrl": " ",
@@ -16004,7 +16004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gisela Chesta",
+        "name": "",
         "image": "16292.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -16020,7 +16020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Arturo Carlos Trovati",
+        "name": "",
         "image": "16293.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -16036,7 +16036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gina Yazmin Olivello",
+        "name": "",
         "image": "16294.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -16052,7 +16052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rosalia Troche",
+        "name": "",
         "image": "16295.png",
         "area": "ACCOUNTS PAYABLE",
         "profileUrl": " ",
@@ -16068,7 +16068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Holik",
+        "name": "",
         "image": "16296.png",
         "area": "CUSTOMER SERVICE IPS",
         "profileUrl": " ",
@@ -16084,7 +16084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Miguel Capon",
+        "name": "",
         "image": "16272.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -16100,7 +16100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Raul Diaz",
+        "name": "",
         "image": "16273.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -16116,7 +16116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Ernesto Lucero",
+        "name": "",
         "image": "16274.png",
         "area": "SERVERS & STORAGE TECHNOLOGIES",
         "profileUrl": " ",
@@ -16132,7 +16132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Beorlegui",
+        "name": "",
         "image": "16275.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -16148,7 +16148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tomas David Jimenez Brusco",
+        "name": "",
         "image": "16276.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -16164,7 +16164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Angel Reverbella",
+        "name": "",
         "image": "16277.png",
         "area": "COORDINACION PROCESAMIENTO",
         "profileUrl": " ",
@@ -16180,7 +16180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Accardi",
+        "name": "",
         "image": "16278.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -16196,7 +16196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Agustin Bastarreix",
+        "name": "",
         "image": "16279.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -16212,7 +16212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lorena Gemignani",
+        "name": "",
         "image": "16281.png",
         "area": "GROWTH MARKETING",
         "profileUrl": " ",
@@ -16228,7 +16228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Frare",
+        "name": "",
         "image": "16282.png",
         "area": "STRATEGY RISK ISSUER",
         "profileUrl": " ",
@@ -16244,7 +16244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricio Wynne",
+        "name": "",
         "image": "16283.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -16260,7 +16260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Rubio",
+        "name": "",
         "image": "16284.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -16276,7 +16276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Matias Beltramone",
+        "name": "",
         "image": "16285.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -16292,7 +16292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermo Horacio Rocco",
+        "name": "",
         "image": "16286.png",
         "area": "CENTRAL PROCESSING",
         "profileUrl": " ",
@@ -16308,7 +16308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Florencia Barbona",
+        "name": "",
         "image": "12181.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -16324,7 +16324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Ariel Gallardo",
+        "name": "",
         "image": "12207.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -16340,7 +16340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Omar Marino",
+        "name": "",
         "image": "12216.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -16356,7 +16356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Soledad Ordo�ez",
+        "name": "",
         "image": "12224.png",
         "area": "MARKET ANALYSIS",
         "profileUrl": " ",
@@ -16372,7 +16372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alberto Humke",
+        "name": "",
         "image": "12245.png",
         "area": "RISK OPERATIONAL",
         "profileUrl": " ",
@@ -16388,7 +16388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julieta Lasala",
+        "name": "",
         "image": "12250.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -16404,7 +16404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanesa Patricia Gonzalez Previdere",
+        "name": "",
         "image": "12259.png",
         "area": "BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -16420,7 +16420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Francisco Zamora",
+        "name": "",
         "image": "12269.png",
         "area": "FINANCING & CORPORATE DEVELOPMEN",
         "profileUrl": " ",
@@ -16436,7 +16436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Javier Crespo Rosasco",
+        "name": "",
         "image": "16261.png",
         "area": "OPERATIONS MERCHANTS",
         "profileUrl": " ",
@@ -16452,7 +16452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Geronimo Leon Bordone Valle",
+        "name": "",
         "image": "16262.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -16468,7 +16468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fabian Galindo Puentes",
+        "name": "",
         "image": "16263.png",
         "area": "PROCUREMENT - IT & TECHNOLOGY",
         "profileUrl": " ",
@@ -16484,7 +16484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucila Vergara",
+        "name": "",
         "image": "16264.png",
         "area": "BENEFITS",
         "profileUrl": " ",
@@ -16500,7 +16500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Ortega",
+        "name": "",
         "image": "16265.png",
         "area": "RISK ACQUIRING",
         "profileUrl": " ",
@@ -16516,7 +16516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Manuel Cardozo",
+        "name": "",
         "image": "16266.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -16532,7 +16532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Jorgelina Pereyra",
+        "name": "",
         "image": "16267.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -16548,7 +16548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Sabrina Fuster San Miguel",
+        "name": "",
         "image": "16268.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -16564,7 +16564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Jesus Aguilera Pineda",
+        "name": "",
         "image": "16269.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -16580,7 +16580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Di Leva",
+        "name": "",
         "image": "16270.png",
         "area": "STRATEGY RISK ISSUER",
         "profileUrl": " ",
@@ -16596,7 +16596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julia Gonzalez",
+        "name": "",
         "image": "16271.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -16612,7 +16612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Silvia Vodopiviz",
+        "name": "",
         "image": "11153.png",
         "area": "OPERATIONS BANKS & PARAMETERS",
         "profileUrl": " ",
@@ -16628,7 +16628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Javier Lencina",
+        "name": "",
         "image": "11247.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -16644,7 +16644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Pablo Libretti",
+        "name": "",
         "image": "11248.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -16660,7 +16660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Perez",
+        "name": "",
         "image": "11251.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -16676,7 +16676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Gabriel Adduci",
+        "name": "",
         "image": "11256.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -16692,7 +16692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Ariel Calo",
+        "name": "",
         "image": "11259.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -16708,7 +16708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Emilio Marchese",
+        "name": "",
         "image": "11267.png",
         "area": "CLIENTS SUPPORT",
         "profileUrl": " ",
@@ -16724,7 +16724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Raquel Rodriguez",
+        "name": "",
         "image": "11291.png",
         "area": "DESPLIEGUE DE SOFTWARE",
         "profileUrl": " ",
@@ -16740,7 +16740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Monica Yanez",
+        "name": "",
         "image": "11294.png",
         "area": "BIG DATA & ARCHITECTURE",
         "profileUrl": " ",
@@ -16756,7 +16756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Hernan Gonzalez",
+        "name": "",
         "image": "11297.png",
         "area": "ADMINISTRACION DE CUENTAS",
         "profileUrl": " ",
@@ -16772,7 +16772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Alberto Justo",
+        "name": "",
         "image": "11298.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -16788,7 +16788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Julio Perez",
+        "name": "",
         "image": "13731.png",
         "area": "NETWORK & DIGITAL PRODUCTS",
         "profileUrl": " ",
@@ -16804,7 +16804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nancy Tirado",
+        "name": "",
         "image": "13734.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -16820,7 +16820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "David Vespoli",
+        "name": "",
         "image": "13739.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -16836,7 +16836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Bernardo",
+        "name": "",
         "image": "13744.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -16852,7 +16852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Val Rey",
+        "name": "",
         "image": "13746.png",
         "area": "COORD 1 - CONTROL Y CONFIGURACI�N",
         "profileUrl": " ",
@@ -16868,7 +16868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hugo Soto",
+        "name": "",
         "image": "13752.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -16884,7 +16884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Arechaga",
+        "name": "",
         "image": "13757.png",
         "area": "COORDINACION PROCESAMIENTO 3",
         "profileUrl": " ",
@@ -16900,7 +16900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Trinidad",
+        "name": "",
         "image": "13759.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -16916,7 +16916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Sierra",
+        "name": "",
         "image": "13762.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -16932,7 +16932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Fernanda Di Giacomo",
+        "name": "",
         "image": "11627.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -16948,7 +16948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melisa Soledad Di Pietro",
+        "name": "",
         "image": "11634.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -16964,7 +16964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Laura Gioia",
+        "name": "",
         "image": "11638.png",
         "area": "LOGISTICA Y STOCK",
         "profileUrl": " ",
@@ -16980,7 +16980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorgelina Lombardo",
+        "name": "",
         "image": "11639.png",
         "area": "BACK OFFICE CUSTOMER",
         "profileUrl": " ",
@@ -16996,7 +16996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Jimena Romaska",
+        "name": "",
         "image": "11642.png",
         "area": "BANCOS PUBLICOS",
         "profileUrl": " ",
@@ -17012,7 +17012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Veronica Alejandra Marino",
+        "name": "",
         "image": "11656.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -17028,7 +17028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Flavia Viviana Del Valle Balceda",
+        "name": "",
         "image": "11662.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -17044,7 +17044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Veronica Cetinic",
+        "name": "",
         "image": "11663.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -17060,7 +17060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "CINTIA VANESA FARINA",
+        "name": "",
         "image": "11666.png",
         "area": "PARAMETR�A",
         "profileUrl": " ",
@@ -17076,7 +17076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Guadalupe Mema",
+        "name": "",
         "image": "11670.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -17092,7 +17092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricio Peralta",
+        "name": "",
         "image": "11672.png",
         "area": "BANCOS CUSTOMER MPS",
         "profileUrl": " ",
@@ -17108,7 +17108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Soledad Bertolini",
+        "name": "",
         "image": "11679.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -17124,7 +17124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Machado",
+        "name": "",
         "image": "14375.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -17140,7 +17140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Jara Podesta",
+        "name": "",
         "image": "14386.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -17156,7 +17156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Agustin Saracho",
+        "name": "",
         "image": "14398.png",
         "area": "SERVICIOS TI",
         "profileUrl": " ",
@@ -17172,7 +17172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Silvia Ridella",
+        "name": "",
         "image": "14399.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -17188,7 +17188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fabio Nestor Pascari",
+        "name": "",
         "image": "14400.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -17204,7 +17204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Leonor Ares",
+        "name": "",
         "image": "14407.png",
         "area": "PRE-SALES",
         "profileUrl": " ",
@@ -17220,7 +17220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Demagistre",
+        "name": "",
         "image": "14411.png",
         "area": "TECHNOLOGY & DATACENTERS",
         "profileUrl": " ",
@@ -17236,7 +17236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Monje Gauna",
+        "name": "",
         "image": "14413.png",
         "area": "RISK DESICION",
         "profileUrl": " ",
@@ -17252,7 +17252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Sanchez Turuzzi",
+        "name": "",
         "image": "14415.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -17268,7 +17268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Carlos Bodnar Perez Louzao",
+        "name": "",
         "image": "11568.png",
         "area": "BANCOS PUBLICOS",
         "profileUrl": " ",
@@ -17284,7 +17284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Omar Peralta",
+        "name": "",
         "image": "11577.png",
         "area": "PARAMETR�A",
         "profileUrl": " ",
@@ -17300,7 +17300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tomas Flaherty",
+        "name": "",
         "image": "11583.png",
         "area": "STRATEGIC ALLIANCES",
         "profileUrl": " ",
@@ -17316,7 +17316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Hernan Gomez",
+        "name": "",
         "image": "11584.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -17332,7 +17332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Palmero",
+        "name": "",
         "image": "11587.png",
         "area": "REGIONAL SALES",
         "profileUrl": " ",
@@ -17348,7 +17348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Peralta",
+        "name": "",
         "image": "11588.png",
         "area": "DESPLIEGUE DE SOFTWARE",
         "profileUrl": " ",
@@ -17364,7 +17364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Evelyn Cordova",
+        "name": "",
         "image": "11592.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -17380,7 +17380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Liliana Soledad Costa",
+        "name": "",
         "image": "11593.png",
         "area": "TESORERIA",
         "profileUrl": " ",
@@ -17396,7 +17396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Dario Parra",
+        "name": "",
         "image": "11598.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -17412,7 +17412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Otto Bahnson",
+        "name": "",
         "image": "11601.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -17428,7 +17428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ludmila Caponi",
+        "name": "",
         "image": "11604.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -17444,7 +17444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Gonzalez Rodriguez",
+        "name": "",
         "image": "11902.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -17460,7 +17460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ana Di Yelsi",
+        "name": "",
         "image": "11905.png",
         "area": "BANCOS PUBLICOS",
         "profileUrl": " ",
@@ -17476,7 +17476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cinthia Vanesa Butler",
+        "name": "",
         "image": "11908.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -17492,7 +17492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Alina Florencia Fontau",
+        "name": "",
         "image": "11911.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -17508,7 +17508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Quiroga",
+        "name": "",
         "image": "11913.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -17524,7 +17524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Luz Mouzo",
+        "name": "",
         "image": "11914.png",
         "area": "TALENT DEVELOPMENT",
         "profileUrl": " ",
@@ -17540,7 +17540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Fernanda Aldeco",
+        "name": "",
         "image": "11925.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -17556,7 +17556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Baez Ruth",
+        "name": "",
         "image": "11926.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -17572,7 +17572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria de los Angeles Rodriguez",
+        "name": "",
         "image": "11954.png",
         "area": "LEARNING",
         "profileUrl": " ",
@@ -17588,7 +17588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricia Andrea Dittloff",
+        "name": "",
         "image": "11959.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO II",
         "profileUrl": " ",
@@ -17604,7 +17604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Elizabeth Gimenez",
+        "name": "",
         "image": "11989.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -17620,7 +17620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Pelizza",
+        "name": "",
         "image": "13895.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -17636,7 +17636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Daniel Rinaldi",
+        "name": "",
         "image": "13896.png",
         "area": "ORGANIZATION & COMPENSATION",
         "profileUrl": " ",
@@ -17652,7 +17652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Bargach",
+        "name": "",
         "image": "13900.png",
         "area": "INSTANT PAYMENTS COMMERCIAL",
         "profileUrl": " ",
@@ -17668,7 +17668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Janelli",
+        "name": "",
         "image": "13905.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -17684,7 +17684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Valinotti",
+        "name": "",
         "image": "13909.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -17700,7 +17700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Erica Llopis",
+        "name": "",
         "image": "13911.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -17716,7 +17716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Bandeira",
+        "name": "",
         "image": "13913.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -17732,7 +17732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julio Alejandro Vazquez",
+        "name": "",
         "image": "13914.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -17748,7 +17748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marianela Morales",
+        "name": "",
         "image": "13915.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -17764,7 +17764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Ballestero",
+        "name": "",
         "image": "13931.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -17780,7 +17780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nahuel Mauri",
+        "name": "",
         "image": "14168.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -17796,7 +17796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ignacio Torres",
+        "name": "",
         "image": "14169.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -17812,7 +17812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Fernandez Ojeda",
+        "name": "",
         "image": "14170.png",
         "area": "T ISSUING QA - TEAM 4",
         "profileUrl": " ",
@@ -17828,7 +17828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Camozzi",
+        "name": "",
         "image": "14171.png",
         "area": "SYSTEMS QUALITY",
         "profileUrl": " ",
@@ -17844,7 +17844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria de los Angeles Galindo Conde",
+        "name": "",
         "image": "14175.png",
         "area": "PAYMENTS PLATFORM",
         "profileUrl": " ",
@@ -17860,7 +17860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Baisel",
+        "name": "",
         "image": "14176.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -17876,7 +17876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Torrado",
+        "name": "",
         "image": "14180.png",
         "area": "INSTANT PAYMENTS PRODUCTS",
         "profileUrl": " ",
@@ -17892,7 +17892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gervasio Gabarain",
+        "name": "",
         "image": "14184.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 5",
         "profileUrl": " ",
@@ -17908,7 +17908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Sinopoli",
+        "name": "",
         "image": "14185.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -17924,7 +17924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Antonio Jose Barrios Serrano",
+        "name": "",
         "image": "14191.png",
         "area": "OPERATIONAL DATA TEAM",
         "profileUrl": " ",
@@ -17940,7 +17940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Villada",
+        "name": "",
         "image": "14203.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -17956,7 +17956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Foscolo",
+        "name": "",
         "image": "10789.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -17972,7 +17972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Eugenia Cucchi",
+        "name": "",
         "image": "10821.png",
         "area": "TRADE MARKETING",
         "profileUrl": " ",
@@ -17988,7 +17988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Esteban Cerrato",
+        "name": "",
         "image": "10829.png",
         "area": "BACK OFFICE REDES",
         "profileUrl": " ",
@@ -18004,7 +18004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mahra Bichara",
+        "name": "",
         "image": "10830.png",
         "area": "EXECUTIVE AREA",
         "profileUrl": " ",
@@ -18020,7 +18020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Andres Duch",
+        "name": "",
         "image": "10834.png",
         "area": "BILLING IPS",
         "profileUrl": " ",
@@ -18036,7 +18036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Fernando Avila",
+        "name": "",
         "image": "10841.png",
         "area": "NETWORK TECHNOLOGIES",
         "profileUrl": " ",
@@ -18052,7 +18052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alida Cereminati",
+        "name": "",
         "image": "10842.png",
         "area": "BACK OFFICE REDES",
         "profileUrl": " ",
@@ -18068,7 +18068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Victoria Baldassini",
+        "name": "",
         "image": "10849.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -18084,7 +18084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonel Belmonte",
+        "name": "",
         "image": "10856.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -18100,7 +18100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudia Cecilia Castelo",
+        "name": "",
         "image": "10889.png",
         "area": "FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -18116,7 +18116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Schmoller",
+        "name": "",
         "image": "10895.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -18132,7 +18132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Badaracco",
+        "name": "",
         "image": "10905.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -18148,7 +18148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Marcelo Santacroce",
+        "name": "",
         "image": "10912.png",
         "area": "COLLECTIONS & CLEARING ISSUING",
         "profileUrl": " ",
@@ -18164,7 +18164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristhian Forte",
+        "name": "",
         "image": "13799.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -18180,7 +18180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Marcela Bana",
+        "name": "",
         "image": "13806.png",
         "area": "CANALES DE RECAUDACION",
         "profileUrl": " ",
@@ -18196,7 +18196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Coronel",
+        "name": "",
         "image": "13810.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -18212,7 +18212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Banderbek",
+        "name": "",
         "image": "13812.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -18228,7 +18228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Bogado",
+        "name": "",
         "image": "13815.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -18244,7 +18244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Ponce",
+        "name": "",
         "image": "13821.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -18260,7 +18260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Chagnier",
+        "name": "",
         "image": "13831.png",
         "area": "CINTOTECA",
         "profileUrl": " ",
@@ -18276,7 +18276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Etcheverry",
+        "name": "",
         "image": "13838.png",
         "area": "IT STRATEGY",
         "profileUrl": " ",
@@ -18292,7 +18292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Alejandro Gonzalez",
+        "name": "",
         "image": "13839.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -18308,7 +18308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandra Costante",
+        "name": "",
         "image": "14082.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -18324,7 +18324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Olifir",
+        "name": "",
         "image": "14083.png",
         "area": "ATM HOMOLOGATION",
         "profileUrl": " ",
@@ -18340,7 +18340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lisandro Tamagno",
+        "name": "",
         "image": "14086.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -18356,7 +18356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Nastasi",
+        "name": "",
         "image": "14100.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -18372,7 +18372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guido Alonso Ordo�ez",
+        "name": "",
         "image": "14106.png",
         "area": "SMBS SALES",
         "profileUrl": " ",
@@ -18388,7 +18388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvina Cortez Caceres",
+        "name": "",
         "image": "14108.png",
         "area": "PRE-SALES",
         "profileUrl": " ",
@@ -18404,7 +18404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Alejandra Tristezza",
+        "name": "",
         "image": "14110.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -18420,7 +18420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Analia Andreini",
+        "name": "",
         "image": "14111.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -18436,7 +18436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eliana Sarto",
+        "name": "",
         "image": "14112.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -18452,7 +18452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Fretes",
+        "name": "",
         "image": "14114.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -18468,7 +18468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Alejandra Herrera",
+        "name": "",
         "image": "14115.png",
         "area": "PROCESOS DE COMERCIOS 3",
         "profileUrl": " ",
@@ -18484,7 +18484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Grillo",
+        "name": "",
         "image": "15044.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -18500,7 +18500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Marcelo Santarsiere",
+        "name": "",
         "image": "15050.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -18516,7 +18516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Katheryn Almentero",
+        "name": "",
         "image": "15051.png",
         "area": "TALENT ACQUISITION",
         "profileUrl": " ",
@@ -18532,7 +18532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Fontana",
+        "name": "",
         "image": "15054.png",
         "area": "COMPENSATION & ORGANIZATION",
         "profileUrl": " ",
@@ -18548,7 +18548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Losano",
+        "name": "",
         "image": "15055.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -18564,7 +18564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Williams Mena",
+        "name": "",
         "image": "15056.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -18580,7 +18580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Gioia",
+        "name": "",
         "image": "15068.png",
         "area": "FINANCING & CORPORATE DEVELOPMEN",
         "profileUrl": " ",
@@ -18596,7 +18596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Carloni",
+        "name": "",
         "image": "15069.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -18612,7 +18612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauricio Godoy",
+        "name": "",
         "image": "15071.png",
         "area": "ACCOUNTING",
         "profileUrl": " ",
@@ -18628,7 +18628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Cordero",
+        "name": "",
         "image": "15072.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -18644,7 +18644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Magdalena Rocca",
+        "name": "",
         "image": "15075.png",
         "area": "LEGAL CORPORATE",
         "profileUrl": " ",
@@ -18660,7 +18660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Christian Surbete",
+        "name": "",
         "image": "15036.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -18676,7 +18676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Petrino",
+        "name": "",
         "image": "15037.png",
         "area": "INTEGRATIONS - TEAM II",
         "profileUrl": " ",
@@ -18692,7 +18692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Deivis Rojas",
+        "name": "",
         "image": "15038.png",
         "area": "PROCESOS DE COMERCIOS 3",
         "profileUrl": " ",
@@ -18708,7 +18708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Ibarra",
+        "name": "",
         "image": "15042.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -18724,7 +18724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Cecilia Ferreiro",
+        "name": "",
         "image": "15043.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -18740,7 +18740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ramiro Ezequiel Borzani",
+        "name": "",
         "image": "15252.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -18756,7 +18756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Yovovich",
+        "name": "",
         "image": "15253.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -18772,7 +18772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Albano Sebastian Pietro",
+        "name": "",
         "image": "15254.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -18788,7 +18788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Rodriguez",
+        "name": "",
         "image": "15256.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -18804,7 +18804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Ezcurra",
+        "name": "",
         "image": "15269.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -18820,7 +18820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Grispino",
+        "name": "",
         "image": "15270.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -18836,7 +18836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Sol Franco",
+        "name": "",
         "image": "15272.png",
         "area": "COUNTERPARTY RISK",
         "profileUrl": " ",
@@ -18852,7 +18852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Marandola",
+        "name": "",
         "image": "15273.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -18868,7 +18868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Miguel Delgado",
+        "name": "",
         "image": "15277.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -18884,7 +18884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciana Coll",
+        "name": "",
         "image": "15280.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -18900,7 +18900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mara Ivone Silva",
+        "name": "",
         "image": "15823.png",
         "area": "IS GOVERNANCE, RISK & COMPLIANCE",
         "profileUrl": " ",
@@ -18916,7 +18916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Eduardo Ortega",
+        "name": "",
         "image": "15824.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -18932,7 +18932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eliana Noemi Pinon",
+        "name": "",
         "image": "15827.png",
         "area": "BANCOS MEDIANOS",
         "profileUrl": " ",
@@ -18948,7 +18948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Angel Vivardo",
+        "name": "",
         "image": "15828.png",
         "area": "PLATAFORMAS DIGITALES",
         "profileUrl": " ",
@@ -18964,7 +18964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ana Belen Fernandez",
+        "name": "",
         "image": "15829.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -18980,7 +18980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lara Ailin Guerrero",
+        "name": "",
         "image": "15833.png",
         "area": "UX PRODUCT DESIGN MS",
         "profileUrl": " ",
@@ -18996,7 +18996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Celina Vicenz",
+        "name": "",
         "image": "15834.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -19012,7 +19012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Agustin Fiorotto",
+        "name": "",
         "image": "15835.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -19028,7 +19028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Ines Marilungo",
+        "name": "",
         "image": "15837.png",
         "area": "SEGMENTO",
         "profileUrl": " ",
@@ -19044,7 +19044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Ventura",
+        "name": "",
         "image": "15838.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -19060,7 +19060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricia Said",
+        "name": "",
         "image": "15839.png",
         "area": "IT FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -19076,7 +19076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Enrique Santodomingo Maita",
+        "name": "",
         "image": "15840.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -19092,7 +19092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jeremias Quiroga",
+        "name": "",
         "image": "15919.png",
         "area": "LARGE CORPORATE",
         "profileUrl": " ",
@@ -19108,7 +19108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Matias Perotti",
+        "name": "",
         "image": "15921.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -19124,7 +19124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Cimino",
+        "name": "",
         "image": "15226.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -19140,7 +19140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Ocampo Devatanian",
+        "name": "",
         "image": "15232.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -19156,7 +19156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Andrade",
+        "name": "",
         "image": "15233.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -19172,7 +19172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Dubesarsky",
+        "name": "",
         "image": "15234.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -19188,7 +19188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Ayesa",
+        "name": "",
         "image": "15236.png",
         "area": "DIGITAL ISSUING PRODUCT",
         "profileUrl": " ",
@@ -19204,7 +19204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Ybarra",
+        "name": "",
         "image": "15241.png",
         "area": "IT CUSTOMER",
         "profileUrl": " ",
@@ -19220,7 +19220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Tejerina",
+        "name": "",
         "image": "15243.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -19236,7 +19236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Monica Cordoba",
+        "name": "",
         "image": "15245.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -19252,7 +19252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Astrid Chirinos",
+        "name": "",
         "image": "15248.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -19268,7 +19268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Wainschenker",
+        "name": "",
         "image": "15249.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -19284,7 +19284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Julieta Leiva",
+        "name": "",
         "image": "15250.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -19300,7 +19300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Grecco",
+        "name": "",
         "image": "12529.png",
         "area": "CREDIT CARD BUSINESS",
         "profileUrl": " ",
@@ -19316,7 +19316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Suarez D�riga",
+        "name": "",
         "image": "12533.png",
         "area": "IT CORPORATE APPLICATIONS",
         "profileUrl": " ",
@@ -19332,7 +19332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Porcelli",
+        "name": "",
         "image": "12536.png",
         "area": "OPERATIONS BANKS & PARAMETERS",
         "profileUrl": " ",
@@ -19348,7 +19348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cecilia Chipulari",
+        "name": "",
         "image": "12537.png",
         "area": "LARGE CORPORATE",
         "profileUrl": " ",
@@ -19364,7 +19364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Schmukliar",
+        "name": "",
         "image": "12540.png",
         "area": "OPERATION & IT MERCHANTS",
         "profileUrl": " ",
@@ -19380,7 +19380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermo Boetti",
+        "name": "",
         "image": "12542.png",
         "area": "ACQUIRING - EXPERTOS",
         "profileUrl": " ",
@@ -19396,7 +19396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alex Dominguez",
+        "name": "",
         "image": "12547.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -19412,7 +19412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rosana Briceno",
+        "name": "",
         "image": "15362.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -19428,7 +19428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Hernandez",
+        "name": "",
         "image": "15367.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -19444,7 +19444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Ponce",
+        "name": "",
         "image": "15368.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -19460,7 +19460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Alarcon",
+        "name": "",
         "image": "15369.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -19476,7 +19476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Agazzi",
+        "name": "",
         "image": "15373.png",
         "area": "SOCIETARIO Y CORPORATIVO",
         "profileUrl": " ",
@@ -19492,7 +19492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yamila Soledad Rodriguez",
+        "name": "",
         "image": "15374.png",
         "area": "PLANIFICACION",
         "profileUrl": " ",
@@ -19508,7 +19508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Glusman",
+        "name": "",
         "image": "15376.png",
         "area": "PRE-SALES",
         "profileUrl": " ",
@@ -19524,7 +19524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Ines Jensana Lemme",
+        "name": "",
         "image": "15378.png",
         "area": "STRATEGY & PERFORMANCE",
         "profileUrl": " ",
@@ -19540,7 +19540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Herrera",
+        "name": "",
         "image": "15379.png",
         "area": "TELESALES",
         "profileUrl": " ",
@@ -19556,7 +19556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Greissing",
+        "name": "",
         "image": "15380.png",
         "area": "SERVICIOS ADQUIRENCIA",
         "profileUrl": " ",
@@ -19572,7 +19572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Martin Esteve",
+        "name": "",
         "image": "15382.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -19588,7 +19588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Elizabeth Purchetto",
+        "name": "",
         "image": "20007.png",
         "area": "IT CUSTOMER",
         "profileUrl": " ",
@@ -19604,7 +19604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Veronica Namor",
+        "name": "",
         "image": "30005.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -19620,7 +19620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Fernandez",
+        "name": "",
         "image": "30008.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -19636,7 +19636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciana Brignone",
+        "name": "",
         "image": "30018.png",
         "area": "DIGITAL FACTORY BUSINESS PARTNER",
         "profileUrl": " ",
@@ -19652,7 +19652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Leonardo Perez",
+        "name": "",
         "image": "30023.png",
         "area": "SALES & DISTRIBUTION LARGE- MEDIUM",
         "profileUrl": " ",
@@ -19668,7 +19668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "LUCAS GRACIA",
+        "name": "",
         "image": "40008.png",
         "area": "PRODUCT PAYWAY",
         "profileUrl": " ",
@@ -19684,7 +19684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "MAURO BURGUENO",
+        "name": "",
         "image": "40025.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -19700,7 +19700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Nogues",
+        "name": "",
         "image": "60002.png",
         "area": "BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -19716,7 +19716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "BUSPRO.png",
         "area": "",
         "profileUrl": " ",
@@ -19732,7 +19732,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "DATASEC.png",
         "area": "",
         "profileUrl": " ",
@@ -19748,7 +19748,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "DESPLSOFT.png",
         "area": "",
         "profileUrl": " ",
@@ -19764,7 +19764,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "DISP.png",
         "area": "",
         "profileUrl": " ",
@@ -19780,7 +19780,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "GCA.png",
         "area": "",
         "profileUrl": " ",
@@ -19796,7 +19796,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "IPSLT.png",
         "area": "IN-STORE PAYMENT SERVICES & LONG TERM PROJECT",
         "profileUrl": " ",
@@ -19812,7 +19812,7 @@ var arrayCompleto =
         "ultAct": ""
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "IT-DEV.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -19828,7 +19828,7 @@ var arrayCompleto =
         "ultAct": ""
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "MANCON.png",
         "area": "",
         "profileUrl": " ",
@@ -19844,7 +19844,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "MONIT3.png",
         "area": "",
         "profileUrl": " ",
@@ -19860,7 +19860,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "OPINTTELI.png",
         "area": "",
         "profileUrl": " ",
@@ -19876,7 +19876,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "OPYMO.png",
         "area": "",
         "profileUrl": " ",
@@ -19892,7 +19892,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "PAY.png",
         "area": "",
         "profileUrl": " ",
@@ -19908,7 +19908,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "PRDEC.png",
         "area": "",
         "profileUrl": " ",
@@ -19924,7 +19924,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "PREM.png",
         "area": "",
         "profileUrl": " ",
@@ -19940,7 +19940,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "PREYRRII.png",
         "area": "",
         "profileUrl": " ",
@@ -19956,7 +19956,7 @@ var arrayCompleto =
         "ultAct": "1800-01-01 00:00:00"
     },
     {
-        "name": "Vacante",
+        "name": "",
         "image": "PURC.png",
         "area": "PROCUREMENT",
         "profileUrl": " ",
@@ -19972,7 +19972,7 @@ var arrayCompleto =
         "ultAct": ""
     },
     {
-        "name": "Sofia Conti",
+        "name": "",
         "image": "12464.png",
         "area": "LARGE CORPORATE",
         "profileUrl": " ",
@@ -19988,7 +19988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marilina Da Silva Conceicao",
+        "name": "",
         "image": "12470.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -20004,7 +20004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Annaccarato",
+        "name": "",
         "image": "12482.png",
         "area": "PAYMENTS PLATFORM",
         "profileUrl": " ",
@@ -20020,7 +20020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Carina Amabili",
+        "name": "",
         "image": "12505.png",
         "area": "CUMPLIMIENTO REGULATORIO",
         "profileUrl": " ",
@@ -20036,7 +20036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Constanza Anabela Rodriguez",
+        "name": "",
         "image": "11516.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -20052,7 +20052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Ronzoni",
+        "name": "",
         "image": "11517.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -20068,7 +20068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Daniel Herz",
+        "name": "",
         "image": "11522.png",
         "area": "NETWORK DIGITAL SOLUTIONS",
         "profileUrl": " ",
@@ -20084,7 +20084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanesa Romina Bill",
+        "name": "",
         "image": "11525.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO III",
         "profileUrl": " ",
@@ -20100,7 +20100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudio Norberto Funes",
+        "name": "",
         "image": "11531.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -20116,7 +20116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ernesto Alberto Sansiviero",
+        "name": "",
         "image": "11538.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -20132,7 +20132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dario Pizzio",
+        "name": "",
         "image": "11553.png",
         "area": "NETWORK OPERATION CENTER",
         "profileUrl": " ",
@@ -20148,7 +20148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Favio Insaurralde",
+        "name": "",
         "image": "11562.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -20164,7 +20164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Natalia Lopez",
+        "name": "",
         "image": "11563.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO II",
         "profileUrl": " ",
@@ -20180,7 +20180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Riaudo",
+        "name": "",
         "image": "11567.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -20196,7 +20196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "PABLO DOMINGUEZ",
+        "name": "",
         "image": "16372.png",
         "area": "AUDIT & COMPLIANCE",
         "profileUrl": " ",
@@ -20212,7 +20212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "FRANCO EMANUEL SUAREZ VASQUEZ",
+        "name": "",
         "image": "16373.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -20228,7 +20228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "NICOLAS DURAN",
+        "name": "",
         "image": "16374.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -20244,7 +20244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "CHRISTIAN GAUNA",
+        "name": "",
         "image": "16375.png",
         "area": "STRATEGY RISK ISSUER",
         "profileUrl": " ",
@@ -20260,7 +20260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "ROXANA PRADO",
+        "name": "",
         "image": "16376.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -20276,7 +20276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "CECILIA TORO",
+        "name": "",
         "image": "16377.png",
         "area": "ACQUIRING PREVENTION",
         "profileUrl": " ",
@@ -20292,7 +20292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Llenas",
+        "name": "",
         "image": "15333.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -20308,7 +20308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Manuel Garcia",
+        "name": "",
         "image": "15336.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -20324,7 +20324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Loreana Moyano",
+        "name": "",
         "image": "15337.png",
         "area": "PROCESOS DE COMERCIOS 3",
         "profileUrl": " ",
@@ -20340,7 +20340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Ignacio Fardaus",
+        "name": "",
         "image": "15338.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -20356,7 +20356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Justino Balleste",
+        "name": "",
         "image": "15340.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -20372,7 +20372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Barbieri",
+        "name": "",
         "image": "15341.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -20388,7 +20388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Modena",
+        "name": "",
         "image": "15342.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -20404,7 +20404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Isabella Yanes",
+        "name": "",
         "image": "15343.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -20420,7 +20420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Gonzalez Breard",
+        "name": "",
         "image": "15344.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -20436,7 +20436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Camila Mailen Rolando",
+        "name": "",
         "image": "15345.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -20452,7 +20452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Aurimar Garcia",
+        "name": "",
         "image": "15346.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -20468,7 +20468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Gaston Lopez",
+        "name": "",
         "image": "15348.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -20484,7 +20484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier De Abajo",
+        "name": "",
         "image": "15352.png",
         "area": "LOGISTICA Y STOCK",
         "profileUrl": " ",
@@ -20500,7 +20500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Noe Santana",
+        "name": "",
         "image": "15356.png",
         "area": "INTERNACIONAL COMMERCIAL",
         "profileUrl": " ",
@@ -20516,7 +20516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Blanco",
+        "name": "",
         "image": "15359.png",
         "area": "PROCESOS DE COMERCIOS 4",
         "profileUrl": " ",
@@ -20532,7 +20532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Rodriguez",
+        "name": "",
         "image": "15360.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -20548,7 +20548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonel Mariani",
+        "name": "",
         "image": "16343.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -20564,7 +20564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Evelyn Soria Abalo",
+        "name": "",
         "image": "16344.png",
         "area": "PRESS & PUBLIC RELATIONS",
         "profileUrl": " ",
@@ -20580,7 +20580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariana Galeano",
+        "name": "",
         "image": "16345.png",
         "area": "COO BUSINESS PARTNER",
         "profileUrl": " ",
@@ -20596,7 +20596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Boris Leonel Kohon",
+        "name": "",
         "image": "16346.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -20612,7 +20612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jimena Casella",
+        "name": "",
         "image": "16347.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -20628,7 +20628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Peredo Villegas",
+        "name": "",
         "image": "16348.png",
         "area": "FIELD SERVICES",
         "profileUrl": " ",
@@ -20644,7 +20644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Garriga",
+        "name": "",
         "image": "16349.png",
         "area": "STRATEGY RISK ISSUER",
         "profileUrl": " ",
@@ -20660,7 +20660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emanuel Giannattasio",
+        "name": "",
         "image": "16350.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -20676,7 +20676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Milena Margarita Cinosi",
+        "name": "",
         "image": "16351.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -20692,7 +20692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Jose Guzman Guayapero",
+        "name": "",
         "image": "16352.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -20708,7 +20708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nara Edita Jara",
+        "name": "",
         "image": "16353.png",
         "area": "IN-STORE PAYMENT SERVICES & LONG TERM PROJECT",
         "profileUrl": " ",
@@ -20724,7 +20724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Antonieta Martinho Corrales",
+        "name": "",
         "image": "16354.png",
         "area": "INTEGRATIONS - TEAM II",
         "profileUrl": " ",
@@ -20740,7 +20740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Cavazza",
+        "name": "",
         "image": "16355.png",
         "area": "ACQUIRING PREVENTION",
         "profileUrl": " ",
@@ -20756,7 +20756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Bruhn",
+        "name": "",
         "image": "16356.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -20772,7 +20772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emilia Lopez",
+        "name": "",
         "image": "16357.png",
         "area": "GROWTH MARKETING",
         "profileUrl": " ",
@@ -20788,7 +20788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "CAMILA NATALIA IACOBONI",
+        "name": "",
         "image": "16358.png",
         "area": "BENEFITS",
         "profileUrl": " ",
@@ -20804,7 +20804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rocio Martina Rodriguez",
+        "name": "",
         "image": "16359.png",
         "area": "INSTANT PAYMENTS",
         "profileUrl": " ",
@@ -20820,7 +20820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Edgardo Adrian Martinez",
+        "name": "",
         "image": "16360.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 5",
         "profileUrl": " ",
@@ -20836,7 +20836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Lopez Ferrofino",
+        "name": "",
         "image": "16361.png",
         "area": "BUDGET & CONTROLLING",
         "profileUrl": " ",
@@ -20852,7 +20852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Giracca",
+        "name": "",
         "image": "14309.png",
         "area": "COORD 2 - GESTION DE CAJEROS AUTOMATICOS",
         "profileUrl": " ",
@@ -20868,7 +20868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emanuel Gamarra Morel",
+        "name": "",
         "image": "14312.png",
         "area": "INSTANT PAYMENTS COMMERCIAL",
         "profileUrl": " ",
@@ -20884,7 +20884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Slobozian",
+        "name": "",
         "image": "14323.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -20900,7 +20900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Cruz Paz Scool",
+        "name": "",
         "image": "14325.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -20916,7 +20916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Georgina Natali Peri",
+        "name": "",
         "image": "14327.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -20932,7 +20932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Jose Pepa",
+        "name": "",
         "image": "14341.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -20948,7 +20948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Fabiani",
+        "name": "",
         "image": "14349.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -20964,7 +20964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Unco",
+        "name": "",
         "image": "14356.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -20980,7 +20980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pamela Campero",
+        "name": "",
         "image": "14358.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -20996,7 +20996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Rodriguez Oliva",
+        "name": "",
         "image": "14365.png",
         "area": "REGIONAL SALES",
         "profileUrl": " ",
@@ -21012,7 +21012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Nino",
+        "name": "",
         "image": "14373.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -21028,7 +21028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paola Gotting",
+        "name": "",
         "image": "11808.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO I",
         "profileUrl": " ",
@@ -21044,7 +21044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Vespoli",
+        "name": "",
         "image": "11816.png",
         "area": "PROCESOS DE COMERCIOS 2",
         "profileUrl": " ",
@@ -21060,7 +21060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Christian Bono",
+        "name": "",
         "image": "11818.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO IV",
         "profileUrl": " ",
@@ -21076,7 +21076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Noelia Sanabria",
+        "name": "",
         "image": "14676.png",
         "area": "WORKFORCE & PLANNING CS",
         "profileUrl": " ",
@@ -21092,7 +21092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Veliz",
+        "name": "",
         "image": "14682.png",
         "area": "BIG DATA",
         "profileUrl": " ",
@@ -21108,7 +21108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Roberto Diaz",
+        "name": "",
         "image": "14684.png",
         "area": "BANCOS GRANDES",
         "profileUrl": " ",
@@ -21124,7 +21124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Buchuc",
+        "name": "",
         "image": "14685.png",
         "area": "PRODUCTS",
         "profileUrl": " ",
@@ -21140,7 +21140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Aragonez",
+        "name": "",
         "image": "14689.png",
         "area": "PERSONALIZACI�N DE TARJETAS 4",
         "profileUrl": " ",
@@ -21156,7 +21156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Agustina Gonzalez Ferreno",
+        "name": "",
         "image": "14690.png",
         "area": "CHIEF OF STAFF BUSINESS SOLUTIONS",
         "profileUrl": " ",
@@ -21172,7 +21172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jonatan Gaspar Pugliese",
+        "name": "",
         "image": "14666.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -21188,7 +21188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucrecia Tessio",
+        "name": "",
         "image": "14667.png",
         "area": "REGIONAL SALES",
         "profileUrl": " ",
@@ -21204,7 +21204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Melina Fabiano",
+        "name": "",
         "image": "14670.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -21220,7 +21220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Albarracini",
+        "name": "",
         "image": "14672.png",
         "area": "BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -21236,7 +21236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Villarreal",
+        "name": "",
         "image": "14673.png",
         "area": "PMC OPERATIONS - TEAM 1",
         "profileUrl": " ",
@@ -21252,7 +21252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jonathan Leder Apatini",
+        "name": "",
         "image": "14674.png",
         "area": "CLIENTS SUPPORT",
         "profileUrl": " ",
@@ -21268,7 +21268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tatiana Yasmin Mangino",
+        "name": "",
         "image": "14675.png",
         "area": "GOVERNANCE",
         "profileUrl": " ",
@@ -21284,7 +21284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Calzadilla Soto",
+        "name": "",
         "image": "14823.png",
         "area": "COLLECTIONS & CLEARING ISSUING",
         "profileUrl": " ",
@@ -21300,7 +21300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Sandobal Martini",
+        "name": "",
         "image": "14827.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -21316,7 +21316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eliseth Perez Garrido",
+        "name": "",
         "image": "14828.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -21332,7 +21332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Noelia Urbinelli",
+        "name": "",
         "image": "14829.png",
         "area": "SOPORTE OPERATIVO BANCOS I",
         "profileUrl": " ",
@@ -21348,7 +21348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alexander Rubin",
+        "name": "",
         "image": "14830.png",
         "area": "IT CUSTOMER",
         "profileUrl": " ",
@@ -21364,7 +21364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valentin Gonzalez",
+        "name": "",
         "image": "14835.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -21380,7 +21380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Javier Ponce",
+        "name": "",
         "image": "14836.png",
         "area": "GESTI�N PERMISOS Y USUARIOS",
         "profileUrl": " ",
@@ -21396,7 +21396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Deinyer Silvestre Acosta Ochoa",
+        "name": "",
         "image": "14838.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -21412,7 +21412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Ruiz",
+        "name": "",
         "image": "14839.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -21428,7 +21428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Kriz Marchena",
+        "name": "",
         "image": "14840.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -21444,7 +21444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rosana Alegre",
+        "name": "",
         "image": "14843.png",
         "area": "CREDIT CARD BUSINESS",
         "profileUrl": " ",
@@ -21460,7 +21460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Molina",
+        "name": "",
         "image": "14845.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -21476,7 +21476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Castellanos",
+        "name": "",
         "image": "14847.png",
         "area": "MONITOREO 4",
         "profileUrl": " ",
@@ -21492,7 +21492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Macarena Flores",
+        "name": "",
         "image": "14851.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -21508,7 +21508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Barruso",
+        "name": "",
         "image": "14852.png",
         "area": "BANCOS PEQUE�OS Y DIGITALES",
         "profileUrl": " ",
@@ -21524,7 +21524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Augusto Coda",
+        "name": "",
         "image": "14853.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -21540,7 +21540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yanina Ricciuti",
+        "name": "",
         "image": "14854.png",
         "area": "LARGE CORPORATE",
         "profileUrl": " ",
@@ -21556,7 +21556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Mancini",
+        "name": "",
         "image": "14860.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -21572,7 +21572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Contreras",
+        "name": "",
         "image": "15514.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -21588,7 +21588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermo Ricardo Pacheco",
+        "name": "",
         "image": "15517.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -21604,7 +21604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Scuzzarello",
+        "name": "",
         "image": "15605.png",
         "area": "SMALL MERCHANTS ? BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -21620,7 +21620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Lucero",
+        "name": "",
         "image": "15606.png",
         "area": "BANCOS GRANDES",
         "profileUrl": " ",
@@ -21636,7 +21636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Elvis Guillermo Berroteran Fernandez",
+        "name": "",
         "image": "15607.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -21652,7 +21652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Andres Aparicio",
+        "name": "",
         "image": "15609.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -21668,7 +21668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Oscar Alejandro Viglione",
+        "name": "",
         "image": "15610.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -21684,7 +21684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Bacalao",
+        "name": "",
         "image": "15612.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -21700,7 +21700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcos Leon",
+        "name": "",
         "image": "15615.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -21716,7 +21716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Giraffa",
+        "name": "",
         "image": "15616.png",
         "area": "BUSINESS SERVICES INFORMATION",
         "profileUrl": " ",
@@ -21732,7 +21732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jenner Jose Caraballo Lopez",
+        "name": "",
         "image": "15618.png",
         "area": "DESARROLLO DE PRODUCTO EN PUNTO DE VENTA",
         "profileUrl": " ",
@@ -21748,7 +21748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Romero",
+        "name": "",
         "image": "15620.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -21764,7 +21764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Jose Viola",
+        "name": "",
         "image": "15623.png",
         "area": "COMMERCIAL CHIEF OF STAFF",
         "profileUrl": " ",
@@ -21780,7 +21780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucia Cavanna",
+        "name": "",
         "image": "15624.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -21796,7 +21796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Aileen Alvarado",
+        "name": "",
         "image": "15625.png",
         "area": "IT INSTANT PAYMENTS TEAM 1",
         "profileUrl": " ",
@@ -21812,7 +21812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Hernan Ruiz",
+        "name": "",
         "image": "15626.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -21828,7 +21828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damian Oliva",
+        "name": "",
         "image": "15627.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -21844,7 +21844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Gomez",
+        "name": "",
         "image": "15628.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -21860,7 +21860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Bruno",
+        "name": "",
         "image": "15629.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -21876,7 +21876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Giselle Cardozo",
+        "name": "",
         "image": "16092.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -21892,7 +21892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Gisele Fernandez",
+        "name": "",
         "image": "16093.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -21908,7 +21908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ginette Elizabeth Henriquez Canosa",
+        "name": "",
         "image": "16094.png",
         "area": "BACK OFFICE CUSTOMER",
         "profileUrl": " ",
@@ -21924,7 +21924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yamila Belen Pimentel",
+        "name": "",
         "image": "16095.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -21940,7 +21940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Edgar Ruiz",
+        "name": "",
         "image": "16096.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -21956,7 +21956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Isaac Nieves",
+        "name": "",
         "image": "16097.png",
         "area": "IT ACQUIRING - TEAM 8",
         "profileUrl": " ",
@@ -21972,7 +21972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Daniel Martinez",
+        "name": "",
         "image": "16100.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -21988,7 +21988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ivan Marcasciano",
+        "name": "",
         "image": "16102.png",
         "area": "UX PRODUCT DESIGN MS",
         "profileUrl": " ",
@@ -22004,7 +22004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Mehaudy",
+        "name": "",
         "image": "16103.png",
         "area": "BIG DATA",
         "profileUrl": " ",
@@ -22020,7 +22020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Fernando Ponce",
+        "name": "",
         "image": "16105.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -22036,7 +22036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Oscar Sarda",
+        "name": "",
         "image": "16108.png",
         "area": "MONITOREO 4",
         "profileUrl": " ",
@@ -22052,7 +22052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Ezequiel Bartamian",
+        "name": "",
         "image": "16109.png",
         "area": "PROCESOS DE COMERCIOS 3",
         "profileUrl": " ",
@@ -22068,7 +22068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ronny Garcia",
+        "name": "",
         "image": "15016.png",
         "area": "DESARROLLO DE PRODUCTO EN PUNTO DE VENTA",
         "profileUrl": " ",
@@ -22084,7 +22084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Dulce",
+        "name": "",
         "image": "15018.png",
         "area": "FINANCIAL CRIME PREVENTION",
         "profileUrl": " ",
@@ -22100,7 +22100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Asensio",
+        "name": "",
         "image": "15024.png",
         "area": "BUSINESS INTELLIGENCE",
         "profileUrl": " ",
@@ -22116,7 +22116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Urroz",
+        "name": "",
         "image": "15028.png",
         "area": "CHANNELS & SELF-MANAGEMENT",
         "profileUrl": " ",
@@ -22132,7 +22132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melisa Cantisano",
+        "name": "",
         "image": "15034.png",
         "area": "PERFORMANCE & BENEFITS",
         "profileUrl": " ",
@@ -22148,7 +22148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricio Grande",
+        "name": "",
         "image": "15159.png",
         "area": "PMC OPERATIONS - TEAM 2",
         "profileUrl": " ",
@@ -22164,7 +22164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Cruz Silva",
+        "name": "",
         "image": "15160.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -22180,7 +22180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Gregorio Guillen",
+        "name": "",
         "image": "15165.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -22196,7 +22196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carla Falasca",
+        "name": "",
         "image": "15166.png",
         "area": "BACK OFFICE REDES",
         "profileUrl": " ",
@@ -22212,7 +22212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Norberto Maggi",
+        "name": "",
         "image": "15170.png",
         "area": "PAYMENTS PLATFORM",
         "profileUrl": " ",
@@ -22228,7 +22228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guido Cingolani",
+        "name": "",
         "image": "15172.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -22244,7 +22244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jacqueline Lema",
+        "name": "",
         "image": "15175.png",
         "area": "PAYROLL",
         "profileUrl": " ",
@@ -22260,7 +22260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yolber Romero Amaro",
+        "name": "",
         "image": "15179.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -22276,7 +22276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sabrina Gutierrez",
+        "name": "",
         "image": "15181.png",
         "area": "INTERNAL COMMUNICATION",
         "profileUrl": " ",
@@ -22292,7 +22292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Fernandez Rigaud",
+        "name": "",
         "image": "15182.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -22308,7 +22308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gonzalo Bortolotti",
+        "name": "",
         "image": "15186.png",
         "area": "PAYMENT NETWORKS",
         "profileUrl": " ",
@@ -22324,7 +22324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Llanos",
+        "name": "",
         "image": "15188.png",
         "area": "MONITOREO 4",
         "profileUrl": " ",
@@ -22340,7 +22340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Hector Fuentes",
+        "name": "",
         "image": "15822.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -22356,7 +22356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Manuel Alejandro Sirtori Bedoya",
+        "name": "",
         "image": "15805.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -22372,7 +22372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Achares",
+        "name": "",
         "image": "15806.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -22388,7 +22388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Chocron",
+        "name": "",
         "image": "15807.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -22404,7 +22404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Haiek",
+        "name": "",
         "image": "15808.png",
         "area": "UX STRATEGY",
         "profileUrl": " ",
@@ -22420,7 +22420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Ariel Sorace",
+        "name": "",
         "image": "15810.png",
         "area": "SOLUTION ARCHITECTURE - MPS",
         "profileUrl": " ",
@@ -22436,7 +22436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Angel Valdez",
+        "name": "",
         "image": "15811.png",
         "area": "SOLUTION ARCHITECTURE - IPS",
         "profileUrl": " ",
@@ -22452,7 +22452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emiliano Porciani",
+        "name": "",
         "image": "15812.png",
         "area": "MERCHANT PAYMENTS SOLUTIONS",
         "profileUrl": " ",
@@ -22468,7 +22468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Emiliano Martinez",
+        "name": "",
         "image": "15814.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -22484,7 +22484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Fernandez",
+        "name": "",
         "image": "15817.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -22500,7 +22500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nilda Sequeira",
+        "name": "",
         "image": "15819.png",
         "area": "IFRS",
         "profileUrl": " ",
@@ -22516,7 +22516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rosana Toffalo",
+        "name": "",
         "image": "12659.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -22532,7 +22532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvina Eliana Tamburelli",
+        "name": "",
         "image": "12660.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -22548,7 +22548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Lopez",
+        "name": "",
         "image": "12663.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO II",
         "profileUrl": " ",
@@ -22564,7 +22564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Rank",
+        "name": "",
         "image": "12666.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -22580,7 +22580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rafael Rodrigues",
+        "name": "",
         "image": "12674.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -22596,7 +22596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Angel Elias",
+        "name": "",
         "image": "12676.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -22612,7 +22612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Marcela Koelln",
+        "name": "",
         "image": "12678.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -22628,7 +22628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Horacio Pascual",
+        "name": "",
         "image": "12681.png",
         "area": "COORDINACION PROCESAMIENTO 3",
         "profileUrl": " ",
@@ -22644,7 +22644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ignacio Sutin",
+        "name": "",
         "image": "12688.png",
         "area": "CLIENT ADMINISTRATION",
         "profileUrl": " ",
@@ -22660,7 +22660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariangeles Lombardo",
+        "name": "",
         "image": "10581.png",
         "area": "OPERATIONS BANKS & PARAMETERS",
         "profileUrl": " ",
@@ -22676,7 +22676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tredici Marcelo",
+        "name": "",
         "image": "10584.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -22692,7 +22692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ruben Pucheta",
+        "name": "",
         "image": "10585.png",
         "area": "ACQUIRING - EXPERTOS",
         "profileUrl": " ",
@@ -22708,7 +22708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carina Aulicino",
+        "name": "",
         "image": "10594.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -22724,7 +22724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Luis Fernandez",
+        "name": "",
         "image": "10605.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -22740,7 +22740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Staude",
+        "name": "",
         "image": "10622.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO I",
         "profileUrl": " ",
@@ -22756,7 +22756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Cabrera",
+        "name": "",
         "image": "10626.png",
         "area": "ADMINISTRACION DE CUENTAS",
         "profileUrl": " ",
@@ -22772,7 +22772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Mariano Deza Taladriz",
+        "name": "",
         "image": "10656.png",
         "area": "CONTROVERSIAS NACIONALES",
         "profileUrl": " ",
@@ -22788,7 +22788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Gonzalo Velazquez Ameghino",
+        "name": "",
         "image": "10666.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -22804,7 +22804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yanina Borneo",
+        "name": "",
         "image": "10667.png",
         "area": "MERCHANT PAYMENTS SOLUTIONS",
         "profileUrl": " ",
@@ -22820,7 +22820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alfredo Ricardo Rosas",
+        "name": "",
         "image": "10697.png",
         "area": "PLANIFICACI�N Y ENTREGAS",
         "profileUrl": " ",
@@ -22836,7 +22836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Eugenia Menendez",
+        "name": "",
         "image": "10698.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -22852,7 +22852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Senabre",
+        "name": "",
         "image": "10716.png",
         "area": "TRANSACTIONAL SECURITY",
         "profileUrl": " ",
@@ -22868,7 +22868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fabian Oriolo",
+        "name": "",
         "image": "10723.png",
         "area": "ISSUING BUSINESS",
         "profileUrl": " ",
@@ -22884,7 +22884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Lazo",
+        "name": "",
         "image": "10744.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -22900,7 +22900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Sosa",
+        "name": "",
         "image": "10754.png",
         "area": "CENTRAL PROCESSING",
         "profileUrl": " ",
@@ -22916,7 +22916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lorena Ligia Arlati",
+        "name": "",
         "image": "10763.png",
         "area": "SMBS SALES",
         "profileUrl": " ",
@@ -22932,7 +22932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Cabral",
+        "name": "",
         "image": "10764.png",
         "area": "CUSTOMER EXPERIENCE",
         "profileUrl": " ",
@@ -22948,7 +22948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandra Daniela Addario",
+        "name": "",
         "image": "10772.png",
         "area": "TALENT & CULTURE",
         "profileUrl": " ",
@@ -22964,7 +22964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Martin Farias Vazquez",
+        "name": "",
         "image": "16111.png",
         "area": "IS GOVERNANCE, RISK & COMPLIANCE",
         "profileUrl": " ",
@@ -22980,7 +22980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Dario Martin",
+        "name": "",
         "image": "16112.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -22996,7 +22996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Avellaneda",
+        "name": "",
         "image": "16113.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -23012,7 +23012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sabrina Marulis",
+        "name": "",
         "image": "16114.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -23028,7 +23028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Bernardo Daniel Conde Martinez",
+        "name": "",
         "image": "16115.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -23044,7 +23044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melisa Rambla",
+        "name": "",
         "image": "16118.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -23060,7 +23060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Guillermo Vidarte",
+        "name": "",
         "image": "16119.png",
         "area": "DEVELOPMENT PLATFORM - API PROGRAM",
         "profileUrl": " ",
@@ -23076,7 +23076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Bruno Emiliano Baiardi",
+        "name": "",
         "image": "16120.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -23092,7 +23092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Elva Orue",
+        "name": "",
         "image": "16121.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -23108,7 +23108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Amadis Diego Marey",
+        "name": "",
         "image": "15886.png",
         "area": "RISK OPERATIONAL",
         "profileUrl": " ",
@@ -23124,7 +23124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Valido",
+        "name": "",
         "image": "15887.png",
         "area": "UX STRATEGY",
         "profileUrl": " ",
@@ -23140,7 +23140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Gagno",
+        "name": "",
         "image": "15888.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -23156,7 +23156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agostina Chiari",
+        "name": "",
         "image": "15890.png",
         "area": "DESARROLLO COMERCIAL A",
         "profileUrl": " ",
@@ -23172,7 +23172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Calvo",
+        "name": "",
         "image": "15891.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -23188,7 +23188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Yacante",
+        "name": "",
         "image": "15896.png",
         "area": "PLANNING SEGMENTS SMALL",
         "profileUrl": " ",
@@ -23204,7 +23204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Alan Guzman",
+        "name": "",
         "image": "15897.png",
         "area": "FINANCIAL CRIME PREVENTION",
         "profileUrl": " ",
@@ -23220,7 +23220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Mattei",
+        "name": "",
         "image": "15898.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -23236,7 +23236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Jose Luis Fonceca",
+        "name": "",
         "image": "15899.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -23252,7 +23252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Izarza",
+        "name": "",
         "image": "15901.png",
         "area": "GESTI�N PERMISOS Y USUARIOS",
         "profileUrl": " ",
@@ -23268,7 +23268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Luzuriaga",
+        "name": "",
         "image": "15902.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -23284,7 +23284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Lopez Ramirez",
+        "name": "",
         "image": "15903.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -23300,7 +23300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Rodrigo Arreguez",
+        "name": "",
         "image": "15904.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -23316,7 +23316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Dante Lucchesi",
+        "name": "",
         "image": "15905.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -23332,7 +23332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mayra Lucila Coronel",
+        "name": "",
         "image": "15906.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -23348,7 +23348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Kevin Genaro",
+        "name": "",
         "image": "15907.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 3",
         "profileUrl": " ",
@@ -23364,7 +23364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Agustin Bobadilla Barcelo",
+        "name": "",
         "image": "15908.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -23380,7 +23380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roberto Ezequiel Echevarria",
+        "name": "",
         "image": "15909.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -23396,7 +23396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diana Jacqueline Gonzalez Avila",
+        "name": "",
         "image": "15910.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -23412,7 +23412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Esteban Martin Nethge",
+        "name": "",
         "image": "15911.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -23428,7 +23428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Enrique Gamboa Millan",
+        "name": "",
         "image": "15914.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -23444,7 +23444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andreina Rojas",
+        "name": "",
         "image": "15915.png",
         "area": "IT ISSUING HOMOLOGACIONES",
         "profileUrl": " ",
@@ -23460,7 +23460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Eugenia Heredia",
+        "name": "",
         "image": "15916.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -23476,7 +23476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Gonzalez Herrera",
+        "name": "",
         "image": "15917.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -23492,7 +23492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alvaro Damian Rangugni",
+        "name": "",
         "image": "15298.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -23508,7 +23508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Deborah Pavon",
+        "name": "",
         "image": "15299.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -23524,7 +23524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonel Acosta",
+        "name": "",
         "image": "15302.png",
         "area": "IT CORPORATE APPLICATIONS",
         "profileUrl": " ",
@@ -23540,7 +23540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Augusto Francetich",
+        "name": "",
         "image": "15303.png",
         "area": "IT CORPORATE APPLICATIONS",
         "profileUrl": " ",
@@ -23556,7 +23556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Bisaro",
+        "name": "",
         "image": "15304.png",
         "area": "IT INSTANT PAYMENTS TEAM 1",
         "profileUrl": " ",
@@ -23572,7 +23572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Veron",
+        "name": "",
         "image": "15307.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -23588,7 +23588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Herrera",
+        "name": "",
         "image": "15312.png",
         "area": "BI PAYWAY",
         "profileUrl": " ",
@@ -23604,7 +23604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Dominguez",
+        "name": "",
         "image": "15313.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -23620,7 +23620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Jose Vina Carballo",
+        "name": "",
         "image": "15317.png",
         "area": "OPERATIONAL DATA TEAM",
         "profileUrl": " ",
@@ -23636,7 +23636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mara Gamarra",
+        "name": "",
         "image": "15318.png",
         "area": "PAGOMISCUENTAS",
         "profileUrl": " ",
@@ -23652,7 +23652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Canete",
+        "name": "",
         "image": "15320.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -23668,7 +23668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cesar Curcio",
+        "name": "",
         "image": "15323.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -23684,7 +23684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriela Ardiles",
+        "name": "",
         "image": "15324.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -23700,7 +23700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Riquelme",
+        "name": "",
         "image": "15325.png",
         "area": "IT PAYWAY - TEAM III",
         "profileUrl": " ",
@@ -23716,7 +23716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Colmenares",
+        "name": "",
         "image": "15327.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -23732,7 +23732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Reisin",
+        "name": "",
         "image": "15328.png",
         "area": "ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -23748,7 +23748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Morana",
+        "name": "",
         "image": "15859.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -23764,7 +23764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Martin Hierro",
+        "name": "",
         "image": "15860.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -23780,7 +23780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emanuel Sivadon",
+        "name": "",
         "image": "15861.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -23796,7 +23796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandra Elisa Mendez Cueto",
+        "name": "",
         "image": "15862.png",
         "area": "CHANNELS & SELF-MANAGEMENT",
         "profileUrl": " ",
@@ -23812,7 +23812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvina Valeria Perez",
+        "name": "",
         "image": "15863.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -23828,7 +23828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Jorge Baquero Ben",
+        "name": "",
         "image": "15864.png",
         "area": "PAYMENTS PLATFORM",
         "profileUrl": " ",
@@ -23844,7 +23844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Axel Capara",
+        "name": "",
         "image": "15865.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 5",
         "profileUrl": " ",
@@ -23860,7 +23860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Meza",
+        "name": "",
         "image": "15867.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -23876,7 +23876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martina Pistorio",
+        "name": "",
         "image": "15869.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -23892,7 +23892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Alejandra Barthelemi",
+        "name": "",
         "image": "15870.png",
         "area": "PROCESOS DE COMERCIOS 2",
         "profileUrl": " ",
@@ -23908,7 +23908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Gomez",
+        "name": "",
         "image": "15872.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -23924,7 +23924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Camano",
+        "name": "",
         "image": "15873.png",
         "area": "SERVICE DELIVERY & DEVOPS AS A SERVICE",
         "profileUrl": " ",
@@ -23940,7 +23940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Antonela Restaino",
+        "name": "",
         "image": "15973.png",
         "area": "COMPENSATION & ORGANIZATION",
         "profileUrl": " ",
@@ -23956,7 +23956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Sebastian Delia",
+        "name": "",
         "image": "15974.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -23972,7 +23972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diamela Daiana Farias",
+        "name": "",
         "image": "15976.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -23988,7 +23988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miury Alejandra Cirone",
+        "name": "",
         "image": "15977.png",
         "area": "UX STRATEGY",
         "profileUrl": " ",
@@ -24004,7 +24004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hermann Marino Scheuschner",
+        "name": "",
         "image": "15978.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -24020,7 +24020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lia Soledad Tibiletti",
+        "name": "",
         "image": "15982.png",
         "area": "CULTURE & PEOPLE EXPERIENCE",
         "profileUrl": " ",
@@ -24036,7 +24036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Matias Nocerez",
+        "name": "",
         "image": "15983.png",
         "area": "PROCUREMENT - IT & TECHNOLOGY",
         "profileUrl": " ",
@@ -24052,7 +24052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Franco Gabriel Almada",
+        "name": "",
         "image": "15984.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -24068,7 +24068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Delgado",
+        "name": "",
         "image": "15985.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -24084,7 +24084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Sclar",
+        "name": "",
         "image": "15986.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -24100,7 +24100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Perrone",
+        "name": "",
         "image": "15987.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -24116,7 +24116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mercedes Peralta",
+        "name": "",
         "image": "15955.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -24132,7 +24132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Covarrubias",
+        "name": "",
         "image": "15956.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -24148,7 +24148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Wendy Alejandra Ravelo Torres",
+        "name": "",
         "image": "15957.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -24164,7 +24164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santos Soffli",
+        "name": "",
         "image": "15961.png",
         "area": "OPERATIONAL DATA TEAM",
         "profileUrl": " ",
@@ -24180,7 +24180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Brian Gonzalez",
+        "name": "",
         "image": "15966.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -24196,7 +24196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Dario Gigena",
+        "name": "",
         "image": "15970.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -24212,7 +24212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Wanda Acuna",
+        "name": "",
         "image": "15971.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -24228,7 +24228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julieta Gonzalez",
+        "name": "",
         "image": "15972.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -24244,7 +24244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Zeballos",
+        "name": "",
         "image": "15445.png",
         "area": "DIGITAL ISSUING PRODUCT",
         "profileUrl": " ",
@@ -24260,7 +24260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Evelyn Arboleda",
+        "name": "",
         "image": "15450.png",
         "area": "DESARROLLO DE PRODUCTO EN PUNTO DE VENTA",
         "profileUrl": " ",
@@ -24276,7 +24276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Axel Llabre",
+        "name": "",
         "image": "15451.png",
         "area": "INTEGRATIONS - TEAM I",
         "profileUrl": " ",
@@ -24292,7 +24292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Vignola",
+        "name": "",
         "image": "15453.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -24308,7 +24308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciano Daniel Boucher",
+        "name": "",
         "image": "15459.png",
         "area": "INTEGRATIONS",
         "profileUrl": " ",
@@ -24324,7 +24324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Miguel Andres Carr",
+        "name": "",
         "image": "15461.png",
         "area": "PROJECT MANAGMENT T&O",
         "profileUrl": " ",
@@ -24340,7 +24340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roberto Franco",
+        "name": "",
         "image": "15463.png",
         "area": "IT ACQUIRING - TEAM 8",
         "profileUrl": " ",
@@ -24356,7 +24356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ayelen Vergara",
+        "name": "",
         "image": "15464.png",
         "area": "TALENT ACQUISITION",
         "profileUrl": " ",
@@ -24372,7 +24372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Schenone",
+        "name": "",
         "image": "15466.png",
         "area": "FIELD SERVICES RUN",
         "profileUrl": " ",
@@ -24388,7 +24388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Macarena Santillana",
+        "name": "",
         "image": "15467.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -24404,7 +24404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Locatelli",
+        "name": "",
         "image": "15469.png",
         "area": "DIGITAL ISSUING PRODUCT",
         "profileUrl": " ",
@@ -24420,7 +24420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Anibal Duverne",
+        "name": "",
         "image": "16040.png",
         "area": "BANCOS GRANDES",
         "profileUrl": " ",
@@ -24436,7 +24436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Eduardo Hovassapian",
+        "name": "",
         "image": "16319.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -24452,7 +24452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alberto Jorge Campagna",
+        "name": "",
         "image": "16320.png",
         "area": "MAINFRAME PLATFORM",
         "profileUrl": " ",
@@ -24468,7 +24468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Bruno Cerisoli",
+        "name": "",
         "image": "16322.png",
         "area": "PAYFACTS & PROCESSING PARTNERS",
         "profileUrl": " ",
@@ -24484,7 +24484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Liliana Janez",
+        "name": "",
         "image": "16324.png",
         "area": "BANCOS MEDIANOS",
         "profileUrl": " ",
@@ -24500,7 +24500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Brandalise",
+        "name": "",
         "image": "16325.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -24516,7 +24516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Siria Murillo",
+        "name": "",
         "image": "16326.png",
         "area": "COMERCIAL",
         "profileUrl": " ",
@@ -24532,7 +24532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Depierro",
+        "name": "",
         "image": "16327.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -24548,7 +24548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Auge",
+        "name": "",
         "image": "16328.png",
         "area": "PAYMENT NETWORKS",
         "profileUrl": " ",
@@ -24564,7 +24564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Corvalan",
+        "name": "",
         "image": "16329.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -24580,7 +24580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Kevin Ernst",
+        "name": "",
         "image": "16330.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -24596,7 +24596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Facundo Krivanek",
+        "name": "",
         "image": "16331.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -24612,7 +24612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Denise Maggi",
+        "name": "",
         "image": "16146.png",
         "area": "OPERATIONS BANKS & PARAMETERS",
         "profileUrl": " ",
@@ -24628,7 +24628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ludmila Daiana Noelia Boianelli",
+        "name": "",
         "image": "16147.png",
         "area": "PROCUREMENT",
         "profileUrl": " ",
@@ -24644,7 +24644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Estrellita Sivira",
+        "name": "",
         "image": "16148.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -24660,7 +24660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Florencia Mainero",
+        "name": "",
         "image": "16149.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -24676,7 +24676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anabella Soledad Quiroga",
+        "name": "",
         "image": "16152.png",
         "area": "COMPLIANCE",
         "profileUrl": " ",
@@ -24692,7 +24692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Matias Falkenstein",
+        "name": "",
         "image": "16153.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -24708,7 +24708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcos Raul Ramirez",
+        "name": "",
         "image": "16154.png",
         "area": "GESTI�N PERMISOS Y USUARIOS",
         "profileUrl": " ",
@@ -24724,7 +24724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paola Vanesa Gonzalez",
+        "name": "",
         "image": "16155.png",
         "area": "MARKET ANALYSIS",
         "profileUrl": " ",
@@ -24740,7 +24740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lorena Mercedes Vieyra",
+        "name": "",
         "image": "16157.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -24756,7 +24756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Javier Cubela",
+        "name": "",
         "image": "16158.png",
         "area": "INTEGRATION SERVICES OPERATIONS",
         "profileUrl": " ",
@@ -24772,7 +24772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Denise Jael Salinas",
+        "name": "",
         "image": "16159.png",
         "area": "INSTANT PAYMENTS",
         "profileUrl": " ",
@@ -24788,7 +24788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ailin Ibarra",
+        "name": "",
         "image": "16160.png",
         "area": "BANCOS MEDIANOS",
         "profileUrl": " ",
@@ -24804,7 +24804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melisa Debora Zarate",
+        "name": "",
         "image": "16362.png",
         "area": "IT INSTANT PAYMENTS",
         "profileUrl": " ",
@@ -24820,7 +24820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Barbara Morana",
+        "name": "",
         "image": "16363.png",
         "area": "PAYROLL",
         "profileUrl": " ",
@@ -24836,7 +24836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Leonel Cristaldo",
+        "name": "",
         "image": "16364.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -24852,7 +24852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Matias Dominguez",
+        "name": "",
         "image": "16365.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -24868,7 +24868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Bruno Alvarez",
+        "name": "",
         "image": "16366.png",
         "area": "INTELIGENCIA COMERCIAL",
         "profileUrl": " ",
@@ -24884,7 +24884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Agustina Zabala",
+        "name": "",
         "image": "16367.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -24900,7 +24900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "ELISA BALADO",
+        "name": "",
         "image": "16368.png",
         "area": "NOA - CUYO - PATAGONIA",
         "profileUrl": " ",
@@ -24916,7 +24916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "ROCIO MILERS",
+        "name": "",
         "image": "16369.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -24932,7 +24932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "SOLEDAD VONCINA",
+        "name": "",
         "image": "16370.png",
         "area": "STRATEGY RISK ISSUER",
         "profileUrl": " ",
@@ -24948,7 +24948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "RODOLFO EZEQUIEL UGARTEMENDIA",
+        "name": "",
         "image": "16371.png",
         "area": "DISPUTE",
         "profileUrl": " ",
@@ -24964,7 +24964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "David Saucedo",
+        "name": "",
         "image": "13478.png",
         "area": "MONITOREO 4",
         "profileUrl": " ",
@@ -24980,7 +24980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Bonetto",
+        "name": "",
         "image": "13479.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -24996,7 +24996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Guimera",
+        "name": "",
         "image": "14117.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -25012,7 +25012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Sibulosky",
+        "name": "",
         "image": "14121.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -25028,7 +25028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Denise Lens",
+        "name": "",
         "image": "14122.png",
         "area": "RESOLUCION DE FRAUDES",
         "profileUrl": " ",
@@ -25044,7 +25044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francesca Maria Pantaleo Abalos",
+        "name": "",
         "image": "14123.png",
         "area": "CHANNELS & SELF-MANAGEMENT",
         "profileUrl": " ",
@@ -25060,7 +25060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Macias",
+        "name": "",
         "image": "14146.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -25076,7 +25076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Manuel Ferreyra",
+        "name": "",
         "image": "14149.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -25092,7 +25092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Victor Rojas",
+        "name": "",
         "image": "14150.png",
         "area": "SERVERS & STORAGE",
         "profileUrl": " ",
@@ -25108,7 +25108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauro Martin Boccardo",
+        "name": "",
         "image": "14157.png",
         "area": "ISSUING DEVELOPMENT",
         "profileUrl": " ",
@@ -25124,7 +25124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin De Ibarlucea",
+        "name": "",
         "image": "14166.png",
         "area": "SERVICIOS TI",
         "profileUrl": " ",
@@ -25140,7 +25140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Gomez",
+        "name": "",
         "image": "13010.png",
         "area": "TRANSACTIONAL TECHNOLOGIES",
         "profileUrl": " ",
@@ -25156,7 +25156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jose Irrera",
+        "name": "",
         "image": "13014.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -25172,7 +25172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Laura Echeverria",
+        "name": "",
         "image": "13685.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -25188,7 +25188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Antonella Truppa",
+        "name": "",
         "image": "13689.png",
         "area": "BACK OFFICE NEWPAY",
         "profileUrl": " ",
@@ -25204,7 +25204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gisela Estrugo",
+        "name": "",
         "image": "13690.png",
         "area": "NETWORK & DIGITAL PRODUCTS",
         "profileUrl": " ",
@@ -25220,7 +25220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Gabriel Martinez",
+        "name": "",
         "image": "13700.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -25236,7 +25236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Larre",
+        "name": "",
         "image": "13702.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -25252,7 +25252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucia Blanco",
+        "name": "",
         "image": "13707.png",
         "area": "BACK OFFICE REDES",
         "profileUrl": " ",
@@ -25268,7 +25268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Carnevale",
+        "name": "",
         "image": "13709.png",
         "area": "CANALES ELECTRONICOS",
         "profileUrl": " ",
@@ -25284,7 +25284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rafael Medina",
+        "name": "",
         "image": "13721.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -25300,7 +25300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Walter Gonzalez",
+        "name": "",
         "image": "13724.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -25316,7 +25316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Virginia Acoria",
+        "name": "",
         "image": "13725.png",
         "area": "SECURITY PRODUCTS",
         "profileUrl": " ",
@@ -25332,7 +25332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emanuel Granieri",
+        "name": "",
         "image": "13730.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -25348,7 +25348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Scarfo",
+        "name": "",
         "image": "14045.png",
         "area": "CORPORATE WEB SERVICES",
         "profileUrl": " ",
@@ -25364,7 +25364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Venturino",
+        "name": "",
         "image": "14047.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -25380,7 +25380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Andres Ortiz",
+        "name": "",
         "image": "14050.png",
         "area": "PLANIFICACI�N Y ENTREGAS",
         "profileUrl": " ",
@@ -25396,7 +25396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Bernardo B. Lopez",
+        "name": "",
         "image": "14058.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -25412,7 +25412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Rolandelli",
+        "name": "",
         "image": "14061.png",
         "area": "GESTION DE PROYECTOS Y ARQUITECTURA TI",
         "profileUrl": " ",
@@ -25428,7 +25428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Adanero",
+        "name": "",
         "image": "14075.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -25444,7 +25444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daiana Luna",
+        "name": "",
         "image": "14077.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -25460,7 +25460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German A Braconi",
+        "name": "",
         "image": "14080.png",
         "area": "GESTI�N PERMISOS Y USUARIOS",
         "profileUrl": " ",
@@ -25476,7 +25476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Axel Otero",
+        "name": "",
         "image": "14443.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -25492,7 +25492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Luz Rodriguez",
+        "name": "",
         "image": "14436.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -25508,7 +25508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Machare",
+        "name": "",
         "image": "15494.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -25524,7 +25524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jimena Barreto",
+        "name": "",
         "image": "15495.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -25540,7 +25540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ricardo Vanackere",
+        "name": "",
         "image": "15496.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -25556,7 +25556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias San Martin",
+        "name": "",
         "image": "15497.png",
         "area": "SOLUTION ARCHITECTURE - IPS",
         "profileUrl": " ",
@@ -25572,7 +25572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Eugenia Fernandez",
+        "name": "",
         "image": "15499.png",
         "area": "PLANIFICACION Y CONTROL",
         "profileUrl": " ",
@@ -25588,7 +25588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Narella Broz",
+        "name": "",
         "image": "15501.png",
         "area": "BENEFITS",
         "profileUrl": " ",
@@ -25604,7 +25604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lisandro Lechuga",
+        "name": "",
         "image": "15503.png",
         "area": "IT ISSUING PROCESSING - TEAM 6",
         "profileUrl": " ",
@@ -25620,7 +25620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jonathan Medina",
+        "name": "",
         "image": "15505.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -25636,7 +25636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico De Lezica",
+        "name": "",
         "image": "16029.png",
         "area": "SALES & DISTRIBUTION SMALL",
         "profileUrl": " ",
@@ -25652,7 +25652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Alberto Tokashiki",
+        "name": "",
         "image": "16030.png",
         "area": "RISK MANAGEMENT & INTERNAL CONTROL",
         "profileUrl": " ",
@@ -25668,7 +25668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Hernan Sidauy",
+        "name": "",
         "image": "16031.png",
         "area": "CYBERSECURITY",
         "profileUrl": " ",
@@ -25684,7 +25684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "German Santillan",
+        "name": "",
         "image": "16032.png",
         "area": "SYSTEMS QUALITY",
         "profileUrl": " ",
@@ -25700,7 +25700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roque San Juan",
+        "name": "",
         "image": "16033.png",
         "area": "DEVELOPMENT PLATFORM - ORBITA IDP",
         "profileUrl": " ",
@@ -25716,7 +25716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Markulin",
+        "name": "",
         "image": "16034.png",
         "area": "SYSTEMS QUALITY",
         "profileUrl": " ",
@@ -25732,7 +25732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Lang",
+        "name": "",
         "image": "16037.png",
         "area": "STRATEGY & PERFORMANCE",
         "profileUrl": " ",
@@ -25748,7 +25748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Magali Kraan",
+        "name": "",
         "image": "16038.png",
         "area": "AUDIT & COMPLIANCE",
         "profileUrl": " ",
@@ -25764,7 +25764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Azul Lombardo",
+        "name": "",
         "image": "16039.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -25780,7 +25780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Carolina Requena",
+        "name": "",
         "image": "16025.png",
         "area": "LEARNING",
         "profileUrl": " ",
@@ -25796,7 +25796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Eugenia Gonzalez",
+        "name": "",
         "image": "16026.png",
         "area": "CULTURE & PEOPLE EXPERIENCE",
         "profileUrl": " ",
@@ -25812,7 +25812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anais Pinero",
+        "name": "",
         "image": "16027.png",
         "area": "IT ISSUING QA NEW TECH",
         "profileUrl": " ",
@@ -25828,7 +25828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jorge Alejandro Gareca",
+        "name": "",
         "image": "16145.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -25844,7 +25844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karina Ruiz",
+        "name": "",
         "image": "10451.png",
         "area": "FINANCE",
         "profileUrl": " ",
@@ -25860,7 +25860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Daniel Ciavatini",
+        "name": "",
         "image": "10476.png",
         "area": "PROCESOS DE COMERCIOS 3",
         "profileUrl": " ",
@@ -25876,7 +25876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria del Rosario Llano",
+        "name": "",
         "image": "10479.png",
         "area": "LOGISTICA Y STOCK",
         "profileUrl": " ",
@@ -25892,7 +25892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Gonzalez Ochoa",
+        "name": "",
         "image": "10507.png",
         "area": "OPERATIVE MERCHANT ACCOUNT",
         "profileUrl": " ",
@@ -25908,7 +25908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcela Beatriz Hoffman",
+        "name": "",
         "image": "10530.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -25924,7 +25924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Hector Domingo",
+        "name": "",
         "image": "10531.png",
         "area": "COMMERCIAL CARDS BUSINESS",
         "profileUrl": " ",
@@ -25940,7 +25940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Cruz",
+        "name": "",
         "image": "10532.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -25956,7 +25956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricia Laura Massa",
+        "name": "",
         "image": "10535.png",
         "area": "INTELIGENCIA TRANSACCIONAL OPERATIVA",
         "profileUrl": " ",
@@ -25972,7 +25972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fabian Gonzalez",
+        "name": "",
         "image": "10424.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -25988,7 +25988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudia Copello",
+        "name": "",
         "image": "20006.png",
         "area": "IT CUSTOMER",
         "profileUrl": " ",
@@ -26004,7 +26004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roque Adrian Rios",
+        "name": "",
         "image": "13766.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -26020,7 +26020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Florencia Rostagno",
+        "name": "",
         "image": "13768.png",
         "area": "COO BUSINESS PARTNER",
         "profileUrl": " ",
@@ -26036,7 +26036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Victoria Rodriguez Acuna",
+        "name": "",
         "image": "13773.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -26052,7 +26052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Curcio",
+        "name": "",
         "image": "13774.png",
         "area": "COLLECTIONS & CLEARING NEWPAY",
         "profileUrl": " ",
@@ -26068,7 +26068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauricio Joan Attis Coronel",
+        "name": "",
         "image": "13775.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -26084,7 +26084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin San Martin",
+        "name": "",
         "image": "13776.png",
         "area": "COORD. 2 - CONTROL Y CONFIGURACI�N",
         "profileUrl": " ",
@@ -26100,7 +26100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Enriquez",
+        "name": "",
         "image": "13777.png",
         "area": "COORD 1 - GESTI�N DE CAJEROS AUTOMAT�COS",
         "profileUrl": " ",
@@ -26116,7 +26116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Suarez",
+        "name": "",
         "image": "13782.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -26132,7 +26132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Bernal",
+        "name": "",
         "image": "13787.png",
         "area": "IS GOVERNANCE, RISK & COMPLIANCE",
         "profileUrl": " ",
@@ -26148,7 +26148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Assad",
+        "name": "",
         "image": "13788.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -26164,7 +26164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Fernando Sarmiento",
+        "name": "",
         "image": "12689.png",
         "area": "PAYMENT NETWORKS",
         "profileUrl": " ",
@@ -26180,7 +26180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricio Nicolas Marzialetti",
+        "name": "",
         "image": "12692.png",
         "area": "TALENT & CULTURE",
         "profileUrl": " ",
@@ -26196,7 +26196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Echarte",
+        "name": "",
         "image": "12707.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -26212,7 +26212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Hernan Chuffer",
+        "name": "",
         "image": "12712.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -26228,7 +26228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricio Axel Valiente",
+        "name": "",
         "image": "12739.png",
         "area": "IT SERVICES",
         "profileUrl": " ",
@@ -26244,7 +26244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristopher Perez Boyko",
+        "name": "",
         "image": "12742.png",
         "area": "SERVICES ENGINEERING",
         "profileUrl": " ",
@@ -26260,7 +26260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Luis Hernandez",
+        "name": "",
         "image": "12744.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -26276,7 +26276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mabel Pecora",
+        "name": "",
         "image": "12746.png",
         "area": "SALES & DISTRIBUTION SMALL",
         "profileUrl": " ",
@@ -26292,7 +26292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesica Palacio",
+        "name": "",
         "image": "12748.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -26308,7 +26308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ramiro Lopez",
+        "name": "",
         "image": "12753.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -26324,7 +26324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Gabriel Berretta",
+        "name": "",
         "image": "14418.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -26340,7 +26340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Valeria Pasquariello",
+        "name": "",
         "image": "14419.png",
         "area": "PAYFACTS & PROCESSING PARTNERS",
         "profileUrl": " ",
@@ -26356,7 +26356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jesica Patricia Zalazar",
+        "name": "",
         "image": "14420.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -26372,7 +26372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Jose Moyano",
+        "name": "",
         "image": "14423.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -26388,7 +26388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Griselda Irene Segura",
+        "name": "",
         "image": "14429.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -26404,7 +26404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Pignataro",
+        "name": "",
         "image": "14430.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -26420,7 +26420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Romero",
+        "name": "",
         "image": "14431.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -26436,7 +26436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Kevin Quevedo",
+        "name": "",
         "image": "14432.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -26452,7 +26452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Winograd",
+        "name": "",
         "image": "14433.png",
         "area": "SERVICES & GOVERNMENT SALES",
         "profileUrl": " ",
@@ -26468,7 +26468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Castro",
+        "name": "",
         "image": "14435.png",
         "area": "MONITOREO 2",
         "profileUrl": " ",
@@ -26484,7 +26484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carolina Daniela Bustos",
+        "name": "",
         "image": "12281.png",
         "area": "ACCOUNTS PAYABLE",
         "profileUrl": " ",
@@ -26500,7 +26500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Bruno",
+        "name": "",
         "image": "12285.png",
         "area": "ACQUISITION & LOYALTY",
         "profileUrl": " ",
@@ -26516,7 +26516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanesa Macias",
+        "name": "",
         "image": "12291.png",
         "area": "RESOLUCION DE FRAUDES",
         "profileUrl": " ",
@@ -26532,7 +26532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ailin Mazur",
+        "name": "",
         "image": "12295.png",
         "area": "CUSTOMER SERVICE PROJECTS",
         "profileUrl": " ",
@@ -26548,7 +26548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Belen Marvulli",
+        "name": "",
         "image": "12297.png",
         "area": "STRATEGY & PERFORMANCE",
         "profileUrl": " ",
@@ -26564,7 +26564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marisa Natalia Ottavi",
+        "name": "",
         "image": "12323.png",
         "area": "OPERATION & IT MERCHANTS",
         "profileUrl": " ",
@@ -26580,7 +26580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Noni",
+        "name": "",
         "image": "12386.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -26596,7 +26596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Santiago Daniel Segura",
+        "name": "",
         "image": "12388.png",
         "area": "PARAMETR�A",
         "profileUrl": " ",
@@ -26612,7 +26612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Florencia Lerario",
+        "name": "",
         "image": "12391.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -26628,7 +26628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agostina Balsamo",
+        "name": "",
         "image": "12417.png",
         "area": "ISSUER BUSINESS DEVELOPMENT",
         "profileUrl": " ",
@@ -26644,7 +26644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Noelia Duarte",
+        "name": "",
         "image": "12439.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -26660,7 +26660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Angeles Andrea Gutierrez",
+        "name": "",
         "image": "11990.png",
         "area": "SERVICIOS ADQUIRENCIA",
         "profileUrl": " ",
@@ -26676,7 +26676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Susana Peralta",
+        "name": "",
         "image": "11997.png",
         "area": "QUALITY & TRAINING",
         "profileUrl": " ",
@@ -26692,7 +26692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristian Damian Villalba",
+        "name": "",
         "image": "12001.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -26708,7 +26708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Gustavo Quijano",
+        "name": "",
         "image": "12002.png",
         "area": "ACQUIRING - EXPERTOS",
         "profileUrl": " ",
@@ -26724,7 +26724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nadia Barrios",
+        "name": "",
         "image": "12009.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -26740,7 +26740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Fernanda Diaz",
+        "name": "",
         "image": "12011.png",
         "area": "STRATEGY RISK ACQUIRING",
         "profileUrl": " ",
@@ -26756,7 +26756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Gonzalez",
+        "name": "",
         "image": "12013.png",
         "area": "PMC OPERATIONS - TEAM 2",
         "profileUrl": " ",
@@ -26772,7 +26772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Ortiz",
+        "name": "",
         "image": "12017.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -26788,7 +26788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Brenda Paola Camerman",
+        "name": "",
         "image": "12029.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -26804,7 +26804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvina Valeria Dickhuth",
+        "name": "",
         "image": "11076.png",
         "area": "PROCESOS DE COMERCIOS 1",
         "profileUrl": " ",
@@ -26820,7 +26820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Cecilia Verteramo",
+        "name": "",
         "image": "11098.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -26836,7 +26836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Leonardo Dominguez",
+        "name": "",
         "image": "11105.png",
         "area": "PROCESOS DE COMERCIOS 3",
         "profileUrl": " ",
@@ -26852,7 +26852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Nolasco",
+        "name": "",
         "image": "11106.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -26868,7 +26868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricia Vanina Crozio",
+        "name": "",
         "image": "11109.png",
         "area": "CENTRO DE ANALISIS RIESGO GRUPO I",
         "profileUrl": " ",
@@ -26884,7 +26884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rocco Luis",
+        "name": "",
         "image": "11111.png",
         "area": "CONTROL DE STOCK",
         "profileUrl": " ",
@@ -26900,7 +26900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Agustin Martinez",
+        "name": "",
         "image": "11117.png",
         "area": "BACK OFFICE ADQUIRENTE",
         "profileUrl": " ",
@@ -26916,7 +26916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "David Barrionuevo",
+        "name": "",
         "image": "11118.png",
         "area": "FACILITIES",
         "profileUrl": " ",
@@ -26932,7 +26932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Fabiola Barreto",
+        "name": "",
         "image": "11135.png",
         "area": "CAPACITACI�N Y CALIDAD",
         "profileUrl": " ",
@@ -26948,7 +26948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Viviana Flores",
+        "name": "",
         "image": "11140.png",
         "area": "PARAMETR�A",
         "profileUrl": " ",
@@ -26964,7 +26964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcos Sanchez",
+        "name": "",
         "image": "15146.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -26980,7 +26980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauro Iannello",
+        "name": "",
         "image": "15147.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -26996,7 +26996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Vazquez",
+        "name": "",
         "image": "15148.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -27012,7 +27012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ximena Aguiar",
+        "name": "",
         "image": "15149.png",
         "area": "BACK OFFICE CUSTOMER",
         "profileUrl": " ",
@@ -27028,7 +27028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Diaz",
+        "name": "",
         "image": "15150.png",
         "area": "USUARIOS A",
         "profileUrl": " ",
@@ -27044,7 +27044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lorena Gonzalez",
+        "name": "",
         "image": "15151.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -27060,7 +27060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Laballos",
+        "name": "",
         "image": "15152.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -27076,7 +27076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Soste",
+        "name": "",
         "image": "15153.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -27092,7 +27092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Enris Torrealba",
+        "name": "",
         "image": "15154.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -27108,7 +27108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Delfina Caprarulo",
+        "name": "",
         "image": "15155.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -27124,7 +27124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rocio Zubizarreta",
+        "name": "",
         "image": "15156.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -27140,7 +27140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alexandra Lovera",
+        "name": "",
         "image": "15157.png",
         "area": "CONTROVERSIAS INTERNACIONALES",
         "profileUrl": " ",
@@ -27156,7 +27156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ana Carraresi",
+        "name": "",
         "image": "15585.png",
         "area": "IT PAYWAY",
         "profileUrl": " ",
@@ -27172,7 +27172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Tomas Ottolenghi Viterbi",
+        "name": "",
         "image": "15586.png",
         "area": "UX STRATEGY",
         "profileUrl": " ",
@@ -27188,7 +27188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alex Gabriel Zapata Flores",
+        "name": "",
         "image": "15587.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -27204,7 +27204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodolfo Fernando Juarez",
+        "name": "",
         "image": "15589.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -27220,7 +27220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Damian Escobar",
+        "name": "",
         "image": "15591.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -27236,7 +27236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Raffo",
+        "name": "",
         "image": "15594.png",
         "area": "SOLUTION ARCHITECTURE - IPS",
         "profileUrl": " ",
@@ -27252,7 +27252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Johanna Abadi",
+        "name": "",
         "image": "15596.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -27268,7 +27268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luis Jaimes",
+        "name": "",
         "image": "15597.png",
         "area": "ISSUING - DIGITAL SERVICES",
         "profileUrl": " ",
@@ -27284,7 +27284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Pereira",
+        "name": "",
         "image": "15598.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -27300,7 +27300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lautaro Casale",
+        "name": "",
         "image": "15599.png",
         "area": "SERVICES & GOVERNMENT SALES",
         "profileUrl": " ",
@@ -27316,7 +27316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Gerardo Becerra",
+        "name": "",
         "image": "15600.png",
         "area": "CORPORATE SALES",
         "profileUrl": " ",
@@ -27332,7 +27332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nestor Diego Felizzola",
+        "name": "",
         "image": "10236.png",
         "area": "TESORERIA",
         "profileUrl": " ",
@@ -27348,7 +27348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gabriel Alejandro Parma",
+        "name": "",
         "image": "10237.png",
         "area": "SERVICIOS ADQUIRENCIA",
         "profileUrl": " ",
@@ -27364,7 +27364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nestor Jose Cabrera",
+        "name": "",
         "image": "10256.png",
         "area": "PERSONALIZACI�N DE TARJETAS 3",
         "profileUrl": " ",
@@ -27380,7 +27380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Analia Mabel Galeano",
+        "name": "",
         "image": "10299.png",
         "area": "BACK OFFICE CUSTOMER",
         "profileUrl": " ",
@@ -27396,7 +27396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marina Garcia Lopez",
+        "name": "",
         "image": "10346.png",
         "area": "PARTNERSHIPS",
         "profileUrl": " ",
@@ -27412,7 +27412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Laura Bonato",
+        "name": "",
         "image": "10381.png",
         "area": "PEOPLE CARE",
         "profileUrl": " ",
@@ -27428,7 +27428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ivana Diaz",
+        "name": "",
         "image": "10386.png",
         "area": "SEGMENTS LARGE- MEDIUM",
         "profileUrl": " ",
@@ -27444,7 +27444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Claudia Poco Carapel",
+        "name": "",
         "image": "10403.png",
         "area": "TECHNOLOGY & OPERATIONS",
         "profileUrl": " ",
@@ -27460,7 +27460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adriana Roberta Ruiz",
+        "name": "",
         "image": "10411.png",
         "area": "PERSONALIZACI�N DE TARJETAS 1",
         "profileUrl": " ",
@@ -27476,7 +27476,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gaston Pera",
+        "name": "",
         "image": "10414.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -27492,7 +27492,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Silvia Rosano",
+        "name": "",
         "image": "14019.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -27508,7 +27508,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Giuffrida",
+        "name": "",
         "image": "14022.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -27524,7 +27524,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Eduardo Pisera",
+        "name": "",
         "image": "14025.png",
         "area": "NETWORK OPERATION CENTER",
         "profileUrl": " ",
@@ -27540,7 +27540,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Terziotti",
+        "name": "",
         "image": "14029.png",
         "area": "INSTANT PAYMENTS",
         "profileUrl": " ",
@@ -27556,7 +27556,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Felix Maras",
+        "name": "",
         "image": "14032.png",
         "area": "SERVICIO T�CNICO",
         "profileUrl": " ",
@@ -27572,7 +27572,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariano Fernandez",
+        "name": "",
         "image": "14033.png",
         "area": "MONITOREO 3",
         "profileUrl": " ",
@@ -27588,7 +27588,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Molina",
+        "name": "",
         "image": "14034.png",
         "area": "MONITOREO",
         "profileUrl": " ",
@@ -27604,7 +27604,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Pettis",
+        "name": "",
         "image": "14037.png",
         "area": "AUDITORIA CONTINUA",
         "profileUrl": " ",
@@ -27620,7 +27620,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Roxana Pizzolante",
+        "name": "",
         "image": "14038.png",
         "area": "PAYFACTS & PROCESSING PARTNERS",
         "profileUrl": " ",
@@ -27636,7 +27636,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ver�nica Carral",
+        "name": "",
         "image": "14042.png",
         "area": "NETWORK & DIGITAL PRODUCTS",
         "profileUrl": " ",
@@ -27652,7 +27652,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Mastroianni",
+        "name": "",
         "image": "14043.png",
         "area": "INTEGRATIONS - TEAM II",
         "profileUrl": " ",
@@ -27668,7 +27668,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andres Gaitan",
+        "name": "",
         "image": "15470.png",
         "area": "LARGE ACCOUNT REGIONAL",
         "profileUrl": " ",
@@ -27684,7 +27684,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucila Delgado",
+        "name": "",
         "image": "15472.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -27700,7 +27700,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Gabriel Damico",
+        "name": "",
         "image": "15474.png",
         "area": "CRM CAMPAING SOLUTION",
         "profileUrl": " ",
@@ -27716,7 +27716,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mauro Farias",
+        "name": "",
         "image": "15476.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -27732,7 +27732,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Argenis Gonzalez",
+        "name": "",
         "image": "15479.png",
         "area": "PLATAFORMAS TRANSACCIONALES",
         "profileUrl": " ",
@@ -27748,7 +27748,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gilda Gonzalez",
+        "name": "",
         "image": "15481.png",
         "area": "DIGITAL ISSUING PRODUCT",
         "profileUrl": " ",
@@ -27764,7 +27764,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Culici",
+        "name": "",
         "image": "15482.png",
         "area": "BIG DATA",
         "profileUrl": " ",
@@ -27780,7 +27780,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nazarena Rodriguez",
+        "name": "",
         "image": "15486.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -27796,7 +27796,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Cordoba",
+        "name": "",
         "image": "15487.png",
         "area": "VENTAS COMERCIOS",
         "profileUrl": " ",
@@ -27812,7 +27812,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Horacio Pablo",
+        "name": "",
         "image": "15492.png",
         "area": "BUSINESS SERVICES INFORMATION",
         "profileUrl": " ",
@@ -27828,7 +27828,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alberto Fuentes",
+        "name": "",
         "image": "15493.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -27844,7 +27844,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alfonso Eyraud",
+        "name": "",
         "image": "15392.png",
         "area": "IT PAGOMISCUENTAS - TEAM 2",
         "profileUrl": " ",
@@ -27860,7 +27860,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Emanuel Alejandro Alvarez",
+        "name": "",
         "image": "15397.png",
         "area": "PLANIFICACION",
         "profileUrl": " ",
@@ -27876,7 +27876,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ramiro Sosa",
+        "name": "",
         "image": "15400.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -27892,7 +27892,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Anabella De Battista",
+        "name": "",
         "image": "15401.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -27908,7 +27908,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Kairala",
+        "name": "",
         "image": "15405.png",
         "area": "SEGMENTO",
         "profileUrl": " ",
@@ -27924,7 +27924,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Natalia Soledad Argento",
+        "name": "",
         "image": "15408.png",
         "area": "ENTERPRISE ARCHITECTURE",
         "profileUrl": " ",
@@ -27940,7 +27940,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandro Chavez",
+        "name": "",
         "image": "15409.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -27956,7 +27956,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Ezequiel Dominguez",
+        "name": "",
         "image": "15413.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -27972,7 +27972,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Guzman",
+        "name": "",
         "image": "15414.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -27988,7 +27988,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ayelen Magnere",
+        "name": "",
         "image": "15418.png",
         "area": "TAX",
         "profileUrl": " ",
@@ -28004,7 +28004,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vicente Sebastian Carnino",
+        "name": "",
         "image": "15420.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -28020,7 +28020,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Zoratti",
+        "name": "",
         "image": "15421.png",
         "area": "TRANSFORMATION & GOVERNANCE",
         "profileUrl": " ",
@@ -28036,7 +28036,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Patricio Nunez",
+        "name": "",
         "image": "15424.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 5",
         "profileUrl": " ",
@@ -28052,7 +28052,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Vazquez",
+        "name": "",
         "image": "15425.png",
         "area": "IT INSTANT PAYMENTS TEAM 2",
         "profileUrl": " ",
@@ -28068,7 +28068,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gustavo Pittelli",
+        "name": "",
         "image": "15429.png",
         "area": "INTERNACIONAL COMMERCIAL",
         "profileUrl": " ",
@@ -28084,7 +28084,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Karen Llull",
+        "name": "",
         "image": "15436.png",
         "area": "ISSUING VAS",
         "profileUrl": " ",
@@ -28100,7 +28100,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ruben Luis Hernandez",
+        "name": "",
         "image": "15437.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -28116,7 +28116,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Block",
+        "name": "",
         "image": "15439.png",
         "area": "DATA ENGINEERING",
         "profileUrl": " ",
@@ -28132,7 +28132,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jaqueline Vega",
+        "name": "",
         "image": "15442.png",
         "area": "HR BUSINESS PARTNER",
         "profileUrl": " ",
@@ -28148,7 +28148,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Sebastian Lucente",
+        "name": "",
         "image": "15940.png",
         "area": "DEVELOPMENT PLATFORM - ORBITA IDP",
         "profileUrl": " ",
@@ -28164,7 +28164,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Carlos Villalba",
+        "name": "",
         "image": "15941.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -28180,7 +28180,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Micaela Espelet",
+        "name": "",
         "image": "15942.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -28196,7 +28196,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Raffi Calvi",
+        "name": "",
         "image": "15943.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -28212,7 +28212,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Raul Corro Oliveros",
+        "name": "",
         "image": "15944.png",
         "area": "INFORMATION SECURITY",
         "profileUrl": " ",
@@ -28228,7 +28228,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Nahuel Nimo",
+        "name": "",
         "image": "15945.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -28244,7 +28244,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Noelia Vanesa Davies",
+        "name": "",
         "image": "15946.png",
         "area": "PERFORMANCE & BENEFITS",
         "profileUrl": " ",
@@ -28260,7 +28260,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Gonzalez",
+        "name": "",
         "image": "15947.png",
         "area": "MARKETING",
         "profileUrl": " ",
@@ -28276,7 +28276,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Viviana Gomez",
+        "name": "",
         "image": "15948.png",
         "area": "NEWPAY OPERATIONS",
         "profileUrl": " ",
@@ -28292,7 +28292,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Manuel Martinez Marques",
+        "name": "",
         "image": "15949.png",
         "area": "OPERATIONS PPI & CLIENT SUPPORT",
         "profileUrl": " ",
@@ -28308,7 +28308,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sofia Aylen Gonzalez",
+        "name": "",
         "image": "15950.png",
         "area": "LITIGATION",
         "profileUrl": " ",
@@ -28324,7 +28324,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Andrea Mariela Arguello",
+        "name": "",
         "image": "15951.png",
         "area": "FRAUD ANALYSIS",
         "profileUrl": " ",
@@ -28340,7 +28340,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Pia Barragan",
+        "name": "",
         "image": "15952.png",
         "area": "TRANSFORMATION & GOVERNANCE",
         "profileUrl": " ",
@@ -28356,7 +28356,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agostina Lucido Balestriere",
+        "name": "",
         "image": "15954.png",
         "area": "PLANNING & COMMERCIAL STRATEGY",
         "profileUrl": " ",
@@ -28372,7 +28372,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Diaz Maissonave",
+        "name": "",
         "image": "15988.png",
         "area": "SERVICIOS TI",
         "profileUrl": " ",
@@ -28388,7 +28388,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniela Agustina Caballero",
+        "name": "",
         "image": "15989.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -28404,7 +28404,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Perilli",
+        "name": "",
         "image": "15990.png",
         "area": "SOPORTE OPERATIVO BANCOS",
         "profileUrl": " ",
@@ -28420,7 +28420,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Melanie Ailin Verde",
+        "name": "",
         "image": "15991.png",
         "area": "DIGITAL DELIVERY",
         "profileUrl": " ",
@@ -28436,7 +28436,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marco Eduardo Calle Mamani",
+        "name": "",
         "image": "15992.png",
         "area": "TECNOLOGIAS PAYWAY",
         "profileUrl": " ",
@@ -28452,7 +28452,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariela Ivonne Passarelli Galeano",
+        "name": "",
         "image": "15995.png",
         "area": "OPERATION & IT MERCHANTS",
         "profileUrl": " ",
@@ -28468,7 +28468,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Juares",
+        "name": "",
         "image": "15996.png",
         "area": "IT ISSUING QA CORE TECH",
         "profileUrl": " ",
@@ -28484,7 +28484,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maria Jose Cueva",
+        "name": "",
         "image": "15997.png",
         "area": "CENTRO - MESA Y NEA",
         "profileUrl": " ",
@@ -28500,7 +28500,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Diego Pablo Creixell",
+        "name": "",
         "image": "16131.png",
         "area": "BIG DATA & ARCHITECTURE",
         "profileUrl": " ",
@@ -28516,7 +28516,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Luciana Soledad Patino",
+        "name": "",
         "image": "16133.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 4",
         "profileUrl": " ",
@@ -28532,7 +28532,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fabian Pablo Lopez",
+        "name": "",
         "image": "16134.png",
         "area": "CORE ISSUING",
         "profileUrl": " ",
@@ -28548,7 +28548,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Jessica Banegas",
+        "name": "",
         "image": "16135.png",
         "area": "BRANDS & COMMUNICATION",
         "profileUrl": " ",
@@ -28564,7 +28564,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alejandra Soledad Bramajo",
+        "name": "",
         "image": "16136.png",
         "area": "COMMERCIAL BUSINESS  PARTNER",
         "profileUrl": " ",
@@ -28580,7 +28580,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ramiro Inaebnit",
+        "name": "",
         "image": "16137.png",
         "area": "PROCESS TRANSFORMATION & RPA",
         "profileUrl": " ",
@@ -28596,7 +28596,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ivan Hirsch Fernandez",
+        "name": "",
         "image": "16138.png",
         "area": "ISSUING DEVELOPMENT",
         "profileUrl": " ",
@@ -28612,7 +28612,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mario Rivas",
+        "name": "",
         "image": "16139.png",
         "area": "IT ISSUING",
         "profileUrl": " ",
@@ -28628,7 +28628,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sergio Del Pino",
+        "name": "",
         "image": "16140.png",
         "area": "INTERNAL SALES SMALL",
         "profileUrl": " ",
@@ -28644,7 +28644,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ismael Rene Juarez",
+        "name": "",
         "image": "16143.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -28660,7 +28660,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Yanina Elizabeth Alegre Aballe",
+        "name": "",
         "image": "16144.png",
         "area": "USUARIOS B",
         "profileUrl": " ",
@@ -28676,7 +28676,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Gerardo Leder",
+        "name": "",
         "image": "14906.png",
         "area": "SERVICIO DE POST VENTA Y TEC. APLICADA A LA RED",
         "profileUrl": " ",
@@ -28692,7 +28692,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonel De la rosa",
+        "name": "",
         "image": "14910.png",
         "area": "MONITOREO 4",
         "profileUrl": " ",
@@ -28708,7 +28708,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustin Ezequiel Kousian",
+        "name": "",
         "image": "14911.png",
         "area": "VALUE PROPOSITION",
         "profileUrl": " ",
@@ -28724,7 +28724,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Julian Ballarino",
+        "name": "",
         "image": "14913.png",
         "area": "INSTITUTIONAL RELATIONS",
         "profileUrl": " ",
@@ -28740,7 +28740,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Martin Vassallo",
+        "name": "",
         "image": "14914.png",
         "area": "SERVICES & GOVERNMENT SALES",
         "profileUrl": " ",
@@ -28756,7 +28756,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Mesa",
+        "name": "",
         "image": "14915.png",
         "area": "ISSUING SERVICES",
         "profileUrl": " ",
@@ -28772,7 +28772,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leonardo Vivone",
+        "name": "",
         "image": "14954.png",
         "area": "PERSONALIZACI�N DE TARJETAS 2",
         "profileUrl": " ",
@@ -28788,7 +28788,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Agustina Fiestas",
+        "name": "",
         "image": "14955.png",
         "area": "DESARROLLO COMERCIAL B",
         "profileUrl": " ",
@@ -28804,7 +28804,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Alonso",
+        "name": "",
         "image": "14957.png",
         "area": "DEBIT CARD SERVICES",
         "profileUrl": " ",
@@ -28820,7 +28820,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Baltazar",
+        "name": "",
         "image": "14958.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -28836,7 +28836,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Sebastian Bentancour",
+        "name": "",
         "image": "14960.png",
         "area": "IT ISSUING PROCESSING - TEAM 1",
         "profileUrl": " ",
@@ -28852,7 +28852,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Adrian Falconi",
+        "name": "",
         "image": "14961.png",
         "area": "IT MERCHANT",
         "profileUrl": " ",
@@ -28868,7 +28868,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Romina Vanotti",
+        "name": "",
         "image": "14962.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -28884,7 +28884,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ulises Ferreyra",
+        "name": "",
         "image": "14963.png",
         "area": "IT ISSUING PROCESSING - TEAM 3",
         "profileUrl": " ",
@@ -28900,7 +28900,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Cristian Bertucci",
+        "name": "",
         "image": "14964.png",
         "area": "IT ACQUIRING - TEAM 5",
         "profileUrl": " ",
@@ -28916,7 +28916,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Leandro Nahuel Munoz",
+        "name": "",
         "image": "14965.png",
         "area": "CUSTOMER SERVICE CONTACT CENTER",
         "profileUrl": " ",
@@ -28932,7 +28932,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Francisco Peysere",
+        "name": "",
         "image": "14966.png",
         "area": "FINANCIAL SERVICES",
         "profileUrl": " ",
@@ -28948,7 +28948,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Gomez",
+        "name": "",
         "image": "14973.png",
         "area": "PROCESOS DE COMERCIOS 2",
         "profileUrl": " ",
@@ -28964,7 +28964,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Stefano Berro",
+        "name": "",
         "image": "14974.png",
         "area": "TECNOLOGIAS PAYWAY",
         "profileUrl": " ",
@@ -28980,7 +28980,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Shaireth Dayana Mera Munoz",
+        "name": "",
         "image": "16012.png",
         "area": "ACCOUNTING & BALANCE",
         "profileUrl": " ",
@@ -28996,7 +28996,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo David Martinez",
+        "name": "",
         "image": "16013.png",
         "area": "IFRS",
         "profileUrl": " ",
@@ -29012,7 +29012,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paola Irene Berlingo",
+        "name": "",
         "image": "16014.png",
         "area": "ACCOUNTING",
         "profileUrl": " ",
@@ -29028,7 +29028,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Vanina Ogueta",
+        "name": "",
         "image": "16015.png",
         "area": "UX PRODUCT DESIGN MS",
         "profileUrl": " ",
@@ -29044,7 +29044,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Carlos Eduardo Bujanda Gonzalez",
+        "name": "",
         "image": "16016.png",
         "area": "DATA GOVERNANCE & ANALYTICAL COMUNITY",
         "profileUrl": " ",
@@ -29060,7 +29060,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcelo Gabriel Villegas",
+        "name": "",
         "image": "16017.png",
         "area": "RISK ISSUER",
         "profileUrl": " ",
@@ -29076,7 +29076,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Paula Bianco",
+        "name": "",
         "image": "16018.png",
         "area": "COMPLIANCE",
         "profileUrl": " ",
@@ -29092,7 +29092,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Alan Alfredo Rodriguez",
+        "name": "",
         "image": "16019.png",
         "area": "TRANSACTIONAL WEB SERVICES",
         "profileUrl": " ",
@@ -29108,7 +29108,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Daniel Tesolin",
+        "name": "",
         "image": "16021.png",
         "area": "IT PPI",
         "profileUrl": " ",
@@ -29124,7 +29124,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Dallegro",
+        "name": "",
         "image": "16023.png",
         "area": "OPERATIONAL DATA TEAM",
         "profileUrl": " ",
@@ -29140,7 +29140,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Veronica Berenice Buono Carozza",
+        "name": "",
         "image": "16024.png",
         "area": "SERVICES & GOVERNMENT SALES",
         "profileUrl": " ",
@@ -29156,7 +29156,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Mariana Medina",
+        "name": "",
         "image": "15790.png",
         "area": "IT DEBITO AUTOMATICO",
         "profileUrl": " ",
@@ -29172,7 +29172,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Damarys Yasenia Parra Mendoza",
+        "name": "",
         "image": "15791.png",
         "area": "IT PAGOMISCUENTAS - TEAM 1",
         "profileUrl": " ",
@@ -29188,7 +29188,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Maximiliano Alejandro Galuya",
+        "name": "",
         "image": "15792.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -29204,7 +29204,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Geraldine Alvarez",
+        "name": "",
         "image": "15797.png",
         "area": "BILLING MPS",
         "profileUrl": " ",
@@ -29220,7 +29220,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Nicolas Marcelo Pedredo",
+        "name": "",
         "image": "15799.png",
         "area": "SECURITY PRODUCTS",
         "profileUrl": " ",
@@ -29236,7 +29236,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Soledad Bruhn",
+        "name": "",
         "image": "15800.png",
         "area": "PLANNING SEGMENTS SMALL",
         "profileUrl": " ",
@@ -29252,7 +29252,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Brian Rutherford",
+        "name": "",
         "image": "15801.png",
         "area": "IT ISSUING PROCESSING - TEAM 8",
         "profileUrl": " ",
@@ -29268,7 +29268,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ezequiel Alganaraz",
+        "name": "",
         "image": "15802.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
@@ -29284,7 +29284,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Lucas Romero",
+        "name": "",
         "image": "15803.png",
         "area": "IT DEVELOPMENT",
         "profileUrl": " ",
@@ -29300,7 +29300,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Federico Agustin Diaz",
+        "name": "",
         "image": "15804.png",
         "area": "IT BANELCO SOLUTIONS - TEAM 2",
         "profileUrl": " ",
@@ -29316,7 +29316,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Javier Fernando Rey",
+        "name": "",
         "image": "16249.png",
         "area": "EXTERNAL SALES",
         "profileUrl": " ",
@@ -29332,7 +29332,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Windismar Blanco",
+        "name": "",
         "image": "16250.png",
         "area": "ENGINEERING NETWORK",
         "profileUrl": " ",
@@ -29348,7 +29348,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Marcos Hernan Jaimovich",
+        "name": "",
         "image": "16251.png",
         "area": "BUSINESS SECURITY",
         "profileUrl": " ",
@@ -29364,7 +29364,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Ariel Ruben Padin",
+        "name": "",
         "image": "16252.png",
         "area": "COMMERCIAL PLANNING PMC",
         "profileUrl": " ",
@@ -29380,7 +29380,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Pablo Capilla",
+        "name": "",
         "image": "16253.png",
         "area": "SEGMENTO",
         "profileUrl": " ",
@@ -29396,7 +29396,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Fernando Hiroshi Kamada",
+        "name": "",
         "image": "16254.png",
         "area": "PLANNING & COMMERCIAL STRATEGY",
         "profileUrl": " ",
@@ -29412,7 +29412,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Juan Pablo Cazzasa Lefevre",
+        "name": "",
         "image": "16256.png",
         "area": "IT IN STORE PAYMENTS SOLUTIONS - TEAM 1",
         "profileUrl": " ",
@@ -29428,7 +29428,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Rodrigo Esteban Giuliani",
+        "name": "",
         "image": "16258.png",
         "area": "BI FOR ISSUER PAYMENT SOLUTIONS",
         "profileUrl": " ",
@@ -29444,7 +29444,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Matias Ezequiel Canovas",
+        "name": "",
         "image": "16259.png",
         "area": "ANALYTICS TRANSLATOR & DATA SCIENCE",
         "profileUrl": " ",
@@ -29460,7 +29460,7 @@ var arrayCompleto =
         "ultAct": "2024-04-06 00:00:00"
     },
     {
-        "name": "Bartolome Albarracin Guareschi",
+        "name": "",
         "image": "16260.png",
         "area": "IT ONLINE",
         "profileUrl": " ",
