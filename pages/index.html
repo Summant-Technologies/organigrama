@@ -347,7 +347,11 @@
             // console.log(activeUser)
 
             for (let i = 0; i < arrayMenu.length; i++) {
+                if (arrayMenu[i].id == "EXO") {
+                    arrayMenu[i].nombre = "Gerencia general"
+                } else {
                 arrayMenu[i].nombre = generarAreaWuRandom()
+                }
             }
 
             let wuJSON = arrayMenu;
@@ -496,7 +500,7 @@
                    <div style="color:#1723FF;font-family:'Poppins';font-size:14px;font-weight:600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.name}
                          </div>
                    
-                   <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${generarPosicionEmpleadoRandom()
+                   <div style="color:#404040;font-family:'Poppins';font-weight:400;font-size:11px;margin-top:4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis !important;"> ${d.data.id == "14923" ? "Director general" : generarPosicionEmpleadoRandom()
                         } </div>
                    <div style="margin-top: 5px;display:flex; justify-content: center;
     align-content: center;
