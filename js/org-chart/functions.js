@@ -367,7 +367,10 @@ function ocultarMenu() {
   var menuElement = document.getElementById("left-menu");
   let btnShowMenu = document.getElementsByClassName('btn-show-menu')[0]
   let rightContainer = document.getElementById('right-container')
+  let svgChart = document.querySelector(".svg-chart-container")
 
+
+  svgChart.style.marginLeft = 0
   rightContainer.classList.remove("col-md-8", "col-lg-8");
   rightContainer.classList.add("col-md-12", "col-lg-12");
   let agrupador = document.getElementById('agrupador')
@@ -387,6 +390,7 @@ function mostrarMenu() {
   agrupador.style.left = "50%";
   rightContainer.classList.remove("col-md-12", "col-lg-12");
   rightContainer.classList.add("col-md-8", "col-lg-8");
+
   
 
   menuElement.style.display = "block";
