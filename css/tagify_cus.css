@@ -1,6 +1,6 @@
 .tag-cus{
-    --tag-bg                  : #001145;
-    --tag-hover               : #E70B77;
+    --tag-bg                  : #1723FF;
+    --tag-hover               : #30E35E;
     --tag-text-color          : #FFFFFF;
     --tags-border-color       : #001145;
     --tag-border-radius       : 30px;
@@ -46,7 +46,7 @@
 .add-tag{
     width: 25px;
     height: 25px;
-    background-color: #E70B77;
+    background-color: #30E35E;
     color: white;
     font-size: 19px;
     font-family: 'Poppins Regular';
