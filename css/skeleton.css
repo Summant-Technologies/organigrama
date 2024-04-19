@@ -29,6 +29,10 @@
 
 /* ############# BASE ################### */
 
+body {
+    background-color: #D9D9D9;
+}
+
 
 button:target {
     outline: none;
