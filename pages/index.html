@@ -386,6 +386,15 @@
             //details: es una lista desplegable de elementos.
             //summary: indica un título de una lista details.
 
+            function resetearColorMenu() {
+                //limpia los bordes de los menus
+                const menuSummarys = document.querySelectorAll("summary")
+
+                menuSummarys.forEach(summary => {
+                    summary.classList.remove("border-active")
+                })
+            }
+
 
             function buildMenu(node, parentElement) {
 
@@ -400,6 +409,9 @@
                     a.href = "javascript:return false;"
                     a.onclick = function (event) { // tuve que aplicar esto para que no se ejecute el onclick cuando inicia (IMPORTANTE)
                         event.preventDefault();
+                        console.log(event.target.parentNode)
+                        resetearColorMenu()
+                        event.target.parentNode.classList.add("border-active")
                         generarChartxWu(node.id, node.nombre, node.desc, node.responsable); // Esta funcion se encuentra en js/orgChart/functions.js, esta hecho asi debido a que es la pagina principal del proyecto
 
                     };
@@ -982,7 +994,7 @@
                 </div>
                 <div class="col-8 mt-3 perfil-info">
                     <h2 class="h2-name mb-1 mt-1">${empleadoActual.name}</h2>
-                    <p class="p-puesto mb-1 mt-1">${generarPosicionEmpleadoRandom()} · ${generarIdAreaRandom()} </p>
+                    <p class="p-puesto mb-1 mt-1">${generarPosicionEmpleadoRandom()} · ${empleadoActual.idWu} </p>
                     <div class="horario-container text-lowercase">
                       <!-- <button class="btn-disponible">DISPONIBLE</button> |-->   lunes a viernes 09:00 a 18:00
                     </div>
@@ -1036,7 +1048,7 @@
                                 <h6 class="m-0 h6-title">EQUIPO</h6>
 
                             </div>
-                            <p class="content-info mt-1" >${generarAreaWuRandom()}</p>
+                            <p class="content-info mt-1" >${empleadoActual.area}</p>
 
                         </div>
 
@@ -1062,7 +1074,7 @@
                                 <h6 class="m-0 h6-title">MIS PALABRAS CLAVES</h6>
                             </div>
                             <div class="d-flex tags-contenedor justify-content-center">
-                                <input placeholder='Inserte aqui sus palabras claves' name="ejemplo" id="grabaTagsInput" autocomplete="off" class="tag-cus  mb-2 ${id != '13896' ? 'ml-0' : 'ml-5'}" ${id != '13896' ? 'disabled' : ''}>  
+                                <input placeholder='Inserte aqui sus palabras claves' name="ejemplo" id="grabaTagsInput" autocomplete="off" ${empleadoActual.palabrasClave === '' ? '' : 'value=\'' + empleadoActual.palabrasClave + '\''} class="tag-cus  mb-2 ${id != '13896' ? 'ml-0' : 'ml-5'}" ${id != '13896' ? 'disabled' : ''}>  
                                 <button onclick="agregarTag()" type="button" class="add-tag ${id != '13896' ? 'd-none' : ''}">+</button>    
                                 <button id="grabaTags" onclick="" type="button" class="btn-editar mt-3 ${id != '13896' ? 'd-none' : ''} "  >Guardar</button>    
                                 
@@ -1357,6 +1369,7 @@
                 position: absolute;
                 width: 100%;
                 height: 1000px;
+                overflow: hidden;
             }
 
             .search-container {
@@ -1372,6 +1385,10 @@
                 pointer-events: all;
                 position: relative;
                 z-index: 100;
+            }
+
+            .border-active {
+                border: 1px solid red;
             }
 
             .nav-tree {
