@@ -125,19 +125,22 @@
                         <div class="search-container ">
                             <div class="search-box">
                                 <i class="fa-solid fa-magnifying-glass"></i>
-                                <input id="inputName" type="text" class="input-search" placeholder="Colaborador"
-                                    oninput="filterChart(event)"></input>
+                                <input id="inputName" type="text" class="input-search"
+                                    placeholder="Colaborador"></input>
                             </div>
                             <div class="search-box">
                                 <i class="fa-solid fa-magnifying-glass"></i>
-                                <input id="inputWu" type="text" class="input-search" placeholder="Unidad de Organigrama"
-                                    oninput="filterChart(event)"></input>
+                                <input id="inputWu" type="text" class="input-search"
+                                    placeholder="Unidad de Organigrama"></input>
                             </div>
                             <div class="search-box">
                                 <i class="fa-solid fa-magnifying-glass"></i>
                                 <input id="inputPalabrasClave" type="text" class="input-search"
-                                    placeholder="Buscar por palabra clave" oninput="filterChart(event)"></input>
+                                    placeholder="Buscar por palabra clave"></input>
                             </div>
+                            <button class="search-btn" onclick="filterChart(event)">
+                                Buscar
+                            </button>
                         </div>
                         <div id="agrupador-desc-wu" class="descripcion-wu d-none">
                             <div id="btn-close-wu" class="btn-close-wu">
@@ -453,7 +456,46 @@
 
         <script>
             function generarNombreAleatorio() {
-                let nombre = ["Adrián", "Agustín", "Alberto", "Alejandro", "Alexander", "Alexis", "Alonso", "Andrés Felipe", "Ángel", "Anthony", "Antonio", "Bautista", "Benicio", "Benjamín", "Carlos", "Carlos Alberto", "Carlos Eduardo", "Carlos Roberto", "César", "Cristóbal", "Daniel", "David", "Diego", "Dylan", "Eduardo", "Emiliano", "Emmanuel", "Enrique", "Erik", "Ernesto", "Ethan", "Fabián", "Facundo", "Felipe", "Félix", "Félix María", "Fernando", "Francisco", "Francisco Javier", "Gabriel", "Gaspar", "Gustavo Adolfo", "Hugo", "Ian", "Iker", "Isaac", "Jacob", "Javier", "Jayden", "Jeremy", "Jerónimo", "Jesús", "Jesús Antonio", "Jesús Víctor", "Joaquín", "Jorge", "Jorge  Alberto", "Jorge Luis", "José", "José Antonio", "José Daniel", "José David", "José Francisco", "José Gregorio", "José Luis", "José Manuel", "José Pablo", "Josué", "Juan", "Juan Ángel", "Juan Carlos", "Juan David", "Juan Esteban", "Juan Ignacio", "Juan José", "Juan Manuel", "Juan Pablo", "Juan Sebastián", "Julio", "Julio Cesar", "Justin", "Kevin", "Lautaro", "Liam", "Lian", "Lorenzo", "Lucas", "Luis", "Luis Alberto", "Luis Emilio", "Luis Fernando", "Manuel", "Manuel Antonio", "Marco Antonio", "Mario", "Martín", "Mateo", "Matías", "Maximiliano", "Maykel", "Miguel", "Miguel  ngel", "Nelson", "Noah", "Oscar", "Pablo", "Pedro", "Rafael", "Ramón", "Raúl", "Ricardo", "Rigoberto", "Roberto", "Rolando", "Samuel", "Samuel David", "Santiago", "Santino", "Santos", "Sebastián", "Thiago", "Thiago Benjamín", "Tomás", "Valentino", "Vicente", "Víctor", "Víctor Hugo"];
+                let nombre = ["Adrián", "Agustín", "Alberto", "Alejandro", "Alexander", "Alexis", "Alonso", "Andrés Felipe", "Ángel", "Anthony", "Antonio", "Bautista", "Benicio", "Benjamín", "Carlos", "Carlos Alberto", "Carlos Eduardo", "Carlos Roberto", "César", "Cristóbal", "Daniel", "David", "Diego", "Dylan", "Eduardo", "Emiliano", "Emmanuel", "Enrique", "Erik", "Ernesto", "Ethan", "Fabián", "Facundo", "Felipe", "Félix", "Félix María", "Fernando", "Francisco", "Francisco Javier", "Gabriel", "Gaspar", "Gustavo Adolfo", "Hugo", "Ian", "Iker", "Isaac", "Jacob", "Javier", "Jayden", "Jeremy", "Jerónimo", "Jesús", "Jesús Antonio", "Jesús Víctor", "Joaquín", "Jorge", "Jorge  Alberto", "Jorge Luis", "José", "José Antonio", "José Daniel", "José David", "José Francisco", "José Gregorio", "José Luis", "José Manuel", "José Pablo", "Josué", "Juan", "Juan Ángel", "Juan Carlos", "Juan David", "Juan Esteban", "Juan Ignacio", "Juan José", "Juan Manuel", "Juan Pablo", "Juan Sebastián", "Julio", "Julio Cesar", "Justin", "Kevin", "Lautaro", "Liam", "Lian", "María",
+                    "Ana",
+                    "Carmen",
+                    "Isabel",
+                    "Laura",
+                    "Marta",
+                    "Elena",
+                    "Sara",
+                    "Lucía",
+                    "Sofía",
+                    "Paula",
+                    "Luisa",
+                    "Rosa",
+                    "Beatriz",
+                    "Teresa",
+                    "Adriana",
+                    "Natalia",
+                    "Patricia",
+                    "Eva",
+                    "Clara",
+                    "Alejandra",
+                    "Gabriela",
+                    "Victoria",
+                    "Carolina",
+                    "Daniela",
+                    "Verónica",
+                    "Lorena",
+                    "Jessica",
+                    "Miriam",
+                    "Julia",
+                    "Marina",
+                    "Rocío",
+                    "Diana",
+                    "Alicia",
+                    "Esther",
+                    "Inés",
+                    "Gloria",
+                    "Raquel",
+                    "Cristina",
+                    "Pilar"];
                 let apellido = ["Garcia", "Gonzalez", "Rodriguez", "Fernandez", "Lopez", "Martinez", "Sanchez", "Perez", "Gomez", "Martin", "Jimenez", "Ruiz", "Hernandez", "Diaz", "Moreno", "Alvarez", "Muñoz", "Romero", "Alonso", "Gutierrez", "Navarro", "Torres", "Dominguez",
                     "Vazquez", "Ramos", "Gil", "Ramirez", "Serrano", "Blanco", "Suarez", "Molina", "Morales", "Ortega", "Delgado", "Castro", "Ortiz", "Rubio", "Marin", "Sanz", "Nuñez", "Iglesias", "Medina", "Garrido", "Santos", "Castillo", "Cortes", "Lozano", "Guerrero", "Cano", "Prieto", "Mendez", "Calvo", "Cruz", "Gallego", "Vidal", "Leon", "Herrera", "Marquez", "Peña", "Cabrera", "Flores", "Campos", "Vega", "Diez", "Fuentes", "Carrasco", "Caballero", "Nieto", "Reyes", "Aguilar", "Pascual", "Herrero", "Santana", "Lorenzo", "Hidalgo", "Montero", "Ibañez", "Gimenez", "Ferrer", "Duran", "Vicente", "Benitez", "Mora", "Santiago", "Arias", "Vargas", "Carmona", "Crespo", "Roman", "Pastor", "Soto", "Saez", "Velasco", "Soler", "Moya", "Esteban", "Parra", "Bravo", "Gallardo", "Rojas", "Pardo", "Merino", "Franco", "Espinosa", "Izquierdo", "Lara", "Rivas", "Silva", "Rivera", "Casado", "Arroyo", "Redondo", "Camacho", "Rey", "Vera", "Otero", "Luque", "Galan", "Montes", "Rios", "Sierra", "Segura", "Carrillo", "Marcos", "Marti", "Soriano", "Mendoza"];
                 let nombreRandom = Math.floor(Math.random() * nombre.length);
@@ -462,10 +504,57 @@
 
             }
 
-            // traer el archivo json y asociarlo a la variable txtOrg. Fijarse si lo necesita en formato string o json
-            for (let i = 0; i < arrayCompleto.length; i++) {
-                arrayCompleto[i].name = generarNombreAleatorio();
+            function generarFotosEmpleados(id) {
+                const fotosAleatorias = ["foto_empleado.png", "foto_empleado2.webp", "foto_empleado3.webp", "foto_empleado4.webp", "foto_empleado5.webp", "foto_empleado6.webp", "foto_empleado7.webp", "foto_empleado8.webp", "foto_empleado9.webp", "foto_empleado10.webp", "foto_empleado11.webp"]
+                let fotoRandom = Math.floor(Math.random() * fotosAleatorias.length);
+
+                let fotoDePerfil;
+
+                switch(id) {
+                    case '14923':
+                        fotoDePerfil = fotosAleatorias[0];
+                        break;
+                    case '16090':
+                        fotoDePerfil = fotosAleatorias[1];
+                        break;
+                    case '11749':
+                        fotoDePerfil = fotosAleatorias[2];
+                        break;
+                    case '16316':
+                        fotoDePerfil = fotosAleatorias[3];
+                        break;
+                    case '11583':
+                        fotoDePerfil = fotosAleatorias[4];
+                        break;
+                    case '10830':
+                        fotoDePerfil = fotosAleatorias[5];
+                        break;
+                    case '15812':
+                        fotoDePerfil = fotosAleatorias[6];
+                        break;
+                    case '15328':
+                        fotoDePerfil = fotosAleatorias[7];
+                        break;
+                    case '16030':
+                        fotoDePerfil = fotosAleatorias[8];
+                        break;
+                    case '12692':
+                        fotoDePerfil = fotosAleatorias[9];
+                        break;
+                    case '15421':
+                        fotoDePerfil = fotosAleatorias[10];
+                        break;
+                    default: 
+                        fotoDePerfil = fotoRandom
+                }
+
+                return fotoDePerfil
             }
+
+            // traer el archivo json y asociarlo a la variable txtOrg. Fijarse si lo necesita en formato string o json
+            // for (let i = 0; i < arrayCompleto.length; i++) {
+            //     arrayCompleto[i].name = generarNombreAleatoria();
+            // }
 
             const idWuUnicos = new Set();
 
@@ -890,7 +979,7 @@
               <div style="height:${d.height - 32
                         }px;padding-top:0px;background-color:white;border-radius:20px; box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);border: ${d.data._highlighted || d.data._upToTheRootHighlighted ? '5px solid var(--secondary_color);"' : '1px solid #E4E2E9"'}'\>
 
-                <img src="../icons/foto_empleado.png" style="margin-top:-30px;margin-left:${d.width / 2 - 30}px;border-radius:100px;width:63px;height:63px;" />
+                <img src="../icons/${generarFotosEmpleados(d.data.id)}" style="margin-top:-30px;margin-left:${d.width / 2 - 30}px;border-radius:100px;width:63px;height:63px;" />
 
                <div style="margin-right:10px;margin-top:15px;float:right">${d.data.id
                         }</div>
@@ -988,7 +1077,7 @@
             <div class="row">
                 <div class="col-3 mt-3 img-container">
                     <div class="img-wrapper">
-                        <img class="img-profile" onerror="this.onerror=null; this.src='../icons/foto_empleado.png'" src="../icons/foto_empleado.png">
+                        <img class="img-profile" onerror="this.onerror=null; this.src='../icons/${generarFotosEmpleados(empleadoActual.id)}'" src="../icons/${generarFotosEmpleados(empleadoActual.id)}">
                         <div class="circle"></div>
                     </div>
                 </div>
@@ -1375,6 +1464,13 @@
             .search-container {
                 position: relative;
                 pointer-events: all;
+            }
+
+            .search-btn {
+                border: none;
+                background-color: #1723FF;
+                color: #fff;
+                border-radius: 10px;
             }
 
             #agrupador {
