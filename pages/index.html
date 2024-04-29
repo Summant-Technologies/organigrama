@@ -505,7 +505,7 @@
             }
 
             function generarFotosEmpleados(id) {
-                const fotosAleatorias = ["foto_empleado.png", "foto_empleado2.webp", "foto_empleado3.webp", "foto_empleado4.webp", "foto_empleado5.webp", "foto_empleado6.webp", "foto_empleado7.webp", "foto_empleado8.webp", "foto_empleado9.webp", "foto_empleado10.webp", "foto_empleado11.webp"]
+                const fotosAleatorias = ["foto_empleado.png", "foto_empleado2.jpg", "foto_empleado3.jpg", "foto_empleado4.jpg", "foto_empleado5.jpg", "foto_empleado6.jpg", "foto_empleado7.jpg", "foto_empleado8.jpg", "foto_empleado9.jpg", "foto_empleado10.jpg", "foto_empleado11.jpg"]
                 let fotoRandom = Math.floor(Math.random() * fotosAleatorias.length);
 
                 let fotoDePerfil;
@@ -533,10 +533,10 @@
                         fotoDePerfil = fotosAleatorias[6];
                         break;
                     case '15328':
-                        fotoDePerfil = fotosAleatorias[7];
+                        fotoDePerfil = fotosAleatorias[8];
                         break;
                     case '16030':
-                        fotoDePerfil = fotosAleatorias[8];
+                        fotoDePerfil = fotosAleatorias[7];
                         break;
                     case '12692':
                         fotoDePerfil = fotosAleatorias[9];
@@ -548,7 +548,7 @@
                         fotoDePerfil = fotoRandom
                 }
 
-                return fotoDePerfil
+                return fotoDePerfil;
             }
 
             // traer el archivo json y asociarlo a la variable txtOrg. Fijarse si lo necesita en formato string o json
