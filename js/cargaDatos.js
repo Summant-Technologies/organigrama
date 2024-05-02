@@ -1,2785 +1,2784 @@
-var arrayMenu = 
-[
+var arrayMenu = [
     {
         "id": "AAC",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16030"
     },
     {
         "id": "ACCMAN",
         "parent": "ACCO",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15071"
     },
     {
         "id": "ACCO",
         "parent": "FIN",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16002"
     },
     {
         "id": "ACQ&GWT",
         "parent": "C-LA",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15563"
     },
     {
         "id": "ACQ&LOY",
         "parent": "C-LA",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15204"
     },
     {
         "id": "ACQ-EXP",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15131"
     },
     {
         "id": "ACQ1",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15131"
     },
     {
         "id": "ACQ2",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12763"
     },
     {
         "id": "ACQ3",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15131"
     },
     {
         "id": "ACQII",
         "parent": "ACQ2",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15585"
     },
     {
         "id": "ACQPREV",
         "parent": "RISK",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16355"
     },
     {
         "id": "ACQSERV",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10132"
     },
     {
         "id": "AGIPS",
         "parent": "DIFA",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16090"
     },
     {
         "id": "AGMPS",
         "parent": "DIFA",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16090"
     },
     {
         "id": "ARCH",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15182"
     },
     {
         "id": "ARCHSOLIPS",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15497"
     },
     {
         "id": "ARCHSOLMPS",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15810"
     },
     {
         "id": "ARQTRA",
         "parent": "TEADA",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14411"
     },
     {
         "id": "ARYSTI",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12739"
     },
     {
         "id": "ATDS",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16259"
     },
     {
         "id": "AUDC",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14037"
     },
     {
         "id": "AUT",
         "parent": "BDS",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13725"
     },
     {
         "id": "BASE1",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14491"
     },
     {
         "id": "BBD",
         "parent": "ISSUERBD",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15606"
     },
     {
         "id": "BCSMPS",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14478"
     },
     {
         "id": "BDS",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11522"
     },
     {
         "id": "BENEF",
         "parent": "PC",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10381"
     },
     {
         "id": "BI",
         "parent": "OLAP",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14496"
     },
     {
         "id": "BIGDAT",
         "parent": "ATDS",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16259"
     },
     {
         "id": "BIIPS",
         "parent": "OLAP",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14496"
     },
     {
         "id": "BILLIPS",
         "parent": "IPF",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16011"
     },
     {
         "id": "BILLMPS",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15797"
     },
     {
         "id": "BIPA",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13869"
     },
     {
         "id": "BIPAYAWAY",
         "parent": "OLAP",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12647"
     },
     {
         "id": "BISO",
         "parent": "CISO",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16251"
     },
     {
         "id": "BOADQ",
         "parent": "ACQSERV",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12666"
     },
     {
         "id": "BOCUS",
         "parent": "CONTR",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13287"
     },
     {
         "id": "BONEWPAY",
         "parent": "COMPOPER1",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13118"
     },
     {
         "id": "BOREDES",
         "parent": "CONTR",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13707"
     },
     {
         "id": "BUSPRO",
         "parent": "PRODPRO",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12583"
     },
     {
         "id": "C-BUSIN",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15099"
     },
     {
         "id": "C-COS",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15623"
     },
     {
         "id": "C-DESCOMB",
         "parent": "SMSA",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13969"
     },
     {
         "id": "C-IP",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14029"
     },
     {
         "id": "C-LA",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12113"
     },
     {
         "id": "C-LAR",
         "parent": "CUEINTER",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14283"
     },
     {
         "id": "C-PARTNER",
         "parent": "SDLM",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14570"
     },
     {
         "id": "C-SMES",
         "parent": "SSM",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15344"
     },
     {
         "id": "C-TYP",
         "parent": "PURC",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15638"
     },
     {
         "id": "CAC",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16026"
     },
     {
         "id": "CACABA",
         "parent": "PLAGECLIEN",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14981"
     },
     {
         "id": "CAEL",
         "parent": "RISKISSUER",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13552"
     },
     {
         "id": "CAGC",
         "parent": "RESA",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10698"
     },
     {
         "id": "CANYAT",
         "parent": "MESE",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14249"
     },
     {
         "id": "CAPCAGE",
         "parent": "OPEEXTE",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11796"
     },
     {
         "id": "CAREC",
         "parent": "COMISS",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "60002"
     },
     {
         "id": "CARI",
         "parent": "RISK",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12596"
     },
     {
         "id": "CARII",
         "parent": "RISKISSUER",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12663"
     },
     {
         "id": "CARIII",
         "parent": "RISKISSUER",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11797"
     },
     {
         "id": "CARIV",
         "parent": "RISKISSUER",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16017"
     },
     {
         "id": "CEXP",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11448"
     },
     {
         "id": "CH-VEND",
         "parent": "PURC",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15084"
     },
     {
         "id": "CIBER",
         "parent": "CISO",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13810"
     },
     {
         "id": "CICVID",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12608"
     },
     {
         "id": "CINTOT",
         "parent": "CPROC",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14025"
     },
     {
         "id": "CISO",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15382"
     },
     {
         "id": "CISS",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12081"
     },
     {
         "id": "CLOSEC",
         "parent": "BISO",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15835"
     },
     {
         "id": "COE 4",
         "parent": "CSCOCEN",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12796"
     },
     {
         "id": "COMCORP",
         "parent": "NETTE",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14799"
     },
     {
         "id": "COMDECI",
         "parent": "INTEG",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14784"
     },
     {
         "id": "COMERIN",
         "parent": "IBD",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15356"
     },
     {
         "id": "COMGRAF",
         "parent": "TRADEMKT",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10821"
     },
     {
         "id": "COMINT",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15181"
     },
     {
         "id": "COMISS",
         "parent": "BIPA",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "60002"
     },
     {
         "id": "COMNOR",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11769"
     },
     {
         "id": "COMPER",
         "parent": "WOC",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13896"
     },
     {
         "id": "COMPLA",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12574"
     },
     {
         "id": "COMPLANNSD",
         "parent": "BDS",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13619"
     },
     {
         "id": "COMPLAPMC",
         "parent": "BIPA",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16252"
     },
     {
         "id": "COMPLIANCE",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14731"
     },
     {
         "id": "COMPOPER1",
         "parent": "NWOPS",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13118"
     },
     {
         "id": "COMTRAN",
         "parent": "NETTE",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14814"
     },
     {
         "id": "CONCON",
         "parent": "GCA",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13314"
     },
     {
         "id": "CONCON1",
         "parent": "GESCAU",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13435"
     },
     {
         "id": "CONSTOCK",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11322"
     },
     {
         "id": "CONTINUID",
         "parent": "PROCES",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13268"
     },
     {
         "id": "CONTR",
         "parent": "IPF",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11373"
     },
     {
         "id": "CONTRGEST",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "CONTRINT",
         "parent": "CONTR",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15245"
     },
     {
         "id": "CONTRNAC",
         "parent": "COMPLIANCE",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10656"
     },
     {
         "id": "CONTROLIN",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12029"
     },
     {
         "id": "COO-BP",
         "parent": "OPSRISK",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13768"
     },
     {
         "id": "COPEXTE",
         "parent": "OPEEXTE",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12778"
     },
     {
         "id": "COR2",
         "parent": "NWOPS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13411"
     },
     {
         "id": "CORPD",
         "parent": "FINCORDE",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15384"
     },
     {
         "id": "COS",
         "parent": "OPSRISK",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13631"
     },
     {
         "id": "COSSB",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15712"
     },
     {
         "id": "COTENCIO",
         "parent": "LEG",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11803"
     },
     {
         "id": "CPROC",
         "parent": "PROC",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13315"
     },
     {
         "id": "CRMCS",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12638"
     },
     {
         "id": "CRUFOND",
         "parent": "IPF",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16184"
     },
     {
         "id": "CSCOCEN",
         "parent": "CUSIPS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12796"
     },
     {
         "id": "CSPROJ",
         "parent": "CUSIPS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12295"
     },
     {
         "id": "CSYP",
         "parent": "PURC",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15087"
     },
     {
         "id": "CTO",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16090"
     },
     {
         "id": "CTOP 1",
         "parent": "TELEMKT",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12207"
     },
     {
         "id": "CTOP 3",
         "parent": "TELEMKT",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "CTOP 4",
         "parent": "OPEEXTE",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14233"
     },
     {
         "id": "CTOP 5",
         "parent": "TELEMKT",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "CTOP 6",
         "parent": "TELEMKT",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12796"
     },
     {
         "id": "CTOP 7",
         "parent": "TELEMKT",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "CTP",
         "parent": "EXSA",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15298"
     },
     {
         "id": "CUEINTER",
         "parent": "SDLM",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11587"
     },
     {
         "id": "CUENPAG",
         "parent": "CH-VEND",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15084"
     },
     {
         "id": "CUMPREG",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12505"
     },
     {
         "id": "CUSER",
         "parent": "SALE",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "CUSIPS",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15884"
     },
     {
         "id": "DAMA",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12132"
     },
     {
         "id": "DATAENG",
         "parent": "OLAP",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16225"
     },
     {
         "id": "DEBAU",
         "parent": "ACQSERV",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10132"
     },
     {
         "id": "DESCOM",
         "parent": "SMSA",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14753"
     },
     {
         "id": "DESPLSOFT",
         "parent": "LOGYSTOCK",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15530"
     },
     {
         "id": "DEV",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15413"
     },
     {
         "id": "DEVHR",
         "parent": "TALDEV",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16185"
     },
     {
         "id": "DIFA",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16090"
     },
     {
         "id": "DIGPROD",
         "parent": "OPS",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13860"
     },
     {
         "id": "DIP",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15236"
     },
     {
         "id": "DISP",
         "parent": "CONTR",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11373"
     },
     {
         "id": "DISPONIB",
         "parent": "GESCAU",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13435"
     },
     {
         "id": "DNEM",
         "parent": "NORMATBCO",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14638"
     },
     {
         "id": "EAO",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16090"
     },
     {
         "id": "EMPEXP",
         "parent": "CAC",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16026"
     },
     {
         "id": "EXO",
         "parent": "ROOT",
-        "nombre": "",
+        "nombre": "Gerencia general",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14923"
     },
     {
         "id": "EXSA",
         "parent": "SALE",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16249"
     },
     {
         "id": "F-COYBA",
         "parent": "IFRS&ACC",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12066"
     },
     {
         "id": "F-FACT",
         "parent": "ACCO",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16002"
     },
     {
         "id": "FCP",
         "parent": "RISK",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15018"
     },
     {
         "id": "FIELDSERV",
         "parent": "FILSER2",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16348"
     },
     {
         "id": "FILSER-RUN",
         "parent": "FILSER2",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15466"
     },
     {
         "id": "FILSER2",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16261"
     },
     {
         "id": "FIN",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16316"
     },
     {
         "id": "FINCORDE",
         "parent": "FIN",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15068"
     },
     {
         "id": "FINSERV",
         "parent": "PROSERV",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16287"
     },
     {
         "id": "GCA",
         "parent": "GESCAUTO",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13314"
     },
     {
         "id": "GESCAINCI",
         "parent": "PROC",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13633"
     },
     {
         "id": "GESCAU",
         "parent": "GESCAUTO",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13435"
     },
     {
         "id": "GESCAUTO",
         "parent": "PROCES",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13314"
     },
     {
         "id": "GESDYO",
         "parent": "SMBD",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15605"
     },
     {
         "id": "GESONLI",
         "parent": "PLAGECLIEN",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14499"
     },
     {
         "id": "GESPROY",
         "parent": "ARYSTI",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12739"
     },
     {
         "id": "GESROPT",
         "parent": "CISO",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13787"
     },
     {
         "id": "GESTIINC",
         "parent": "ARYSTI",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12739"
     },
     {
         "id": "GESTPYU",
         "parent": "INFSE",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13577"
     },
     {
         "id": "GRABTARJ",
         "parent": "IPF",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13483"
     },
     {
         "id": "GROWTHMKT",
         "parent": "MARK",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16281"
     },
     {
         "id": "HOMOL",
         "parent": "ITATMTAS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13582"
     },
     {
         "id": "HRBP",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13773"
     },
     {
         "id": "HRBP1",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15043"
     },
     {
         "id": "HRBP2",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14077"
     },
     {
         "id": "HRBP3",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15671"
     },
     {
         "id": "HRBP4",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15442"
     },
     {
         "id": "IBD",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14298"
     },
     {
         "id": "ICDCO",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15492"
     },
     {
         "id": "ICS",
         "parent": "SALE",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15201"
     },
     {
         "id": "IFRS",
         "parent": "IFRS&ACC",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12066"
     },
     {
         "id": "IFRS&ACC",
         "parent": "ACCO",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12066"
     },
     {
         "id": "IIP",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13256"
     },
     {
         "id": "IMPRED",
         "parent": "NETTE",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10841"
     },
     {
         "id": "IMPUES2",
         "parent": "FIN",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14436"
     },
     {
         "id": "INFSE",
         "parent": "CISO",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13609"
     },
     {
         "id": "INGELEC",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13617"
     },
     {
         "id": "INGESERV",
         "parent": "PROCES",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13033"
     },
     {
         "id": "INGPROCES",
         "parent": "OPSRISK",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14752"
     },
     {
         "id": "INSRE",
         "parent": "IRAL",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14913"
     },
     {
         "id": "INT1",
         "parent": "CUEINTER",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15333"
     },
     {
         "id": "INT2",
         "parent": "CUEINTER",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15103"
     },
     {
         "id": "INTCOM",
         "parent": "ATDS",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16259"
     },
     {
         "id": "INTEG",
         "parent": "FILSER2",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15459"
     },
     {
         "id": "INTG-II",
         "parent": "INTEG",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15459"
     },
     {
         "id": "INTSALES",
         "parent": "EXSA",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15086"
     },
     {
         "id": "INYDR",
         "parent": "NETTE",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10841"
     },
     {
         "id": "IPCOMM",
         "parent": "C-IP",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13900"
     },
     {
         "id": "IPF",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16336"
     },
     {
         "id": "IPP",
         "parent": "C-IP",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14180"
     },
     {
         "id": "IPS",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15328"
     },
     {
         "id": "IPSLT",
         "parent": "PROSERV",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "IRAL",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11749"
     },
     {
         "id": "IRP",
         "parent": "RISKISSUER",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16312"
     },
     {
         "id": "ISSBUS",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10723"
     },
     {
         "id": "ISSDEV",
         "parent": "NORMATBCO",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14157"
     },
     {
         "id": "ISSUERBD",
         "parent": "IPS",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12417"
     },
     {
         "id": "ISSVAS",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14234"
     },
     {
         "id": "IT PW II",
         "parent": "ACQ2",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15669"
     },
     {
         "id": "IT-DEV",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15099"
     },
     {
         "id": "IT-INC",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15131"
     },
     {
         "id": "IT-IP8",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12592"
     },
     {
         "id": "IT-LAPOS",
         "parent": "ACQ2",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14928"
     },
     {
         "id": "IT-PWT3",
         "parent": "IT PW II",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15669"
     },
     {
         "id": "ITACQT4",
         "parent": "INTEG",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15459"
     },
     {
         "id": "ITACQT5",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14349"
     },
     {
         "id": "ITACQT7",
         "parent": "ACQ2",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15731"
     },
     {
         "id": "ITACQT8",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15463"
     },
     {
         "id": "ITACQT9",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15131"
     },
     {
         "id": "ITATM&TAS1",
         "parent": "ITATMTAS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13731"
     },
     {
         "id": "ITATM3",
         "parent": "ITATMTAS",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13601"
     },
     {
         "id": "ITATMTAS",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13563"
     },
     {
         "id": "ITBA4",
         "parent": "ITATMTAS",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13563"
     },
     {
         "id": "ITBA5",
         "parent": "ITATMTAS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15865"
     },
     {
         "id": "ITBP1",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13593"
     },
     {
         "id": "ITBP2",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13083"
     },
     {
         "id": "ITBP3",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15877"
     },
     {
         "id": "ITCORP",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12533"
     },
     {
         "id": "ITCUST",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14864"
     },
     {
         "id": "ITDA",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15877"
     },
     {
         "id": "ITHOM",
         "parent": "ITIP4",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14882"
     },
     {
         "id": "ITINSTANT1",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14513"
     },
     {
         "id": "ITINSTANT2",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14022"
     },
     {
         "id": "ITIP",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15662"
     },
     {
         "id": "ITIP1",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12707"
     },
     {
         "id": "ITIP2",
         "parent": "ITATMTAS",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15575"
     },
     {
         "id": "ITIP3",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15662"
     },
     {
         "id": "ITIP4",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14170"
     },
     {
         "id": "ITIP5",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12081"
     },
     {
         "id": "ITIP7",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12589"
     },
     {
         "id": "ITPPI",
         "parent": "PR&ISS",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14666"
     },
     {
         "id": "ITQACORE",
         "parent": "ITIP4",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15143"
     },
     {
         "id": "ITQANTECH",
         "parent": "ITIP4",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15657"
     },
     {
         "id": "ITSS",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13256"
     },
     {
         "id": "ITSTR",
         "parent": "OPSRISK",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13838"
     },
     {
         "id": "J-EMPUB",
         "parent": "ISSUERBD",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11642"
     },
     {
         "id": "JEEMIS",
         "parent": "ISSUERBD",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16181"
     },
     {
         "id": "JPYS",
         "parent": "ACQSERV",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14731"
     },
     {
         "id": "JSERV",
         "parent": "RESA",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14914"
     },
     {
         "id": "LARCORP",
         "parent": "RESA",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12464"
     },
     {
         "id": "LEAR",
         "parent": "TALDEV",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16185"
     },
     {
         "id": "LEG",
         "parent": "IRAL",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15714"
     },
     {
         "id": "LEGCORP",
         "parent": "IRAL",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12134"
     },
     {
         "id": "LOGYSTOCK",
         "parent": "FIELDSERV",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15530"
     },
     {
         "id": "M-IT&OP",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15131"
     },
     {
         "id": "M-MPC",
         "parent": "MARK",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15744"
     },
     {
         "id": "MANCON",
         "parent": "COS",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13631"
     },
     {
         "id": "MANINT",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14323"
     },
     {
         "id": "MARCAS2",
         "parent": "MARK",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16135"
     },
     {
         "id": "MARK",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15947"
     },
     {
         "id": "MDE&STR",
         "parent": "STRA",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12863"
     },
     {
         "id": "MESAL",
         "parent": "SALE",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16029"
     },
     {
         "id": "MESE",
         "parent": "PROSERV",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14249"
     },
     {
         "id": "MESENTRA",
         "parent": "RISKOP",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12245"
     },
     {
         "id": "MESENTRB",
         "parent": "OPBYP",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10856"
     },
     {
         "id": "MONIT",
         "parent": "OPYMO",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11553"
     },
     {
         "id": "MONIT2",
         "parent": "OPYMO",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13315"
     },
     {
         "id": "MONIT3",
         "parent": "OPYMO",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14091"
     },
     {
         "id": "MPS",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15812"
     },
     {
         "id": "MPS Plann",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15812"
     },
     {
         "id": "MULTIA",
         "parent": "STRA",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11583"
     },
     {
         "id": "NETTE",
         "parent": "TEADA",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10841"
     },
     {
         "id": "NORMATBCO",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14341"
     },
     {
         "id": "NUNEGDEC",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16009"
     },
     {
         "id": "NWOPS",
         "parent": "ITSS",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15948"
     },
     {
         "id": "OBRISK",
         "parent": "RISK",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16265"
     },
     {
         "id": "OLAP",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12605"
     },
     {
         "id": "OPBYP",
         "parent": "IPF",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12536"
     },
     {
         "id": "OPDATE",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16131"
     },
     {
         "id": "OPEEXTE",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14233"
     },
     {
         "id": "OPEEXTE2",
         "parent": "CUSIPS",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12796"
     },
     {
         "id": "OPEINTE",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12796"
     },
     {
         "id": "OPERACIN",
         "parent": "CONTROLIN",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12029"
     },
     {
         "id": "OPERCOMER",
         "parent": "M-IT&OP",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10132"
     },
     {
         "id": "OPERDEC",
         "parent": "ITACQT4",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15459"
     },
     {
         "id": "OPINTTELI",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "OPS",
         "parent": "PROSERV",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13860"
     },
     {
         "id": "OPSRISK",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14998"
     },
     {
         "id": "OPYMO",
         "parent": "PROCES",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12497"
     },
     {
         "id": "ORGCOM",
         "parent": "WOC",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13896"
     },
     {
         "id": "P-DES",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11800"
     },
     {
         "id": "PARAME",
         "parent": "OPBYP",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11577"
     },
     {
         "id": "PAY",
         "parent": "PC",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10381"
     },
     {
         "id": "PAYPLAT",
         "parent": "IPSLT",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "PAYPRO",
         "parent": "STRA",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16322"
     },
     {
         "id": "PC",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10381"
     },
     {
         "id": "PCYP",
         "parent": "PLAST",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11791"
     },
     {
         "id": "PEQDIG",
         "parent": "ISSUERBD",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12831"
     },
     {
         "id": "PERS1",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10411"
     },
     {
         "id": "PERS2",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14010"
     },
     {
         "id": "PERS3",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13739"
     },
     {
         "id": "PERS4",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11069"
     },
     {
         "id": "PLACOMSTRA",
         "parent": "SALE",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15344"
     },
     {
         "id": "PLAGECLIEN",
         "parent": "CUSIPS",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13640"
     },
     {
         "id": "PLAN",
         "parent": "SSM",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15800"
     },
     {
         "id": "PLANIF",
         "parent": "CONTRGEST",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15397"
     },
     {
         "id": "PLANYE",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10697"
     },
     {
         "id": "PLAST",
         "parent": "FIN",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15132"
     },
     {
         "id": "PLATAIBM",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15716"
     },
     {
         "id": "PLATRA",
         "parent": "TRATE",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13010"
     },
     {
         "id": "PLAYCON",
         "parent": "FILSER2",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15499"
     },
     {
         "id": "PMT&O",
         "parent": "OPSRISK",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16291"
     },
     {
         "id": "POS",
         "parent": "ACQ2",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14536"
     },
     {
         "id": "POSACQ",
         "parent": "IPSLT",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14911"
     },
     {
         "id": "POSTVYT",
         "parent": "FIELDSERV",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13498"
     },
     {
         "id": "PR&ISS",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16139"
     },
     {
         "id": "PRATM",
         "parent": "BDS",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13690"
     },
     {
         "id": "PRDEC",
         "parent": "OPS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13860"
     },
     {
         "id": "PREM",
         "parent": "PRODPRO",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12583"
     },
     {
         "id": "PREYRRII",
         "parent": "INSRE",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14913"
     },
     {
         "id": "PROC",
         "parent": "PROCES",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13633"
     },
     {
         "id": "PROC2",
         "parent": "PROC",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13633"
     },
     {
         "id": "PROC3",
         "parent": "PROC",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14025"
     },
     {
         "id": "PROCES",
         "parent": "TEADA",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13858"
     },
     {
         "id": "PROCOM1",
         "parent": "OPERCOMER",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11516"
     },
     {
         "id": "PROCOM2",
         "parent": "OPERCOMER",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12657"
     },
     {
         "id": "PROCOM3",
         "parent": "OPERCOMER",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14115"
     },
     {
         "id": "PROCOM4",
         "parent": "OPERCOMER",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14451"
     },
     {
         "id": "PRODPRO",
         "parent": "ISSBUS",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12583"
     },
     {
         "id": "PRODUIN",
         "parent": "IBD",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14685"
     },
     {
         "id": "PROSERV",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "PRPV",
         "parent": "INTEG",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11410"
     },
     {
         "id": "PRYCG",
         "parent": "PLAST",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11063"
     },
     {
         "id": "PSS",
         "parent": "FILSER2",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14798"
     },
     {
         "id": "PURC",
         "parent": "FIN",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16316"
     },
     {
         "id": "QA&TRA",
         "parent": "PLAGECLIEN",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11344"
     },
     {
         "id": "QRIP",
         "parent": "IPSLT",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "R-MIC",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16030"
     },
     {
         "id": "REPBUSI",
         "parent": "PLAST",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12224"
     },
     {
         "id": "REQENTI",
         "parent": "OPBYP",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12536"
     },
     {
         "id": "RESA",
         "parent": "SDLM",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "30023"
     },
     {
         "id": "RESFR",
         "parent": "RIDES",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14122"
     },
     {
         "id": "RIDES",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14011"
     },
     {
         "id": "RIESCRE",
         "parent": "UAF",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11248"
     },
     {
         "id": "RISK",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16265"
     },
     {
         "id": "RISKISSUER",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16017"
     },
     {
         "id": "RISKOP",
         "parent": "OPSRISK",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15886"
     },
     {
         "id": "S-OPE",
         "parent": "SUP",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "S-TEC",
         "parent": "SUP",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "S-VEN",
         "parent": "SUP",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "SALE",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16029"
     },
     {
         "id": "SALYSEG",
         "parent": "MANINT",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14323"
     },
     {
         "id": "SAST",
         "parent": "TEADA",
-        "nombre": "",
+        "nombre": "Comunicación Corporativa",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14490"
     },
     {
         "id": "SD&DEVS",
         "parent": "TEADA",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12674"
     },
     {
         "id": "SDLM",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "30023"
     },
     {
         "id": "SDM",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12674"
     },
     {
         "id": "SEGUIN",
         "parent": "INFSE",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13577"
     },
     {
         "id": "SERADQ",
         "parent": "ACQSERV",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14766"
     },
     {
         "id": "SERVTEC",
         "parent": "GRABTARJ",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13258"
     },
     {
         "id": "SERVTI",
         "parent": "ARYSTI",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12739"
     },
     {
         "id": "SERVYALMAC",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14150"
     },
     {
         "id": "SERWEBCORP",
         "parent": "SAST",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14652"
     },
     {
         "id": "SEWETR",
         "parent": "NETTE",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14814"
     },
     {
         "id": "SMBD",
         "parent": "SSM",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15605"
     },
     {
         "id": "SMSA",
         "parent": "SDLM",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15123"
     },
     {
         "id": "SOCORP",
         "parent": "LEG",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15714"
     },
     {
         "id": "SOLRE",
         "parent": "BIPA",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16253"
     },
     {
         "id": "SOPCOME",
         "parent": "NWOPS",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12118"
     },
     {
         "id": "SOPCOMVIP",
         "parent": "FILSER2",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14075"
     },
     {
         "id": "SOPOPBANC",
         "parent": "SOPOPERBCO",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10905"
     },
     {
         "id": "SOPOPBANCI",
         "parent": "SOPOPERBCO",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12760"
     },
     {
         "id": "SOPOPERBCO",
         "parent": "IPF",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12688"
     },
     {
         "id": "SOPORCLIEN",
         "parent": "CONTROLIN",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12029"
     },
     {
         "id": "SOPORPROD",
         "parent": "PROCES",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13622"
     },
     {
         "id": "SRACQ",
         "parent": "ACQPREV",
-        "nombre": "",
+        "nombre": "Desarrollo de Producto",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12250"
     },
     {
         "id": "SRISS",
         "parent": "IRP",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16312"
     },
     {
         "id": "SSM",
         "parent": "MPS",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11451"
     },
     {
         "id": "STR&GOVER",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Finanzas y Contabilidad",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15421"
     },
     {
         "id": "STR&PERF",
         "parent": "C-LA",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16037"
     },
     {
         "id": "STRA",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11583"
     },
     {
         "id": "SUP",
         "parent": "MESE",
-        "nombre": "",
+        "nombre": "Legal y Cumplimiento",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "40008"
     },
     {
         "id": "SYQU",
         "parent": "C-BUSIN",
-        "nombre": "",
+        "nombre": "Seguridad y Salud Ocupacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15630"
     },
     {
         "id": "T&D",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15464"
     },
     {
         "id": "T-BEPM",
         "parent": "ATDS",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16259"
     },
     {
         "id": "TAC",
         "parent": "EXO",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12692"
     },
     {
         "id": "TALAC",
         "parent": "T&D",
-        "nombre": "",
+        "nombre": "Desarrollo Organizacional",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15464"
     },
     {
         "id": "TALDEV",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16185"
     },
     {
         "id": "TEADA",
         "parent": "EAO",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14411"
     },
     {
         "id": "TECHMON4",
         "parent": "OPYMO",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15188"
     },
     {
         "id": "TECL",
         "parent": "FILSER-RUN",
-        "nombre": "",
+        "nombre": "Relaciones Públicas",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14704"
     },
     {
         "id": "TECSE",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15272"
     },
     {
         "id": "TELEMKT",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16309"
     },
     {
         "id": "TELESALES",
         "parent": "CUSER",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15379"
     },
     {
         "id": "TESORER",
         "parent": "FINCORDE",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10236"
     },
     {
         "id": "TMS",
         "parent": "PAYPLAT",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "12482"
     },
     {
         "id": "TP-DIGFA",
         "parent": "PLAST",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14736"
     },
     {
         "id": "TRADEMKT",
         "parent": "MARK",
-        "nombre": "",
+        "nombre": "Calidad y Control de Procesos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15757"
     },
     {
         "id": "TRASE",
         "parent": "R-MIC",
-        "nombre": "",
+        "nombre": "Administración y Gestión",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10716"
     },
     {
         "id": "TRATE",
         "parent": "TEADA",
-        "nombre": "",
+        "nombre": "Logística y Cadena de Suministro",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "13010"
     },
     {
         "id": "TRWS",
         "parent": "TRATE",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15926"
     },
     {
         "id": "UAF",
         "parent": "TRASE",
-        "nombre": "",
+        "nombre": "Servicio al Cliente",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "11248"
     },
     {
         "id": "USUARIOSA",
         "parent": "OPBYP",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "10666"
     },
     {
         "id": "USUARIOSB",
         "parent": "OPBYP",
-        "nombre": "",
+        "nombre": "Recursos Humanos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14891"
     },
     {
         "id": "UXDESOPS",
         "parent": "UXMANAGER",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15568"
     },
     {
         "id": "UXMANAGER",
         "parent": "PROSERV",
-        "nombre": "",
+        "nombre": "Gestión de Proyectos",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15780"
     },
     {
         "id": "UXPRODIS",
         "parent": "UXMANAGER",
-        "nombre": "",
+        "nombre": "Formación y Desarrollo del Personal",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15779"
     },
     {
         "id": "UXPRODMS",
         "parent": "UXMANAGER",
-        "nombre": "",
+        "nombre": "Tecnología de la Información",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "16015"
     },
     {
         "id": "UXSTRATEGY",
         "parent": "UXMANAGER",
-        "nombre": "",
+        "nombre": "Producción y Operaciones",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "15586"
     },
     {
         "id": "VALUEPROP",
         "parent": "C-LA",
-        "nombre": "",
+        "nombre": "Innovación",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14911"
     },
     {
         "id": "VENC",
         "parent": "EXSA",
-        "nombre": "",
+        "nombre": "Investigación y Desarrollo",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14215"
     },
     {
         "id": "WFPCS",
         "parent": "PLAGECLIEN",
-        "nombre": "",
+        "nombre": "Ventas y Marketing",
         "desc": "La descripción de la unidad aún no se ha cargado.",
         "responsable": "14499"
     },
     {
         "id": "WOC",
         "parent": "TAC",
-        "nombre": "",
+        "nombre": "Medio Ambiente y Sostenibilidad",
         "desc": "Comps",
         "responsable": "13896"
     }
-]
+];
 
 var arrayCompleto = 
 
