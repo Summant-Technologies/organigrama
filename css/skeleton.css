@@ -84,6 +84,7 @@ button:target {
 .chart-menu-p {
     font-family: 'Poppins Regular';
     font-size: 11px;
+    margin-bottom: 0;
 }
 
 .btn-close-menu {
