@@ -177,7 +177,7 @@
                                 <div class="col-6 d-flex button-div-right">
                                     <div class="mr-2 ">
                                         <button style="pointer-events: all;"
-                                            onclick="chart.setHighlighted('13896').render();" class="button-float">
+                                            onclick="buscador()" class="button-float">
                                             <i class="fa-regular fa-location-dot"></i>
                                             <span>Buscarme</span>
                                         </button>
@@ -396,6 +396,22 @@
                 menuSummarys.forEach(summary => {
                     summary.classList.remove("border-active")
                 })
+            }
+
+            function buscador() {
+                // La funcion abre el menu hasta llegar al summary que tiene al empleado actual, le da un borde
+                // rojo y lo muestra resaltado en el organigrama
+                const menuWuEmpleadoActual = document.querySelector("#WOC")
+
+                resetearColorMenu()
+                chart.setHighlighted('13896').render();
+                menuWuEmpleadoActual.classList.add("border-active")
+
+                const padre = menuWuEmpleadoActual.parentNode
+                const abuelo = padre.parentNode
+
+                padre.open = true
+                abuelo.open = true
             }
 
 
@@ -977,7 +993,7 @@
             <div style="padding-top:30px;background-color:none;margin-left:1px;height:${d.height
                         }px;border-radius:10px;overflow:visible">
               <div style="height:${d.height - 32
-                        }px;padding-top:0px;background-color:white;border-radius:20px; box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);border: ${d.data._highlighted || d.data._upToTheRootHighlighted ? '5px solid var(--secondary_color);"' : '1px solid #E4E2E9"'}'\>
+                        }px;padding-top:0px;background-color:white;border-radius:20px; box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);border: ${d.data._highlighted || d.data._upToTheRootHighlighted ? '5px solid #FF0000;"' : '1px solid #E4E2E9"'}'\>
 
                 <img src="../icons/${generarFotosEmpleados(d.data.id)}" style="margin-top:-30px;margin-left:${d.width / 2 - 30}px;border-radius:100px;width:63px;height:63px; object-fit:cover;" />
 
@@ -1484,7 +1500,7 @@
             }
 
             .border-active {
-                border: 1px solid red;
+                border: 1px solid #FF0000;
             }
 
             .nav-tree {
